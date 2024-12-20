@@ -1,0 +1,22 @@
+请帮我做一个背英语单词的app，这款app叫做“小白单词”。
+1.这款单词的基础词汇在assets目录下的"english_words_1_2000.md"文件里面
+2.这款单词应该要实现搜索功能，用户可以搜索本地词库内的单词
+3.这个“english_words_1_2000.md”内的单词是md格式，具体格式如下：
+20.     this     [ðɪs]      det. 这个  
+$\spadesuit$  代替名词  
+
+◆  近处的某人或某物  
+
+e.g.     this book/photo/house  
+
+◆  所有英文教材的第一个句型  
+
+e.g.   Is this your handbag?  
+
+我希望单词以卡片形式展示，有数字+单词+音标+释义+例句，比如上面的单词this最终要展示为：
+20 this     [ðɪs]      det. 这个
+e.g.     this book/photo/house  
+e.g.   Is this your handbag?  
+3.我希望页面整洁且富有创意；不要太大众化，用色你可以大胆一些；
+4.代码生成的同时需要有完善的注释，方便我理解；
+5.请创建这个app，中间过程自己决定即可，完成后提醒我执行flutter run
