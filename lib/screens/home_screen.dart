@@ -11,6 +11,7 @@ class HomeScreen extends HookConsumerWidget {
   Widget build(BuildContext context, WidgetRef ref) {
     final searchController = useTextEditingController();
     final filteredWords = ref.watch(filteredWordsProvider);
+    final scrollController = useScrollController(keepScrollOffset: true);
 
     return Scaffold(
       appBar: AppBar(
@@ -38,9 +39,12 @@ class HomeScreen extends HookConsumerWidget {
           Expanded(
             child: filteredWords.when(
               data: (words) => ListView.builder(
+                controller: scrollController,
+                key: const PageStorageKey('wordsList'),
                 itemCount: words.length,
                 itemBuilder: (context, index) => WordCard(
                   word: words[index],
+                  key: ValueKey('word_${words[index].number}'),
                 ),
               ),
               loading: () => const Center(

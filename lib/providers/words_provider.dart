@@ -10,7 +10,7 @@ class SearchQuery extends _$SearchQuery {
   String build() => '';
 }
 
-@riverpod
+@Riverpod(keepAlive: true)
 class Words extends _$Words {
   @override
   Future<List<Word>> build() async {
@@ -19,12 +19,12 @@ class Words extends _$Words {
 
   void toggleMark(int number) {
     state.whenData((words) {
-      state = AsyncData(words.map((word) {
-        if (word.number == number) {
-          return word.copyWith(isMarked: !word.isMarked);
-        }
-        return word;
-      }).toList());
+      final index = words.indexWhere((word) => word.number == number);
+      if (index != -1) {
+        final newWords = List<Word>.from(words);
+        newWords[index] = newWords[index].copyWith(isMarked: !newWords[index].isMarked);
+        state = AsyncData(newWords);
+      }
     });
   }
 }

@@ -1,6 +1,6 @@
-# 英语高频词精析  
+ 英语高频词精析  
 
-# 主讲老师：郭宁  
+ 主讲老师：郭宁  
 
 1.  the     [ðə]     det.  那个 这个  
 
@@ -23,6 +23,8 @@ e.g.   am/is/are  was/were
 e.g.    Be good.  Be careful.  
 
 $\spadesuit$ 不要刻意翻译！  
+
+3. and [ænd] conj. 和
 
 ◆并列关系  
 
@@ -229,7 +231,7 @@ e.g.    trousers/pants/glasses/…
 
 ◆  21 世纪最热的代词  
 
-# 22.    at     [æt]      prep. 在某处  
+ 22.    at     [æt]      prep. 在某处  
 
 $\spadesuit$  介词 $^+$ 宾语  
 
@@ -1014,7 +1016,7 @@ e.g.    A find sb/sth.
 $\spadesuit$  找出查明  
 
 e.g.    A find out sth.  
-# 95.   here       [hɪə(r)]          adv. 这里  
+ 95.   here       [hɪə(r)]          adv. 这里  
 
 ◆  副词【说3 遍！】  
 
@@ -1602,7 +1604,7 @@ e.g.   your own car/my own life
 ◆  一家子：  
 e.g.  have-own-owner ……  
 
-# 147.   out of …    prep. 向外  
+ 147.   out of …    prep. 向外  
 
 ◆  整体介词  $^+$  名词  
 
@@ -2024,7 +2026,7 @@ e.g.  pencil case/suitcase/briefcase
 $\spadesuit$  例子或案子  
 
 e.g.  in this case  
-# 184.   most      [məʊ st]        det. 大多数  
+ 184.   most      [məʊ st]        det. 大多数  
 
 ◆  限定词 $^+$ 名词  
 
@@ -2360,7 +2362,7 @@ $\spadesuit$  及物动词：A bring B.
 $\spadesuit$   反义词：take    v.  
 
 A take B from C to D.  
-# 214.   happen       [ˈhæpən]     v. 发生  
+ 214.   happen       [ˈhæpən]     v. 发生  
 
 ◆  不及物动词：A happen.  
 
@@ -2384,7 +2386,7 @@ e.g.   next week/month/year
 
 e.g.   last/this/next  
 
-# 216.  without     [w ɪˈ ða ʊ  t]     prep. 没有  
+ 216.  without     [w ɪˈ ða ʊ  t]     prep. 没有  
 
 ◆  介词  $^+$  名词  
 
@@ -2396,7 +2398,7 @@ Don’t go out without your coat.
 
 $\spadesuit$   反义词：with   prep.  
 
-# 217.  before     [b ɪˈ f ɔː (r)]     prep. 之前  
+ 217.  before     [b ɪˈ f ɔː (r)]     prep. 之前  
 
 $\spadesuit$   介词  $^+$  名词  
 
@@ -2405,7 +2407,7 @@ $\spadesuit$  某时间或事件之前
 e.g.  before 3/the meeting/bed  
 $\spadesuit$  反义词：after  
 
-# 218.  large     [lɑːdʒ]     adj. 巨大的  
+ 218.  large     [lɑːdʒ]     adj. 巨大的  
 
 ◆  做表语或定语  
 
@@ -2417,7 +2419,7 @@ e.g.  a large number/bowl/city
 
 e.g.  a large population/scale  
 
-# 219.  all     [ɔːl]     adv. 彻底地  
+ 219.  all     [ɔːl]     adv. 彻底地  
 
 $\spadesuit$  不是限定词！  
 
@@ -2573,7 +2575,7 @@ $\spadesuit$  名词伴侣
 e.g.   a young man/woman/boy  
 $\spadesuit$   同源：youth   n.  
 
-# 233.   fact     [fækt]     n. 事实  
+ 233.   fact     [fækt]     n. 事实  
 
 ◆  可数名词  
 
@@ -2583,7 +2585,7 @@ e.g.   a simple/basic/well-known fact
 
 ◆  同义词：truth   n.  
 
-# 234.   month     [m ʌ nθ]     n. 月  
+ 234.   month     [m ʌ nθ]     n. 月  
 
 $\spadesuit$  可数名词  
 
@@ -2595,7 +2597,7 @@ e.g.   last/this/next month
 
 e.g.   day/week/month/quarter/year  
 
-# 235.   different     [ˈdɪfrənt]     adj. 不同  
+ 235.   different     [ˈdɪfrənt]     adj. 不同  
 
 ◆  differ   $\rightarrow$   different  
 
@@ -2698,7 +2700,7 @@ A, though B.    Though B, A.
 Though B, but A.    ×  
 
 ◆  近义词： although/even though  
-# 244.   business     [ ˈ b ɪ zn ə s]      n. 商业  
+ 244.   business     [ ˈ b ɪ zn ə s]      n. 商业  
 
 ◆  busy  $^+$   ness  
 
@@ -2798,7 +2800,7 @@ e.g.  a long way/time/period
 
 ◆  反义词： short   adj.  
 
-# 253.   both      [bəʊθ]     det. 二者都  
+ 253.   both      [bəʊθ]     det. 二者都  
 
 $\spadesuit$  限定词 $^+$ 名词  
 
@@ -2872,7 +2874,7 @@ e.g.   too long    how long    not long
 
 ◆  同源：length   n.  
 
-# 260.   provide      [prəˈvaɪd]     v. 提供  
+ 260.   provide      [prəˈvaɪd]     v. 提供  
 
 ◆  及物动词：A provide B.  
 
@@ -2907,7 +2909,7 @@ e.g.  around the room/city/country
 ◆  动词伴侣  
 e.g.  go/travel/drive around the city  
 
-# 263.   friend     [frend]      n. 朋友  
+ 263.   friend     [frend]      n. 朋友  
 
 ◆  可数名词  
 
@@ -2917,7 +2919,7 @@ e.g.  an old/close/mutual friend
 
 $\spadesuit$  固定：make friends 【数】  
 
-# 264. important      [ɪmˈpɔːtnt]     a. 重要的  
+ 264. important      [ɪmˈpɔːtnt]     a. 重要的  
 
 ◆  im  $^+$   port   $^+$   ant (adj.)  
 
@@ -2950,7 +2952,7 @@ e.g.  A sit here/there/down.
 ◆  同义搭配  
 e.g.  take a seat  
 
-# 267.   away     [ əˈ we ɪ ]     adv. 远离  
+ 267.   away     [ əˈ we ɪ ]     adv. 远离  
 
 ◆  a(on)   $^+$   way  
 
@@ -3042,7 +3044,7 @@ e.g.  a long/straight/curved line
 
 e.g.  airline/hotline …  
 
-# 275.   political     [pəˈlɪtɪkl]     adj. 政治的  
+ 275.   political     [pəˈlɪtɪkl]     adj. 政治的  
 
 ◆  politics   $\rightarrow$  cal  (adj)  
 
@@ -3247,7 +3249,7 @@ e.g.  She set a vase on the table.
 $\spadesuit$  经常位于句尾  
 
 e.g.   See you later.           I met her three years later.  
-# 294. community     [k əˈ mju ː n ə ti]     n. 群体  
+ 294. community     [k əˈ mju ː n ə ti]     n. 群体  
 
 ◆  common  $^+$   ity (n.)  
 
@@ -3259,7 +3261,7 @@ $\spadesuit$  有同一共性的人们
 
 e.g.   the business/scientific community  
 
-# 295.   much     [m ʌ t ʃ ]     adv. 很多  
+ 295.   much     [m ʌ t ʃ ]     adv. 很多  
 
 ◆  副词：修饰形容词比较级  
 
@@ -3271,7 +3273,7 @@ e.g.   A is better.
 
 ◆  固定：much too adj.  
 
-# 296.    name     [neɪm]     n. 名字  
+ 296.    name     [neɪm]     n. 名字  
 
 ◆  可数名词  
 
@@ -3290,7 +3292,7 @@ $\spadesuit$  限定词 $^+$ 名词
 e.g.   five fingers/days  
 
 ◆  固定结构： take five  
-# 298.   once     [wʌns]     adv. 有一次  
+ 298.   once     [wʌns]     adv. 有一次  
 
 $\spadesuit$  副词：修饰动词  
 
@@ -3302,7 +3304,7 @@ e.g.  Once I talked to him.
 
 ◆  同源：twice   adv.  
 
-# 299.   white     [waɪt]     adj. 白色的  
+ 299.   white     [waɪt]     adj. 白色的  
 
 $\spadesuit$  做表语或定语  
 
@@ -3324,7 +3326,7 @@ e.g.  the least expensive/suitable
 
 ◆  固定搭配：at least  
 
-# 301.   president     [ ˈ prez ɪ d ə nt]     n. 总统  
+ 301.   president     [ ˈ prez ɪ d ə nt]     n. 总统  
 
 ◆  preside (v.)   $^+$   ent (n.)  
 
@@ -3347,7 +3349,7 @@ e.g.  learn a language/skill/instrument
 
 ◆  与study 区分  
 
-# 303.   real     [riəl]     adj. 真的  
+ 303.   real     [riəl]     adj. 真的  
 
 ◆  不假就是真  
 
@@ -3392,7 +3394,7 @@ e.g.  It takes 5 minutes to do.
 
 ◆  同源： minute   adj.  
 
-# 307.   best     [best]     adj. 最好的  
+ 307.   best     [best]     adj. 最好的  
 
 $\spadesuit$   形容词修饰名词  
 
@@ -3478,7 +3480,7 @@ e.g.   The letter came a few weeks ago.
 
 $\spadesuit$  故事开场  
 
-# 315.   right     [raɪt]     adj. 正确的  
+ 315.   right     [raɪt]     adj. 正确的  
 
 ◆  名词伴侣  
 
@@ -3556,7 +3558,7 @@ e.g.  watch a play/show/game
 
 e.g.  A watch B do/doing C.  
 
-# 322.   together      [təˈɡeðə(r)]     adv. 一起  
+ 322.   together      [təˈɡeðə(r)]     adv. 一起  
 
 $\spadesuit$  副词：修饰动词  
 
@@ -3578,7 +3580,7 @@ e.g.  follow the rule/instructions/order
 
 ◆  同源：following         adj.  
 
-# 324.   around      [ əˈ ra ʊ nd]    adv. 四处  
+ 324.   around      [ əˈ ra ʊ nd]    adv. 四处  
 
 ◆  之前介词，此处副词！  
 
@@ -3587,7 +3589,7 @@ $\spadesuit$   动词伴侣
 e.g.  turn/look/walk around  
 
 ◆  近义词：  round   adv.  
-# 325.   parent     [ ˈ pe ə r ə nt]     n. 家长  
+ 325.   parent     [ ˈ pe ə r ə nt]     n. 家长  
 
 $\spadesuit$  可数：父亲或母亲  
 
@@ -3599,7 +3601,7 @@ e.g.  a good/loving/single parent
 
 e.g.  become a parent  
 
-# 326.   only     [ˈəʊnli]   adj. 唯一的  
+ 326.   only     [ˈəʊnli]   adj. 唯一的  
 
 $\spadesuit$  常做副词，此处形容词！  
 
@@ -3611,7 +3613,7 @@ e.g.   the only thing/way/reason
 
 e.g.   the only thing which ……  
 
-# 327.   stop     [st ɒ p]     v. 停止  
+ 327.   stop     [st ɒ p]     v. 停止  
 
 ◆  及物不及物皆可 ： A stop B.    B stop.  
 
@@ -3689,7 +3691,7 @@ $\spadesuit$   及物不及物皆可
 
     A speak English/Chinese.  
 
-# 334.   others     [ˈʌðəz]      pron. 其他的  
+ 334.   others     [ˈʌðəz]      pron. 其他的  
 
 ◆  代词：复数人或物  
 
@@ -3711,7 +3713,7 @@ e.g.  read a book/newspaper/article
 
 ◆  同源： reading   n.  
 
-# 336.   level     [ ˈ levl]     n. 程度  
+ 336.   level     [ ˈ levl]     n. 程度  
 
 $\spadesuit$  抽象：数量的多少  
 
@@ -3734,7 +3736,7 @@ $\spadesuit$  用法2： A allow B to do C.
 
 e.g.   Allow me to explain.  
 
-# 338.   add     [æd]     v. 添加  
+ 338.   add     [æd]     v. 添加  
 
 ◆  及物动词：A add B.  
 
@@ -3746,7 +3748,7 @@ e.g.  Add water to the soup.
 
 ◆  同源： addition   n.  
 
-# 339.   office      [ ˈɒ f ɪ s]    n. 办公室  
+ 339.   office      [ ˈɒ f ɪ s]    n. 办公室  
 
 ◆  可数名词  
 
@@ -3812,7 +3814,7 @@ e.g.  Chinese/modern art
 
 e.g.  study/teach art  
 
-# 345.   sure      [ ʃʊə (r)]      adj. 确定的  
+ 345.   sure      [ ʃʊə (r)]      adj. 确定的  
 
 $\spadesuit$  对人不对事：A be sure.  
 
@@ -3824,7 +3826,7 @@ e.g.    I’m sure that ……
 
 ◆  近义词：certain   adj.  
 
-# 346.   such as …     prep. 例如  
+ 346.   such as …     prep. 例如  
 
 ◆  整体介词  
 
@@ -3947,7 +3949,7 @@ $\spadesuit$  加上距离及物
 
 e.g.   walk a mile/200 meters  
 
-# 357.   reason     [ˈriːzn]    n. 原因  
+ 357.   reason     [ˈriːzn]    n. 原因  
 
 ◆  可数名词  
 
@@ -4056,7 +4058,7 @@ e.g.  Say goodbye before you go.
 e.g.  at this/that moment  
 
 ◆  固定： wait a moment  
-# 367. himself     [hɪmˈself]   pron. 他自己  
+ 367. himself     [hɪmˈself]   pron. 他自己  
 
 ◆  反身代词：A do A-self.  
 
@@ -4119,7 +4121,7 @@ e.g.  long/good/old enough
 
     be good enough for …..  
 
-# 373. education     [ ˌ ed ʒ u ˈ ke ɪʃ n]    n. 教育  
+ 373. education     [ ˌ ed ʒ u ˈ ke ɪʃ n]    n. 教育  
 
 ◆  educate (v.)   $^+$   tion  
 
@@ -4185,7 +4187,7 @@ $\spadesuit$  常见搭配
 e.g.    second grade/year  
 
 ◆  一秒钟  
-# 379.   boy     [b ɔɪ ]     n. 男孩  
+ 379.   boy     [b ɔɪ ]     n. 男孩  
 
 ◆  可数名词  
 
@@ -4195,7 +4197,7 @@ e.g.   a little/young/lost boy
 
 ◆  相关： boyfriend      n.  
 
-# 380.   maybe     [ ˈ me ɪ bi]     adv. 也许  
+ 380.   maybe     [ ˈ me ɪ bi]     adv. 也许  
 
 ◆  副词：修饰整句  
 
@@ -4228,7 +4230,7 @@ e.g.   I can swim.
           I’m able to swim.  
 
 ◆  反义词： unable  adj.  
-# 383.   age     [e ɪ d ʒ ]     n. 年龄  
+ 383.   age     [e ɪ d ʒ ]     n. 年龄  
 
 $\spadesuit$  可数：常用单数  
 
@@ -4262,7 +4264,7 @@ e.g.   public/company/foreign policy
 
 e.g.   make policy  
 
-# 386.  everything     [ ˈ evriθ ɪ ŋ]     pron. 一切  
+ 386.  everything     [ ˈ evriθ ɪ ŋ]     pron. 一切  
 
 ◆  不定代词  
 
@@ -4309,7 +4311,7 @@ $\spadesuit$  可以具体化
 
 e.g.  song/melody  
 
-# 390.   including     [ ɪ n ˈ klu ː d ɪ ŋ]     prep. 包括  
+ 390.   including     [ ɪ n ˈ klu ː d ɪ ŋ]     prep. 包括  
 
 $\spadesuit$   include   $\mathrm{(v.)~+~}$   ing  
 
@@ -4318,7 +4320,7 @@ e.g.   including me/you/many people
 
 ◆  反义： not including   prep.  e.g.  The price is 100, not including tax.  
 
-# 391.   consider  [k ə n ˈ s ɪ d ə (r)]    $\pmb{\upnu}.$   考虑  
+ 391.   consider  [k ə n ˈ s ɪ d ə (r)]    $\pmb{\upnu}.$   考虑  
 
 $\spadesuit$  及物动词：A consider B.  
 
@@ -4330,7 +4332,7 @@ $\spadesuit$   固定：consider doing sth
 
 e.g.  consider buying a new car  
 
-# 392.   appear   [ əˈ p ɪə (r)]   v. 露面  
+ 392.   appear   [ əˈ p ɪə (r)]   v. 露面  
 
 $\spadesuit$  不及物动词：A appear.  
 
@@ -4340,7 +4342,7 @@ e.g. appear in a newspaper/film
 
 ◆  反义词：disappear   v.  
 
-# 393.   actually   [ ˈ ækt ʃ u ə li]   adv. 其实  
+ 393.   actually   [ ˈ ækt ʃ u ə li]   adv. 其实  
 
 ◆  副词：修饰动词或整句  
 
@@ -4352,7 +4354,7 @@ e.g.   I actually don’t like coffee.
 
 e.g.   Actually, I don’t like coffee.  
 
-# 394.   buy   [ba ɪ ]  v. 购买  
+ 394.   buy   [ba ɪ ]  v. 购买  
 
 ◆  及物不及物皆可  
 A buy B.    A buy.  
@@ -4363,7 +4365,7 @@ e.g.  buy a house/car/book
 
 ◆  同源：buyer   n.  
 
-# 395. probably  [ˈprɒbəbli]  adv. 可能  
+ 395. probably  [ˈprɒbəbli]  adv. 可能  
 
 ◆  副词：修饰动词  
 
@@ -4428,7 +4430,7 @@ e.g.   die of/from sth
 
 ◆  同源：death    n.  
 
-# 401.   send  [send] v. 发送  
+ 401.   send  [send] v. 发送  
 
 ◆  及物动词：A send B.  
 
@@ -4527,7 +4529,7 @@ $\spadesuit$  及物动词：A cut B. e.g.   cut a tomato/potato
 
 $\spadesuit$  削减数量 e.g.  cut taxes/costs  
 
-# 411.   college   [ˈkɒ lɪdʒ]   n. 学院  
+ 411.   college   [ˈkɒ lɪdʒ]   n. 学院  
 
 ◆  可数名词  
 
@@ -4590,7 +4592,7 @@ e.g.  a good/bad/new experience
 
 e.g.  life experience  
 
-# 417.   behind    [bɪˈhaɪnd]   prep. 后面  
+ 417.   behind    [bɪˈhaɪnd]   prep. 后面  
 
 ◆  介词+名词  
 
@@ -4641,7 +4643,7 @@ $\spadesuit$  可以改写
 
 e.g.  half a year/two quarters  
 
-# 422.   remain [r ɪˈ me ɪ n]   v. 仍旧  
+ 422.   remain [r ɪˈ me ɪ n]   v. 仍旧  
 
 $\spadesuit$  联系动词：参考be 用法  
 
@@ -4670,7 +4672,7 @@ e.g.   the use of phones/computers
 
 $\spadesuit$  高级阅读较多  
 
-# 425.    suggest  [s əˈ d ʒ est]  v. 提议  
+ 425.    suggest  [s əˈ d ʒ est]  v. 提议  
 
 ◆  及物动词：A suggest B.  
 
@@ -4691,7 +4693,7 @@ e.g.  a large/small class
 ◆  以经济划分人口：阶级  
 e.g.  the working/middle class  
 
-# 427.   control [k ə n ˈ tr əʊ  l]  n. 控制  
+ 427.   control [k ə n ˈ tr əʊ  l]  n. 控制  
 
 ◆  不可数较多  
 
@@ -4703,7 +4705,7 @@ e.g.  under/out of control
 
 e.g.  take/lose control  
 
-# 428.   raise  [re ɪ z]  v. 抬起  
+ 428.   raise  [re ɪ z]  v. 抬起  
 
 $\spadesuit$  及物动词：A raise B.  
 
@@ -4713,7 +4715,7 @@ e.g.   raise your hand/head/arm
 
 ◆  与rise 区分  
 
-# 429.   care [ke ə ] n.  小心  
+ 429.   care [ke ə ] n.  小心  
 
 ◆  不可数名词  
 
@@ -4723,7 +4725,7 @@ e.g.  health/medical/child care
 
 ◆  同源：careful     adj.  
 
-# 430.   perhaps  [p əˈ hæps]   adv.也许  
+ 430.   perhaps  [p əˈ hæps]   adv.也许  
 
 ◆  副词：修饰句子  
 
@@ -4732,7 +4734,7 @@ $\spadesuit$  位置可前可后
 e.g.   Perhaps it will snow tomorrow.           It will snow tomorrow, perhaps.  
 $\spadesuit$   大众版：maybe    adv.  
 
-# 431.   little [ ˈ l ɪ t( ə )l]  adv. 极少  
+ 431.   little [ ˈ l ɪ t( ə )l]  adv. 极少  
 
 ◆  副词：修饰形容词  
 
@@ -4744,7 +4746,7 @@ e.g.  He was a little surprised.
 
 e.g.  We will have to wait a little longer.  
 
-# 432.   late [le ɪ t]   adj. 迟到的  
+ 432.   late [le ɪ t]   adj. 迟到的  
 
 $\spadesuit$  可量化时间  
 
@@ -4756,7 +4758,7 @@ e.g.   You are late.
 
 ◆  反义词：early       adj.  
 
-# 433.   hard  [hɑːd]  adj. 辛苦的  
+ 433.   hard  [hɑːd]  adj. 辛苦的  
 
 ◆  物质坚硬  
 
@@ -4768,7 +4770,7 @@ e.g.   It is hard to do sth.
 
 ◆  反义词：easy    adj.  
 
-# 434.   field [fiːld]   n.  地  
+ 434.   field [fiːld]   n.  地  
 
 $\spadesuit$  可数名词  
 
@@ -4777,7 +4779,7 @@ e.g.   a corn/rice field
 
 ◆  一片运动场 e.g.   a football/baseball field  
 
-# 435.  else  [els]   adv. 其他地  
+ 435.  else  [els]   adv. 其他地  
 
 $\spadesuit$  副词：修饰不定代词  
 
@@ -4789,7 +4791,7 @@ e.g.  something/anything else
 
 ◆  固定：What else can I do?  
 
-# 436.   pass [pɑ ː s]   v. 通过  
+ 436.   pass [pɑ ː s]   v. 通过  
 
 ◆  及物不及物皆可 
 
@@ -4801,7 +4803,7 @@ e.g.  something/anything else
 
 ◆  同源：past     prep.  
 
-# 437. former [ ˈ f ɔː m ə ]  adj. 之前的  
+ 437. former [ ˈ f ɔː m ə ]  adj. 之前的  
 
 ◆  形容词：只做定语  
 
@@ -4824,7 +4826,7 @@ e.g.   I sold my car to John.
 
 e.g.   The dictionary is selling well.  
 
-# 439. major  [ˈmeɪdʒə]   adj. 重大的  
+ 439. major  [ˈmeɪdʒə]   adj. 重大的  
 
 ◆  作定语较多  
 
@@ -4834,7 +4836,7 @@ e.g.  a major problem/change/issue
 
 ◆  反义词：minor       adj.  
 
-# 440. sometimes  [ ˈ s ʌ mta ɪ mz]  adv.有时  
+ 440. sometimes  [ ˈ s ʌ mta ɪ mz]  adv.有时  
 
 $\spadesuit$  副词：修饰动词  
 
@@ -4846,7 +4848,7 @@ e.g.  I sometimes work late.
 
 e.g.  I work late sometimes.  
 
-# 441.   require [r ɪˈ kwa ɪə ]  v. 需要  
+ 441.   require [r ɪˈ kwa ɪə ]  v. 需要  
 
 ◆  及物动词：A require B.  
 
@@ -4855,7 +4857,7 @@ e.g.  I work late sometimes.
 e.g.  Pets need a lot of care.          Pets require a lot of care.  
 $\spadesuit$  固定：A require B to do C.  
 
-# 442.   along [ əˈ l ɒ  ŋ] prep. 沿着  
+ 442.   along [ əˈ l ɒ  ŋ] prep. 沿着  
 
 ◆  介词  $^+$  名词  
 
@@ -4867,7 +4869,7 @@ e.g.  along the road/way/river
 
 e.g.  I’ll go along and watch the game.  
 
-# 443. development  [d ɪˈ vel ə pm( ə )nt]   n. 发展  
+ 443. development  [d ɪˈ vel ə pm( ə )nt]   n. 发展  
 
 ◆  develop (v.)  $^+$   ment (n.)  
 
@@ -4879,7 +4881,7 @@ $\spadesuit$  与组织有关
 
 e.g.  economic development  
 
-# 444. themselves   [ð(ə)mˈselvz]   pron. 他们自己  
+ 444. themselves   [ð(ə)mˈselvz]   pron. 他们自己  
 
 ◆  反身代词：A do A-self.  
 
@@ -4889,7 +4891,7 @@ e.g.   find/protect/express themselves
 
 $\spadesuit$  反身代词中低频  
 
-# 445.   report [r ɪˈ p ɔː t]  v. 报道  
+ 445.   report [r ɪˈ p ɔː t]  v. 报道  
 
 $\spadesuit$  及物动词：A report B.  
 
@@ -4900,7 +4902,7 @@ $\spadesuit$  媒体的新闻报道
 
      It is reported that …  
 
-# 446.   role [rəʊ l]  n. 角色  
+ 446.   role [rəʊ l]  n. 角色  
 
 $\spadesuit$  可数名词  
 
@@ -4912,7 +4914,7 @@ e.g.  a（n） important/leading role
 
 e.g.   A play a role in B.  
 
-# 447.   better [ ˈ bet ə ]  adj. 更好  
+ 447.   better [ ˈ bet ə ]  adj. 更好  
 
 ◆  做定语或表语  
 
@@ -4924,7 +4926,7 @@ e.g.  a better job/life/understanding
 
 e.g.  a lot/much better  
 
-# 448.  economic  [ˌiːkəˈnɒ mɪk] adj. 经济的  
+ 448.  economic  [ˌiːkəˈnɒ mɪk] adj. 经济的  
 
 ◆  常做定语  
 
@@ -4934,7 +4936,7 @@ e.g.  economic growth/policy
 
 ◆  同源： economics   n.  
 
-# 449.     effort  [ˈefət]   n. 努力  
+ 449.     effort  [ˈefət]   n. 努力  
 
 $\spadesuit$  可数不可数皆可  
 
@@ -4943,7 +4945,7 @@ e.g.   A put effort into B.
 
 ◆  可数：一次尝试 e.g.   A make an effort to do B.  
 
-# 450.   up [ ʌ p]  prep. 向上  
+ 450.   up [ ʌ p]  prep. 向上  
 
 $\spadesuit$   介词  $^+$  名词  
 
@@ -4955,7 +4957,7 @@ $\spadesuit$  表示along 之意
 
 e.g.  up the road/street  
 
-# 451.   decide  [d ɪˈ sa ɪ d]  v. 决定  
+ 451.   decide  [d ɪˈ sa ɪ d]  v. 决定  
 
 ◆  de (off)   $^+$   cide (cut)  
 
@@ -4965,7 +4967,7 @@ $\spadesuit$  常用及物：A decide B.
 
 e.g.   She decided to go with us.  
 
-# 452.   rate [re ɪ t]  n. 比率  
+ 452.   rate [re ɪ t]  n. 比率  
 
 ◆  可数名词  
 
@@ -4977,7 +4979,7 @@ e.g.  birth/unemployment rate
 
 e.g.  the rate is high/low  
 
-# 453.   strong  [str ɒ  ŋ]  adj. 强壮的  
+ 453.   strong  [str ɒ  ŋ]  adj. 强壮的  
 
 ◆  表语或定语  
 e.g.   He is strong. He is a strong man.  
@@ -4988,7 +4990,7 @@ e.g.   a strong man/wind/feeling
 
 $\spadesuit$   同源：strength  n.  
 
-# 454.   possible [ˈpɒ sɪb(ə)l]  adj. 可能的  
+ 454.   possible [ˈpɒ sɪb(ə)l]  adj. 可能的  
 
 ◆  核心形容词  
 
@@ -4998,7 +5000,7 @@ $\spadesuit$   同源：strength  n.
 
 ◆  反义词： impossible   adj.  
 
-# 455.   heart [hɑ ː t]   n. 心  
+ 455.   heart [hɑ ː t]   n. 心  
 
 ◆  可数名词  
 
@@ -5008,7 +5010,7 @@ e.g.   a good/big/cold heart
 
 ◆  常见： heart disease   n.  
 
-# 456.   drug [dr ʌ g] n. 药物  
+ 456.   drug [dr ʌ g] n. 药物  
 
 ◆  常用复数：drugs 【毒品】  
 
@@ -5031,7 +5033,7 @@ e.g.  a TV/radio/talk show
 
 e.g.  watch a show  
 
-# 458.   leader [ˈliːdə]   n. 领导者  
+ 458.   leader [ˈliːdə]   n. 领导者  
 
 ◆  lead (v.)   $^+$   er (n.)  
 
@@ -5041,7 +5043,7 @@ e.g.   a good/strong/weak leader
 
 $\spadesuit$   同源：leadership   n.  
 
-# 459.   light [laɪt]   n. 光  
+ 459.   light [laɪt]   n. 光  
 
 ◆  一般不可数  
 
@@ -5072,7 +5074,7 @@ e.g.    his future/new/late wife
 
 ◆  相关：housewife  n.  
 
-# 462.  whole [h əʊ  l]   adj. 整个的  
+ 462.  whole [h əʊ  l]   adj. 整个的  
 
 $\spadesuit$  只做定语  
 
@@ -5084,7 +5086,7 @@ e.g.  a whole apple/book/day
 
 e.g.  the whole morning/evening  
 
-# 463.   police  [p əˈ li ː s]    n. 警察  
+ 463.   police  [p əˈ li ː s]    n. 警察  
 
 ◆  集合名词  
 
@@ -5127,7 +5129,7 @@ $\spadesuit$  近义词： lastly   adv.
 
 ◆  反义词：push    v.  
 
-# 467.   return [r ɪˈ t ɜː n]  v. 返回  
+ 467.   return [r ɪˈ t ɜː n]  v. 返回  
 
 ◆  re  $^+$   turn (v.)  
 
@@ -5139,7 +5141,7 @@ $\spadesuit$  近义词： lastly   adv.
 
      A go back  $=$   A return.  
 
-# 468.   free [friː]   adj. 自由的  
+ 468.   free [friː]   adj. 自由的  
 
 $\spadesuit$  做表语或定语  
 
@@ -5150,7 +5152,7 @@ e.g.  You’re free.  You’re a free man.
 e.g.  free trade/market/will  
 
 ◆  固定搭配： be free to do sth  
-# 469.   military [ ˈ m ɪ l ɪ t( ə )r ɪ ]   adj. 军事的  
+ 469.   military [ ˈ m ɪ l ɪ t( ə )r ɪ ]   adj. 军事的  
 
 ◆  与军队，军人或军事有关  
 
@@ -5160,7 +5162,7 @@ e.g.  military action/force/power
 
 ◆  相关：a military academy  
 
-# 470.   price   [pra ɪ s]  n. 价格  
+ 470.   price   [pra ɪ s]  n. 价格  
 
 $\spadesuit$  可数名词  
 
@@ -5172,7 +5174,7 @@ e.g.  a high/low/reasonable price
 
 e.g.  ask/pay a price  
 
-# 471.   report [r ɪˈ p ɔː t]  n. 报告  
+ 471.   report [r ɪˈ p ɔː t]  n. 报告  
 
 ◆  可数名词  
 
@@ -5184,7 +5186,7 @@ e.g.  a long/special/formal report
 
 e.g.  write/publish a report  
 
-# 472.   less  [les]   adv. 更少  
+ 472.   less  [les]   adv. 更少  
 
 ◆  副词：修饰形容词  
 
@@ -5195,7 +5197,7 @@ e.g.  less interesting/expensive
 ◆  可以叠加  
 e.g.  less and less expensive  
 
-# 473.   according [ əˈ k ɔː d ɪ ŋ]   prep. 根据  
+ 473.   according [ əˈ k ɔː d ɪ ŋ]   prep. 根据  
 
 ◆  固定：according to sth/sb  
 
@@ -5207,7 +5209,7 @@ e.g.  According to the paper,
 
          20 people died in the fire.  
 
-# 474.   decision  [d ɪˈ s ɪʒ ( ə )n]   n. 决定  
+ 474.   decision  [d ɪˈ s ɪʒ ( ə )n]   n. 决定  
 
 ◆  decide — decision  
 
@@ -5219,7 +5221,7 @@ $\spadesuit$   动词伴侣
 
 e.g.  make a decision  
 
-# 475.   explain [ ɪ k ˈ sple ɪ n]   v. 解释  
+ 475.   explain [ ɪ k ˈ sple ɪ n]   v. 解释  
 
 ◆  ex (out)   $^+$   plain (adj.)  
 
@@ -5238,7 +5240,7 @@ $\spadesuit$   形容词伴侣
 e.g.   a good/baby/adult son  
 $\spadesuit$   动词伴侣  e.g.   have/raise a son  
 
-# 477.   hope  [həʊ p]  v. 希望  
+ 477.   hope  [həʊ p]  v. 希望  
 
 $\spadesuit$   及物动词  
 
@@ -5250,7 +5252,7 @@ e.g.  She hopes that she will win.
 
 e.g.  She hopes to win.  
 
-# 478.   develop [dɪˈveləp]   v. 发展  
+ 478.   develop [dɪˈveləp]   v. 发展  
 
 ◆  及物不及物皆可 
 
@@ -5274,7 +5276,7 @@ e.g.   a different/popular view
 
 e.g.   have/hear a view  
 
-# 480.   relationship [r ɪˈ le ɪʃ ( ə )n ʃɪ p]   n. 关系  
+ 480.   relationship [r ɪˈ le ɪʃ ( ə )n ʃɪ p]   n. 关系  
 
 ◆  可数名词  
 $\spadesuit$  人与人之间的关系 e.g.   a good/close/friendly relationship  
@@ -5291,7 +5293,7 @@ e.g.  carry a child/case/bag
 
 ◆  车船载客  e.g.  carry people/cargo  
 
-# 482.   town [ta ʊ  n]    n. 镇子  
+ 482.   town [ta ʊ  n]    n. 镇子  
 
 $\spadesuit$  可数名词  
 
@@ -5309,7 +5311,7 @@ e.g.   a long/dusty/icy road
 
 ◆  与way 区分  
 
-# 484.   drive [dra ɪ v]   v. 驾驶  
+ 484.   drive [dra ɪ v]   v. 驾驶  
 
 ◆  及物不及物皆可  
 A drive B.    A drive.  
@@ -5330,7 +5332,7 @@ e.g.   your right/left/strong arm
 
 ◆  同源：armchair     n.  
 
-# 486.   true [truː] adj. 真的  
+ 486.   true [truː] adj. 真的  
 
 ◆  做表语或定语  
 
@@ -5342,7 +5344,7 @@ e.g.   a true story/hero/star
 
 ◆  同源：truth     n.  
 
-# 487.   federal [ ˈ fed( ə )r( ə )l] adj. 联邦的  
+ 487.   federal [ ˈ fed( ə )r( ə )l] adj. 联邦的  
 
 ◆  小事分理，大事共商  
 
@@ -5365,7 +5367,7 @@ e.g.   break a（n） glass/arm/leg
 
 $\spadesuit$  固定搭配： break the law  
 
-# 489.   better [ ˈ bet ə ]   adv. 更好  
+ 489.   better [ ˈ bet ə ]   adv. 更好  
 
 ◆  副词：修饰动词  
 
@@ -5375,7 +5377,7 @@ e.g.   know/understand sth better
 
 ◆  固定结构： had better to do  
 
-# 490.   difference  [ ˈ d ɪ f( ə )r( ə )ns]     n. 差别  
+ 490.   difference  [ ˈ d ɪ f( ə )r( ə )ns]     n. 差别  
 
 ◆  different (adj.) — ce  
 
@@ -5387,7 +5389,7 @@ e.g.  a big/small/important difference
 
 e.g.   There is no difference.  
 
-# 491.   thank  [θæŋk] v. 感谢  
+ 491.   thank  [θæŋk] v. 感谢  
 
 $\spadesuit$  及物动词：A thank B.  
 
@@ -5398,7 +5400,7 @@ $\spadesuit$  及物动词：A thank B.
 ◆  固定结构  
 
 e.g.  Thank God/goodness.  
-# 492.   receive  [r ɪˈ si ː v]   v. 收到  
+ 492.   receive  [r ɪˈ si ː v]   v. 收到  
 
 ◆  及物动词  
 
@@ -5420,7 +5422,7 @@ e.g.    great/little/true
 
 ◆  同源： valuable      adj.  
 
-# 494. international   [ɪntəˈnæʃ(ə)n(ə)l]    adj.国际的  
+ 494. international   [ɪntəˈnæʃ(ə)n(ə)l]    adj.国际的  
 
 ◆  inter   $^+$   nation   $^+$   al  
 
@@ -5430,7 +5432,7 @@ e.g.  international trade/market
 
 ◆  相关：national   adj.  
 
-# 495.   building  [ ˈ b ɪ ld ɪ ŋ]   n. 建筑  
+ 495.   building  [ ˈ b ɪ ld ɪ ŋ]   n. 建筑  
 
 ◆  build (v.)  $^+$   ing  
 
@@ -5441,7 +5443,7 @@ e.g.   a tall/public/beautiful building
 $\spadesuit$  名词伴侣  
 
 e.g.   an office/apartment building  
-# 496.   action [ ˈ æk ʃ ( ə )n]    n. 行动  
+ 496.   action [ ˈ æk ʃ ( ə )n]    n. 行动  
 
 ◆  act (v.)   $^+$   tion  
 
@@ -5453,7 +5455,7 @@ $\spadesuit$   动词伴侣
 
 e.g.  take action  
 
-# 497.   full [f ʊ  l]  adj. 充满  
+ 497.   full [f ʊ  l]  adj. 充满  
 
 ◆  做表语或定语  
 
@@ -5463,7 +5465,7 @@ e.g.    The kitchen was full of smoke.
 
 ◆  反义词：empty   adj.  
 
-# 498.   model [ˈmɒ dl]   n. 型号  
+ 498.   model [ˈmɒ dl]   n. 型号  
 
 ◆  含义较多  
 
@@ -5486,7 +5488,7 @@ e.g.  join the team/army/club
 ◆  与某人一起做某事  
 e.g.  join me/us/them  
 
-# 500.   season [ ˈ si ː z( ə )n]   n. 季节  
+ 500.   season [ ˈ si ː z( ə )n]   n. 季节  
 
 ◆  可数名词  
 
@@ -5498,7 +5500,7 @@ e.g.  the dry/wet/rainy season
 
 e.g.  spring/summer/autumn/winter  
 
-# 501.   society  [səˈsaɪətɪ]   n. 社会  
+ 501.   society  [səˈsaɪətɪ]   n. 社会  
 
 $\spadesuit$  可数不可数皆可  
 
@@ -5510,7 +5512,7 @@ $\spadesuit$   动词伴侣
 
 e.g.  build/change a society  
 
-# 502.   because [bɪˈkɒ z]  conj. 因为  
+ 502.   because [bɪˈkɒ z]  conj. 因为  
 
 ◆  从属连词 
 
@@ -5522,7 +5524,7 @@ e.g.  I was late
 
          because the traffic was bad.  
 
-# 503.   tax  [tæks]  n. 税收  
+ 503.   tax  [tæks]  n. 税收  
 
 $\spadesuit$  可数不可数皆可  
 
@@ -5531,7 +5533,7 @@ $\spadesuit$  可数不可数皆可
 
 e.g.    pay tax  
 
-# 504. director [dəˈrektə(r)]   n. 管理者  
+ 504. director [dəˈrektə(r)]   n. 管理者  
 
 ◆  direct   $\mathsf{\Gamma}(\mathsf{v}.)+\mathsf{o r}$  
 
@@ -5543,7 +5545,7 @@ e.g.  a film/theater/TV director
 
 e.g.  the board of directors  
 
-# 505.   early [ ˈɜː l ɪ ]    adv. 早  
+ 505.   early [ ˈɜː l ɪ ]    adv. 早  
 
 $\spadesuit$  副词：修饰动词  
 
@@ -5553,7 +5555,7 @@ e.g.   arrive/leave/get up early
 
 ◆  反义词：  late       adv.  
 
-# 506.   position [pəˈzɪʃ(ə)n]  n. 位置  
+ 506.   position [pəˈzɪʃ(ə)n]  n. 位置  
 
 ◆  pose (v.) + tion (n.)  
 
@@ -5565,7 +5567,7 @@ e.g.   the right/correct/wrong position
 
 e.g.   a comfortable position  
 
-# 507.   player [ ˈ ple ɪə ]   n. 运动员  
+ 507.   player [ ˈ ple ɪə ]   n. 运动员  
 
 ◆  play (v.)   $^+$   er (n.)  
 $\spadesuit$  参与比赛的选手  
@@ -5576,7 +5578,7 @@ e.g.  a basketball/tennis player
 
 e.g.  a CD/video player  
 
-# 508.   agree [əˈgriː]   $\pmb{\mathsf{v}}.$  赞成  
+ 508.   agree [əˈgriː]   $\pmb{\mathsf{v}}.$  赞成  
 
 ◆  及物不及物皆可  
 
@@ -5586,7 +5588,7 @@ e.g.  a CD/video player
 
 ◆  及物： A agree that ……  
 
-# 509.  especially [ ɪˈ spe ʃə li]  adv. 尤其  
+ 509.  especially [ ɪˈ spe ʃə li]  adv. 尤其  
 
 ◆  especial (adj.)  $^+$   ly  
 
@@ -5609,7 +5611,7 @@ e.g.  a written/accurate record
 $\spadesuit$   动词伴侣  
 
 e.g.  keep a record of sth  
-# 511.   pick [p ɪ k]  v. 挑选  
+ 511.   pick [p ɪ k]  v. 挑选  
 
 ◆  及物动词：A pick B.  
 
@@ -5619,7 +5621,7 @@ e.g.   Pick a passage from the book.
 
 ◆  正式版：choose      v.  
 
-# 512.   wear [we ə (r)]   v. 穿戴  
+ 512.   wear [we ə (r)]   v. 穿戴  
 
 ◆  及物动词： A wear B.  
 
@@ -5629,7 +5631,7 @@ e.g.   wear a dress/shirt/seat belt
 
 ◆  与put on 区分  
 
-# 513.   paper  [ ˈ pe ɪ p ə (r)]  n. 纸张  
+ 513.   paper  [ ˈ pe ɪ p ə (r)]  n. 纸张  
 
 $\spadesuit$  不可数名词？  
 
@@ -5641,7 +5643,7 @@ e.g.  white/brown/writing paper
 
 e.g.  a paper cup/bag  
 
-# 514.    special [ˈspeʃ(ə)l]   adj. 特殊的  
+ 514.    special [ˈspeʃ(ə)l]   adj. 特殊的  
 
 $\spadesuit$  做表语或定语  
 
@@ -5652,7 +5654,7 @@ e.g.  You’re special.  This is a special day.
 e.g.  a special occasion/present  
 
 ◆  常与不定代词连用  
-# 515.   space  [speɪs]    n. 空间  
+ 515.   space  [speɪs]    n. 空间  
 
 $\spadesuit$  可数不可数皆可  
 
@@ -5662,7 +5664,7 @@ e.g.  a small/narrow/empty space
 
 ◆  太空中 in/into space  
 
-# 516.   ground [gra ʊ  nd]    n. 地面  
+ 516.   ground [gra ʊ  nd]    n. 地面  
 
 ◆  不可数：地球表面  
 
@@ -5672,7 +5674,7 @@ e.g.   The ground was covered in snow.
 
 ◆  与the floor 区分  
 
-# 517.   form  [fɔːm]   n. 形式  
+ 517.   form  [fɔːm]   n. 形式  
 
 ◆  可数名词  
 
@@ -5684,7 +5686,7 @@ e.g.   a new/simple/different form
 
 e.g.   fill in a form  
 
-# 518.   support  [s əˈ p ɔː t]  v. 支持  
+ 518.   support  [s əˈ p ɔː t]  v. 支持  
 
 ◆  及物动词：A support B.  
 
@@ -5695,7 +5697,7 @@ e.g.  I support the idea of joining the EU.
 ◆  副词伴侣  
 e.g.  A fully support B.  
 
-# 519.   event [ɪˈvent]  n. 事件  
+ 519.   event [ɪˈvent]  n. 事件  
 
 ◆  可数名词  
 
@@ -5707,7 +5709,7 @@ e.g.  an important/major event
 
 e.g.  The festival is a major event.  
 
-# 520.   official  [ əˈ f ɪʃ l]  n. 官员  
+ 520.   official  [ əˈ f ɪʃ l]  n. 官员  
 
 ◆  office (n.) — cial (adj.)  
 
@@ -5717,7 +5719,7 @@ e.g.   a high/top official
 
 $\spadesuit$  同源： officially   adv.  
 
-# 521.   whose [huːz]  det. 谁的  
+ 521.   whose [huːz]  det. 谁的  
 
 ◆  限定词  $^+$  名词  
 
@@ -5729,7 +5731,7 @@ e.g.  Whose house is that?
 
 e.g.  He’s a man whose opinion I respect.  
 
-# 522.    matter  [ˈmætə]    n. 事情  
+ 522.    matter  [ˈmætə]    n. 事情  
 
 $\spadesuit$  可数名词  
 
@@ -5740,7 +5742,7 @@ $\spadesuit$  固定结构B：
 
 e.g.    It is just a matter of time.  
 
-# 523.  everyone  [ ˈ evr ɪ w ʌ n]     pron. 每个人  
+ 523.  everyone  [ ˈ evr ɪ w ʌ n]     pron. 每个人  
 
 $\spadesuit$  每个人就是所有人！  
 
@@ -5750,7 +5752,7 @@ e.g. Everybody knows/agrees that …
 
 ◆  同义词： everybody   pron.  
 
-# 524.   center [ˈsentə]   n. 中心  
+ 524.   center [ˈsentə]   n. 中心  
 
 $\spadesuit$   两种拼写：centre  
 
@@ -5762,7 +5764,7 @@ e.g.  a shopping/business center
 
 e.g.  in the center of sth  
 
-# 525.   couple  [ ˈ k ʌ pl]   n. 夫妻  
+ 525.   couple  [ ˈ k ʌ pl]   n. 夫妻  
 
 ◆  集合名词  
 
@@ -5774,7 +5776,7 @@ e.g.   a young/elderly/happy couple
 
 e.g.   a couple of ….  
 
-# 526.   site  [saɪt]   n. 地点  
+ 526.   site  [saɪt]   n. 地点  
 
 $\spadesuit$  可数名词  
 
@@ -5795,7 +5797,7 @@ e.g.  a meeting/game/story ends
 
 ◆  同源： ending       n.  
 
-# 528.   project  [ˈprɒ dʒekt]    n. 项目  
+ 528.   project  [ˈprɒ dʒekt]    n. 项目  
 
 $\spadesuit$  可数名词  
 
@@ -5817,7 +5819,7 @@ e.g.  hit a ball/car/wall
 
 ◆  正式版： strike         v.  
 
-# 530.   base  [be ɪ s]    v. 基于  
+ 530.   base  [be ɪ s]    v. 基于  
 
 $\spadesuit$  类似put 用法  
 
@@ -5828,7 +5830,7 @@ e.g.   Where is your firm based?
 
 ◆  观点研究的主要根据  
 
-# 531.   activity  [æk ˈ t ɪ v ɪ t ɪ ]  n. 活动  
+ 531.   activity  [æk ˈ t ɪ v ɪ t ɪ ]  n. 活动  
 
 ◆  act (v.) — active (a.) — ity  
 
@@ -5838,7 +5840,7 @@ e.g.  physical/mental activity
 
 ◆  动词伴侣  e.g.  do activity  
 
-# 532.   star  [stɑː]    n. 星星  
+ 532.   star  [stɑː]    n. 星星  
 
 ◆  可数名词  
 
@@ -5881,7 +5883,7 @@ e.g.  a criminal/civil court
 
 e.g.  a tennis/badminton court  
 
-# 536.   produce [pr əˈ dju ː s]    v. 生产  
+ 536.   produce [pr əˈ dju ː s]    v. 生产  
 
 ◆  及物动词：A produce B.  
 
@@ -5903,7 +5905,7 @@ e.g.   eat breakfast/lunch/supper
 
 e.g.   eat well/poorly  
 
-# 538. American [əˈmerɪkən]  n. 美国人  
+ 538. American [əˈmerɪkən]  n. 美国人  
 
 ◆  可数名词  
 $\spadesuit$   形容词伴侣  
@@ -5912,7 +5914,7 @@ e.g.   a young/native/great American
 
 ◆  可做形容词  
 
-# 539.   teach  [ti ː t ʃ ]    v. 教授  
+ 539.   teach  [ti ː t ʃ ]    v. 教授  
 
 $\spadesuit$  常用及物：A teach B.  
 
@@ -5946,7 +5948,7 @@ e.g.  half hour       ×
 
 e.g.  a half hour  
 
-# 542.   situation  [s ɪ tj ʊˈ e ɪʃ n]    n. 情况  
+ 542.   situation  [s ɪ tj ʊˈ e ɪʃ n]    n. 情况  
 
 ◆  可数名词  
 $\spadesuit$   形容词伴侣  
@@ -5955,7 +5957,7 @@ e.g.   a difficult/dangerous situation
 
 ◆  固定： be in a adj. situation  
 
-# 543.   easy  [ˈiːzɪ]  adj. 容易的  
+ 543.   easy  [ˈiːzɪ]  adj. 容易的  
 
 ◆  黄金形容词！  
 
@@ -5979,7 +5981,7 @@ $\spadesuit$  商业活动的成本
 
 e.g.   running costs  
 
-# 545.   industry    [ ˈɪ nd ə str ɪ ]   n. 工业  
+ 545.   industry    [ ˈɪ nd ə str ɪ ]   n. 工业  
 
 ◆  可数不可数皆可  
 
@@ -6012,7 +6014,7 @@ e.g.  face a problem/task/challenge
 
     be faced with a problem …..  
 
-# 548.   street   [stri ː t]     n. 街道  
+ 548.   street   [stri ː t]     n. 街道  
 
 ◆  可数名词  
 
@@ -6024,7 +6026,7 @@ e.g.  a quiet/busy/narrow street
 
 e.g.  cross the street  
 
-# 549.    image   [ˈɪmɪdʒ]   n. 影像  
+ 549.    image   [ˈɪmɪdʒ]   n. 影像  
 
 ◆  可数名词  
 
@@ -6035,7 +6037,7 @@ e.g.   a still/moving image
 ◆  公众形象  
 e.g.   a good/bad image  
 
-# 550.   itself   [ ɪ t ˈ self]   pron. 它自己  
+ 550.   itself   [ ɪ t ˈ self]   pron. 它自己  
 
 ◆  反身代词：A do A-self.  
 
@@ -6045,7 +6047,7 @@ e.g.   defend/repeat itself
 
 $\spadesuit$  体现词频的神奇！  
 
-# 551.   phone   [f əʊ n]  n. 电话  
+ 551.   phone   [f əʊ n]  n. 电话  
 
 ◆  tele   $^+$   phone  
 
@@ -6055,7 +6057,7 @@ e.g.   answer/use the phone
 
 ◆  相关： smartphone    n.  
 
-# 552.   either   [ ˈ a ɪ ð ə (r)]   adv. 也不  
+ 552.   either   [ ˈ a ɪ ð ə (r)]   adv. 也不  
 
 ◆  否定复议  
 
@@ -6076,7 +6078,7 @@ e.g.   raw/personal/computer data
 $\spadesuit$   动词伴侣  
 
 e.g.   collect data  
-# 554.   cover  [ ˈ k ʌ v ə(r) ]  v. 遮盖  
+ 554.   cover  [ ˈ k ʌ v ə(r) ]  v. 遮盖  
 
 ◆  及物动词：A cover B.  
 
@@ -6086,7 +6088,7 @@ e.g.  cover the face/wall/ground
 
 ◆  同源：discover      v.  
 
-# 555.   quite  [kwa ɪ t]     adv. 相当  
+ 555.   quite  [kwa ɪ t]     adv. 相当  
 
 ◆  副词：修饰形容词  
 
@@ -6121,7 +6123,7 @@ e.g.  The question is clear.
 ◆  固定结构  
 e.g.   It is clear that ……  
 
-# 558.   practice    [ ˈ prækt ɪ s]   n. 练习  
+ 558.   practice    [ ˈ prækt ɪ s]   n. 练习  
 
 ◆  常用不可数  
 
@@ -6157,7 +6159,7 @@ $\spadesuit$   动词伴侣
 
 e.g.  own land  
 
-# 561.   recent  [ˈriːsnt]   adj. 最近的  
+ 561.   recent  [ˈriːsnt]   adj. 最近的  
 
 $\spadesuit$  常做定语  
 
@@ -6166,7 +6168,7 @@ e.g.  a recent study/report/book
 
 ◆  固定结构 e.g.  in recent years/months  
 
-# 562.   describe  [d ɪˈ skra ɪ b]    vt. 描述  
+ 562.   describe  [d ɪˈ skra ɪ b]    vt. 描述  
 
 $\spadesuit$   及物动词：A describe B.  
 
@@ -6178,7 +6180,7 @@ $\spadesuit$  固定用法
 
 e.g.  C is hard to describe.  
 
-# 563.   product  [ ˈ pr ɒ d ʌ kt]  n. 产品  
+ 563.   product  [ ˈ pr ɒ d ʌ kt]  n. 产品  
 
 ◆  可数名词  
 
@@ -6213,7 +6215,7 @@ e.g.   a high/low/thick wall
 
 e.g.   climb/jump over the wall  
 
-# 566.   patient  [ ˈ pe ɪʃ nt]   n. 病人  
+ 566.   patient  [ ˈ pe ɪʃ nt]   n. 病人  
 
 ◆  可数名词  
 
@@ -6246,7 +6248,7 @@ e.g.  good/bad/daily news
 $\spadesuit$  可以做可数名词  
 
 e.g.  a piece of news  
-# 569.   test     [test]  n. 测试  
+ 569.   test     [test]  n. 测试  
 
 ◆  可数名词  
 
@@ -6258,7 +6260,7 @@ $\spadesuit$   动词伴侣
 
 e.g. take a test  
 
-# 570.   movie   [ˈmuːvɪ]     n. 电影  
+ 570.   movie   [ˈmuːvɪ]     n. 电影  
 
 $\spadesuit$  可数名词  
 
@@ -6291,7 +6293,7 @@ $\spadesuit$   习惯用法：the north
 ◆  介词伴侣  
 e.g.   in/to the north of a place  
 
-# 573.   love  [l ʌ v]    n. 爱  
+ 573.   love  [l ʌ v]    n. 爱  
 
 ◆  不可数名词  
 
@@ -6303,7 +6305,7 @@ e.g.   true/romantic love
 
 e.g.   a love letter/story  
 
-# 574. personal  [ ˈ p ɜː s ə n ə l]  adj. 个人的  
+ 574. personal  [ ˈ p ɜː s ə n ə l]  adj. 个人的  
 
 $\spadesuit$  常做定语  
 
@@ -6315,7 +6317,7 @@ e.g.  one’s personal view/property
 
 e.g.  personal belongings  
 
-# 575.   open  [ˈəʊpən]   adj. 开着的  
+ 575.   open  [ˈəʊpən]   adj. 开着的  
 
 $\spadesuit$  表语或定语  
 
@@ -6327,14 +6329,14 @@ e.g.  a door/window/drawer is open.
 
 ◆  反义词：closed   adj.  
 
-# 576.   support  [s əˈ p ɔː t]   n. 支持  
+ 576.   support  [s əˈ p ɔː t]   n. 支持  
 
 $\spadesuit$  不可数名词  
 
 ◆  形容词伴侣  e.g.   strong/popular support  
 ◆  动词伴侣  e.g.   have/get support  
 
-# 577.   simply  [ ˈ s ɪ mpl ɪ ]   adv. 仅仅  
+ 577.   simply  [ ˈ s ɪ mpl ɪ ]   adv. 仅仅  
 
 ◆  simple (adj.)   $^+$   ly (adv.)  
 
@@ -6346,7 +6348,7 @@ $\spadesuit$  容易理解
 
 e.g.  To put it simply, ……  
 
-# 578.   third  [θ ɜː d]     num. 第三个  
+ 578.   third  [θ ɜː d]     num. 第三个  
 
 ◆  数词或限定词  
 
@@ -6356,7 +6358,7 @@ e.g.  the third day/year/party
 
 ◆  同源：  thirdly    adv.  
 
-# 579.   technology  [tek ˈ n ɒ l ə d ʒɪ ]   n. 科技  
+ 579.   technology  [tek ˈ n ɒ l ə d ʒɪ ]   n. 科技  
 
 ◆  可数不可数皆可  
 
@@ -6389,7 +6391,7 @@ e.g.  a small/big/important step
 
 e.g.  take a step  
 
-# 582.   baby  [ ˈ be ɪ b ɪ ]   n. 婴儿  
+ 582.   baby  [ ˈ be ɪ b ɪ ]   n. 婴儿  
 
 $\spadesuit$  可数名词  
 
@@ -6401,7 +6403,7 @@ $\spadesuit$   动词伴侣
 
 e.g.  have/look after a baby  
 
-# 583. computer  [k ə m ˈ pju ː t ə(r) ]   n. 电脑  
+ 583. computer  [k ə m ˈ pju ː t ə(r) ]   n. 电脑  
 
 ◆  compute (v.)   $^+$   er (n.)  
 
@@ -6412,7 +6414,7 @@ e.g.  a personal/used computer
 $\spadesuit$   动词伴侣  
 
 e.g.  use/buy a computer  
-# 584.   type  [taɪp]   n. 类型  
+ 584.   type  [taɪp]   n. 类型  
 
 ◆  可数名词  
 
@@ -6424,7 +6426,7 @@ e.g.   a new/different/basic type
 
 e.g.   a type of blood/person  
 
-# 585.   attention  [ əˈ ten ʃ n]  n. 注意力  
+ 585.   attention  [ əˈ ten ʃ n]  n. 注意力  
 
 $\spadesuit$  不可数名词：不可分割  
 
@@ -6436,7 +6438,7 @@ e.g.   pay attention to ……
 
 e.g.   full/close attention  
 
-# 586.   draw  [dr ɔː ]   v. 绘画  
+ 586.   draw  [dr ɔː ]   v. 绘画  
 
 ◆  常用及物：A draw B.  
 
@@ -6446,7 +6448,7 @@ e.g.   draw a picture/map/circle
 
 ◆  同源： drawing         n.  
 
-# 587.   film  [f ɪ lm]  n. 电影  
+ 587.   film  [f ɪ lm]  n. 电影  
 
 ◆  可数名词  
 
@@ -6457,7 +6459,7 @@ e.g.   a short/foreign/silent film
 ◆  动词伴侣  
 e.g.   watch/make a film  
 
-# 588.   tree  [tri ː ]    n. 树  
+ 588.   tree  [tri ː ]    n. 树  
 
 ◆  可数名词  
 
@@ -6469,7 +6471,7 @@ e.g.   a tall/small/dark tree
 
 e.g.   plant/grow a tree  
 
-# 589.   source  [s ɔː s]   n. 源  
+ 589.   source  [s ɔː s]   n. 源  
 
 $\spadesuit$  可数名词  
 
@@ -6479,7 +6481,7 @@ $\spadesuit$  可数名词
 
 e.g.  a good/useful/important source  
 
-# 590.   red  [red]  adj. 红色的  
+ 590.   red  [red]  adj. 红色的  
 
 ◆  表语或定语  
 
@@ -6491,7 +6493,7 @@ e.g.  a red flag/face/carpet
 
 ◆  固定： be in the red  
 
-# 591.   nearly  [ ˈ n ɪə l ɪ ]   adv. 将近  
+ 591.   nearly  [ ˈ n ɪə l ɪ ]   adv. 将近  
 
 $\spadesuit$  副词：修饰形容词或动词  
 
@@ -6500,7 +6502,7 @@ $\spadesuit$   形容词：数目不确切
 e.g.  Jane is nearly twenty.  
 $\spadesuit$  动词：未能发生 e.g.  Jane nearly died.  
 
-# 592.   organization    [ ˌɔː ɡ ə na ɪˈ ze ɪʃ n]  n. 组织  
+ 592.   organization    [ ˌɔː ɡ ə na ɪˈ ze ɪʃ n]  n. 组织  
 
 ◆  organ (n.)  $^+$   ize (v.)  $^+$   tion (n.)  
 
@@ -6510,7 +6512,7 @@ e.g.  a large/international …
 
 $\spadesuit$   动词伴侣：  join an organization  
 
-# 593.   choose  [t ʃ u ː z]   v. 选择  
+ 593.   choose  [t ʃ u ː z]   v. 选择  
 
 ◆  及物动词：A choose B.  
 
@@ -6520,7 +6522,7 @@ e.g.   choose a word/color/road
 
 $\spadesuit$  大众版： pick           v.  
 
-# 594.   cause   [k ɔː z] v. 导致  
+ 594.   cause   [k ɔː z] v. 导致  
 
 ◆  及物动词：A cause B.  
 
@@ -6530,7 +6532,7 @@ e.g.   cause a problem/trouble
 
 ◆  同源： because   conj.  
 
-# 595.   hair [he ə ]   n. 毛发  
+ 595.   hair [he ə ]   n. 毛发  
 
 ◆  可数不可数皆可  
 
@@ -6541,7 +6543,7 @@ e.g.   black/long/red hair
 ◆  可数：一根头发  
 e.g.   a few grey hairs  
 
-# 596.   look [l ʊ k]   n. 看一看  
+ 596.   look [l ʊ k]   n. 看一看  
 
 ◆  注意：可数名词！  
 
@@ -6553,7 +6555,7 @@ e.g.  a good/close/better look
 
 e.g.  have/take a look  
 
-# 597.   point  [p ɒɪ nt]   v. 用手指  
+ 597.   point  [p ɒɪ nt]   v. 用手指  
 
 $\spadesuit$   及物不及物皆可 
 
@@ -6565,7 +6567,7 @@ e.g.  point a finger/gun/camera
 
 ◆  介词伴侣：    $^+$   at/to …  
 
-# 598.   century  [ ˈ sent ʃʊ r ɪ ]   n. 世纪  
+ 598.   century  [ ˈ sent ʃʊ r ɪ ]   n. 世纪  
 
 ◆  cent (n.) + ury  
 
@@ -6577,7 +6579,7 @@ $\spadesuit$   介词伴侣
 
 e.g.   in/during the 18th century  
 
-# 599.   evidence [ ˈ ev ɪ d ə ns]    n. 证据  
+ 599.   evidence [ ˈ ev ɪ d ə ns]    n. 证据  
 
 $\spadesuit$  不可数名词：无固定形式  
 
@@ -6586,7 +6588,7 @@ e.g.  good/strong evidence
 
 ◆  动词伴侣  e.g.  have/look for evidence  
 
-# 600.   window  [ ˈ w ɪ nd əʊ ]   n. 窗户  
+ 600.   window  [ ˈ w ɪ nd əʊ ]   n. 窗户  
 
 $\spadesuit$  可数名词  
 
@@ -6598,7 +6600,7 @@ $\spadesuit$   动词伴侣
 
 e.g.    open/clean a window  
 
-# 601.   difficult  [ ˈ d ɪ f ɪ k( ə )lt]  adj. 困难的  
+ 601.   difficult  [ ˈ d ɪ f ɪ k( ə )lt]  adj. 困难的  
 
 ◆  做表语或定语  
 
@@ -6633,7 +6635,7 @@ e.g.   We’ll be home soon.
 
 ◆  与quickly 区分  
 
-# 604.   culture   [ˈkʌltʃə(r)]   n. 文化  
+ 604.   culture   [ˈkʌltʃə(r)]   n. 文化  
 
 $\spadesuit$  可数不可数皆可  
 
@@ -6666,7 +6668,7 @@ e.g.   a good/great/rare chance
 $\spadesuit$   动词伴侣  
 
 e.g.   have a chance to do sth  
-# 607.   brother   [ ˈ br ʌ ð ə(r) ]  n. 兄弟  
+ 607.   brother   [ ˈ br ʌ ð ə(r) ]  n. 兄弟  
 
 ◆  可数名词  
 
@@ -6676,7 +6678,7 @@ e.g.   a big/young/little brother
 
 ◆  不分年长年幼  
 
-# 608.   energy   [ˈenədʒɪ]   n. 能量  
+ 608.   energy   [ˈenədʒɪ]   n. 能量  
 
 ◆  不可数名词：抽象  
 
@@ -6688,7 +6690,7 @@ e.g.   solar/green/renewable energy
 
 e.g.   produce/use energy  
 
-# 609.   period  [ ˈ p ɪə r iə d]   n. 时期  
+ 609.   period  [ ˈ p ɪə r iə d]   n. 时期  
 
 ◆  可数名词  
 
@@ -6711,7 +6713,7 @@ e.g.   a language/business course
 ◆  动词伴侣  
 e.g.   do/take a course  
 
-# 611.   summer   [ˈsʌmə(r)]    n. 夏天  
+ 611.   summer   [ˈsʌmə(r)]    n. 夏天  
 
 ◆  可数不可数皆可  
 
@@ -6721,7 +6723,7 @@ $\spadesuit$   形容词伴侣
 
 e.g.    a hot/dry/wet summer  
 
-# 612.   less [les]   det. 更少的  
+ 612.   less [les]   det. 更少的  
 
 $\spadesuit$  限定词  $^+$  名词  
 
@@ -6731,7 +6733,7 @@ e.g.   less time/money/people
 
 $\spadesuit$  反义词：  more   det.  
 
-# 613.   realize  [ ˈ ri ːə la ɪ z]   v. 意识到  
+ 613.   realize  [ ˈ ri ːə la ɪ z]   v. 意识到  
 
 ◆  real (adj.)   $^+$   ize (v.)  
 
@@ -6743,7 +6745,7 @@ e.g.   realize the truth/your mistake
 
 e.g.   realize a dream/goal  
 
-# 614.   hundred [ ˈ h ʌ ndr ə d]    n. 一百  
+ 614.   hundred [ ˈ h ʌ ndr ə d]    n. 一百  
 
 ◆  数词或名词  
 
@@ -6760,7 +6762,7 @@ e.g.  The room is available.
 
 e.g.  easily/widely available  
 
-# 616.   plant  [plɑːnt]   n. 植物  
+ 616.   plant  [plɑːnt]   n. 植物  
 
 ◆  可数名词  
 
@@ -6772,7 +6774,7 @@ $\spadesuit$   动词伴侣
 
 e.g.    grow/water a plant  
 
-# 617.   likely   [ˈlaɪklɪ]    adj. 很可能  
+ 617.   likely   [ˈlaɪklɪ]    adj. 很可能  
 
 ◆  like   $^+$   ly (adv.)  
 
@@ -6784,7 +6786,7 @@ e.g.    grow/water a plant
 
     It is likely that A will do B.  
 
-# 618．  opportunity   [ɒpəˈtjuːnətɪ]  n. 机会  
+ 618．  opportunity   [ɒpəˈtjuːnətɪ]  n. 机会  
 
 ◆  可数名词  
 
@@ -6795,7 +6797,7 @@ e.g.    a great/rare opportunity
 ◆  动词伴侣  
 e.g.   have an opportunity to do  
 
-# 619.   term  [tɜːm]   n. 学期  
+ 619.   term  [tɜːm]   n. 学期  
 
 ◆  可数名词  
 
@@ -6807,7 +6809,7 @@ e.g.   the spring/autumn term
 
 e.g.   this/next/last term  
 
-# 620.   short  [ ʃɔː t]   adj. 短的  
+ 620.   short  [ ʃɔː t]   adj. 短的  
 
 $\spadesuit$  表语或定语  
 
@@ -6831,7 +6833,7 @@ $\spadesuit$   动词伴侣
 
 e.g.    write/read a letter  
 
-# 622.   condition  [k ə n ˈ d ɪʃ n]   n. 状况  
+ 622.   condition  [k ə n ˈ d ɪʃ n]   n. 状况  
 
 $\spadesuit$  常用单数：in a adj. condition  
 
@@ -6852,7 +6854,7 @@ e.g.    a difficult/hard choice
 
 e.g.    have/make a choice  
 
-# 624.   place   [ple ɪ s]     n. 地方  
+ 624.   place   [ple ɪ s]     n. 地方  
 
 ◆  可数名词  
 
@@ -6864,7 +6866,7 @@ e.g.    a good/nice/interesting place
 
 e.g.    one’s place of birth/work  
 
-# 625.   single [ ˈ s ɪ ŋgl]  adj. 只有一个  
+ 625.   single [ ˈ s ɪ ŋgl]  adj. 只有一个  
 
 ◆  表语或定语  
 
@@ -6887,7 +6889,7 @@ e.g.   strict/simple/basic rules
 
 e.g.   follow a rule  
 
-# 627.   daughter  [ ˈ d ɔː t ə(r) ]   n. 女儿  
+ 627.   daughter  [ ˈ d ɔː t ə(r) ]   n. 女儿  
 
 ◆  可数名词  
 
@@ -6899,7 +6901,7 @@ $\spadesuit$   动词伴侣
 
 e.g.   have/raise a daughter  
 
-# 628.  administration  [ədmɪnɪˈstreɪʃn]  n. 行政  
+ 628.  administration  [ədmɪnɪˈstreɪʃn]  n. 行政  
 
 ◆  administer (v.)   $^+$   tion (n.)  
 
@@ -6911,7 +6913,7 @@ e.g.  good/poor administration
 
 e.g.  the Chinese/UK administration  
 
-# 629.   south   [sa ʊ θ]  n. 南方  
+ 629.   south   [sa ʊ θ]  n. 南方  
 
 ◆  常用单数：the south  
 
@@ -6920,7 +6922,7 @@ e.g.  the Chinese/UK administration
 e.g.   in/to/towards the south  
 
 ◆  反义词： north       n.  
-# 630.   husband   [ˈhʌzbənd]   n. 丈夫  
+ 630.   husband   [ˈhʌzbənd]   n. 丈夫  
 
 ◆  可数名词  
 
@@ -6932,7 +6934,7 @@ e.g.   a good/loving husband
 
 e.g.   have/find a husband  
 
-# 631.   Congress  [ˈkɒŋgres]      n. 国会  
+ 631.   Congress  [ˈkɒŋgres]      n. 国会  
 
 ◆  本意：代表大会  
 
@@ -6954,7 +6956,7 @@ e.g.   a wooden/marble floor
 
 e.g.   clean/wash the floor  
 
-# 633. campaign   [kæm ˈ pe ɪ n]     n. 运动  
+ 633. campaign   [kæm ˈ pe ɪ n]     n. 运动  
 
 ◆  可数名词  
 
@@ -6965,7 +6967,7 @@ e.g.  a national/long campaign
 ◆  动词伴侣  
 e.g.  organize a campaign  
 
-# 634.   material   [m əˈ t ɪə r ɪə l]   n. 材料  
+ 634.   material   [m əˈ t ɪə r ɪə l]   n. 材料  
 
 ◆  可数不可数皆可  
 
@@ -6977,7 +6979,7 @@ $\spadesuit$  固定搭配
 
 e.g.  reading/building materials  
 
-# 635.  population  [pɒpjʊˈleɪʃn]     n. 人口  
+ 635.  population  [pɒpjʊˈleɪʃn]     n. 人口  
 
 ◆  populate (v.)   $^+$   tion (n.)  
 
@@ -7001,14 +7003,14 @@ $\spadesuit$   动词伴侣
 
 e.g.   make/get a call  
 
-# 637.   economy   [ɪˈkɒnəmɪ]    n. 经济  
+ 637.   economy   [ɪˈkɒnəmɪ]    n. 经济  
 
 $\spadesuit$  可数名词  
 
 ◆  形容词伴侣  e.g.   a strong/healthy/poor economy  
 ◆  常用： the economy    n.  
 
-# 638.   medical  [ˈmedɪkl]   adj. 医学的  
+ 638.   medical  [ˈmedɪkl]   adj. 医学的  
 
 $\spadesuit$  常做定语  
 
@@ -7020,7 +7022,7 @@ e.g.   a medical center/school
 
 e.g.   medical care/help  
 
-# 639.   hospital  [ ˈ h ɒ sp ɪ tl]   n. 医院  
+ 639.   hospital  [ ˈ h ɒ sp ɪ tl]   n. 医院  
 
 $\spadesuit$  可数名词  
 
@@ -7055,7 +7057,7 @@ e.g.   close the door/window/shop
 
 $\spadesuit$  近义词： shut   v.  
 
-# 642.   thousand  [ ˈ θa ʊ znd]    num. 一千  
+ 642.   thousand  [ ˈ θa ʊ znd]    num. 一千  
 
 $\spadesuit$  数词或限定词  
 
@@ -7075,7 +7077,7 @@ e.g.    a high/big/small risk
 
 e.g.    have/take a risk  
 
-# 644.   current  [ˈkʌrənt]   adj. 当前的  
+ 644.   current  [ˈkʌrənt]   adj. 当前的  
 
 ◆  只做定语  
 
@@ -7108,7 +7110,7 @@ e.g.  a good/bright/dark future
 
 e.g.  in the future  
 
-# 647.   wrong  [r ɒ ŋ]    adj. 错误的  
+ 647.   wrong  [r ɒ ŋ]    adj. 错误的  
 
 ◆  做表语或定语 
 
@@ -7143,7 +7145,7 @@ e.g.  a strong/powerful defense
 
 e.g.  the Defense Department  
 
-# 650.   anyone  [ˈenɪwʌn]   pron. 任何人  
+ 650.   anyone  [ˈenɪwʌn]   pron. 任何人  
 
 ◆  不定代词  
 
@@ -7163,7 +7165,7 @@ e.g.    the number/rate increases
 
 ◆  改写： go up           v.  
 
-# 652.   security  [s ɪˈ kj ʊə r ə t ɪ ]    n. 安全  
+ 652.   security  [s ɪˈ kj ʊə r ə t ɪ ]    n. 安全  
 
 ◆  不可数名词：抽象  
 
@@ -7184,7 +7186,7 @@ e.g.    a large/central/commercial bank
 
 e.g.    go to the bank  
 
-# 654. myself  [ma ɪˈ self]    pron. 我自己  
+ 654. myself  [ma ɪˈ self]    pron. 我自己  
 
 ◆  反身代词：A do A-self.  
 
@@ -7194,7 +7196,7 @@ e.g.    find/tell/ask myself
 
 $\spadesuit$  相关： ourselves   pron.  
 
-# 655.   certainly   [ ˈ s ɜː tnl ɪ ]   adv. 当然  
+ 655.   certainly   [ ˈ s ɜː tnl ɪ ]   adv. 当然  
 
 ◆  certain (adj.)   $^+$   ly (adv.)  
 
@@ -7216,7 +7218,7 @@ e.g.   in/to/towards the west
 
 $\spadesuit$  反义词：  east    n.  
 
-# 657.   sport   [sp ɔː t] n. 运动  
+ 657.   sport   [sp ɔː t] n. 运动  
 
 ◆  可数不可数皆可  
 $\spadesuit$   动词伴侣  
@@ -7257,7 +7259,7 @@ e.g.    per day/week/year
 
 ◆  相关： percent   n.  
 
-# 661. subject  [ˈsʌbdʒɪkt]   n. 主题  
+ 661. subject  [ˈsʌbdʒɪkt]   n. 主题  
 
 ◆  可数名词  
 $\spadesuit$   形容词伴侣  
@@ -7268,7 +7270,7 @@ e.g.    a big/serious/simple subject
 
 e.g.    discuss/talk about a subject  
 
-# 662.   officer  [ ˈɒ f ɪ s ə(r) ]  n. 官员  
+ 662.   officer  [ ˈɒ f ɪ s ə(r) ]  n. 官员  
 
 ◆  可数名词  
 
@@ -7278,7 +7280,7 @@ e.g.   a senior/junior officer
 
 ◆  近义词： official    n.  
 
-# 663.   private   [ˈpraɪvət] adj. 私人的  
+ 663.   private   [ˈpraɪvət] adj. 私人的  
 
 ◆  做表语或定语  
 
@@ -7300,7 +7302,7 @@ e.g.   a good/short/complete rest
 
 e.g.   take/have a rest  
 
-# 665.   behavior  [b ɪˈ he ɪ vj ə(r) ]   n. 行为  
+ 665.   behavior  [b ɪˈ he ɪ vj ə(r) ]   n. 行为  
 
 ◆  不可数名词：统称  
 $\spadesuit$   形容词伴侣  
@@ -7323,7 +7325,7 @@ $\spadesuit$  书或演讲的主题
 
 e.g.   The book deals with WW2.  
 
-# 667.   performance     [p əˈ f ɔː m ə ns]      n. 表现  
+ 667.   performance     [p əˈ f ɔː m ə ns]      n. 表现  
 
 ◆  perform (v.) — ance (n.)  
 
@@ -7356,7 +7358,7 @@ e.g.  throw a ball/rock/stone
 
 e.g.  A throw B to C.   A throw C B.  
 
-# 670.   top  [t ɒ p]   n. 顶端  
+ 670.   top  [t ɒ p]   n. 顶端  
 
 ◆  可数名词  
 
@@ -7366,7 +7368,7 @@ e.g.   reach/climb to the top of sth
 
 $\spadesuit$  反义词： bottom   n.  
 
-# 671.   quickly   [ ˈ kw ɪ kl ɪ ]   adv. 迅速地  
+ 671.   quickly   [ ˈ kw ɪ kl ɪ ]   adv. 迅速地  
 
 ◆  quick (adj.)   $^+$   ly (adv.)  
 
@@ -7389,7 +7391,7 @@ e.g.   past performance/experience
 $\spadesuit$  刚过去的时间  
 
 e.g.   the past week/month/year  
-# 673.   goal  [g əʊ l]  n. 目标  
+ 673.   goal  [g əʊ l]  n. 目标  
 
 $\spadesuit$  可数名词  
 
@@ -7401,7 +7403,7 @@ $\spadesuit$   动词伴侣
 
 e.g.    have/work towards a goal  
 
-# 674.   bed  [bed]   n. 床  
+ 674.   bed  [bed]   n. 床  
 
 ◆  可数名词  
 
@@ -7413,7 +7415,7 @@ e.g.   a warm/soft/single bed
 
 e.g.   go to/lie in bed  
 
-# 675.   order   [ ˈɔː d ə(r) ]    n. 顺序  
+ 675.   order   [ ˈɔː d ə(r) ]    n. 顺序  
 
 ◆  可数不可数皆可  
 
@@ -7436,7 +7438,7 @@ $\spadesuit$   介词伴侣
 
 e.g.   the author of a book  
 
-# 677.  fill  [f ɪ l]   v. 填满  
+ 677.  fill  [f ɪ l]   v. 填满  
 
 $\spadesuit$   及物不及物皆可 
 
@@ -7448,7 +7450,7 @@ e.g.  fill a bag/bottle/space
 
 ◆  固定：be filled with ……  
 
-# 678.   represent  [repr ɪˈ zent]   v. 代表  
+ 678.   represent  [repr ɪˈ zent]   v. 代表  
 
 $\spadesuit$   及物动词： A represent B.  
 
@@ -7472,7 +7474,7 @@ e.g.   your attention/mind/efforts
 
           Focus your mind on your work.  
 
-# 680.   foreign  [ˈfɒrən]   adj. 外国的  
+ 680.   foreign  [ˈfɒrən]   adj. 外国的  
 
 ◆  常做定语  
 $\spadesuit$  名词伴侣  
@@ -7483,7 +7485,7 @@ e.g.    a foreign student/language/bank
 
 e.g.    foreign investment/aid/affairs  
 
-# 681.   drop    [dr ɒ p]   v. 掉下  
+ 681.   drop    [dr ɒ p]   v. 掉下  
 
 $\spadesuit$  及物不及物皆可：A drop B.   B drop.  
 
@@ -7493,7 +7495,7 @@ e.g.   drop the ball/vase/wallet
 
 ◆  不及物：名词伴侣 e.g.   the price/rate drops  
 
-# 682.   plan  [plæn]  v. 计划  
+ 682.   plan  [plæn]  v. 计划  
 
 $\spadesuit$   及物不及物皆可  
 
@@ -7505,7 +7507,7 @@ $\spadesuit$  不及物：补充
 
 e.g.    plan to do sth     plan for sth  
 
-# 683.   blood  [bl ʌ d]   n. 鲜血  
+ 683.   blood  [bl ʌ d]   n. 鲜血  
 
 $\spadesuit$  不可数名词：不可分割  
 
@@ -7516,7 +7518,7 @@ e.g.  a drop/pool of blood
 $\spadesuit$  名词伴侣  
 
 e.g.   blood pressure/type  
-# 684.   upon  [ əˈ p ɒ n]   prep. 之上  
+ 684.   upon  [ əˈ p ɒ n]   prep. 之上  
 
 ◆  on 的正式版  
 
@@ -7528,7 +7530,7 @@ e.g.   A depend upon B.
 
           A look down upon B.  
 
-# 685.   agency  [ ˈ e ɪ d ʒə nsi]     n. 机构  
+ 685.   agency  [ ˈ e ɪ d ʒə nsi]     n. 机构  
 
 ◆  可数名词  
 
@@ -7540,7 +7542,7 @@ e.g.   a travel/news agency
 
 e.g.   a UN agency  
 
-# 686.   push  [p ʊʃ ]  v. 推  
+ 686.   push  [p ʊʃ ]  v. 推  
 
 $\spadesuit$   及物不及物皆可 
 
@@ -7552,7 +7554,7 @@ e.g.    push a button/door/window
 
 $\spadesuit$  反义词：  pull   v.  
 
-# 687.   nature  [ˈneɪtʃə(r)]   n. 自然  
+ 687.   nature  [ˈneɪtʃə(r)]   n. 自然  
 
 $\spadesuit$  常用不可数：Nature  
 
@@ -7563,7 +7565,7 @@ $\spadesuit$  名词伴侣
 
 e.g.   the laws/forces of nature  
 
-# 688.   color  [ ˈ k ʌ l ə (r)]   n. 颜色  
+ 688.   color  [ ˈ k ʌ l ə (r)]   n. 颜色  
 
 $\spadesuit$  常用可数（ $=$ colour）  
 
@@ -7573,7 +7575,7 @@ e.g.   a bright/dark color
 
 $\spadesuit$  同源：colorful    adj.  
 
-# 689.   recently  [ ˈ ri ː sntli]   adv. 最近  
+ 689.   recently  [ ˈ ri ː sntli]   adv. 最近  
 
 ◆  recent (adj.)   $^+$   ly (adv.)  
 
@@ -7597,7 +7599,7 @@ $\spadesuit$  名词伴侣
 
 e.g.   a shoe/toy/food store  
 
-# 691.   reduce  [r ɪˈ dju ː s]     $\pmb{\upnu}.$   减少  
+ 691.   reduce  [r ɪˈ dju ː s]     $\pmb{\upnu}.$   减少  
 
 $\spadesuit$  及物动词：A reduce B.  
 
@@ -7606,7 +7608,7 @@ e.g.   reduce the risk/cost/number
 
 ◆  近义词： decrease    v.  
 
-# 692.   sound  [saʊnd]  n. 声音  
+ 692.   sound  [saʊnd]  n. 声音  
 
 $\spadesuit$  可数不可数皆可  
 
@@ -7618,7 +7620,7 @@ e.g.   a high/low/loud sound
 
 e.g.   Sound can’t travel in vacuum.  
 
-# 693.   note   [n əʊ t]    v. 注意  
+ 693.   note   [n əʊ t]    v. 注意  
 
 $\spadesuit$  及物动词：A note B.  
 
@@ -7630,7 +7632,7 @@ $\spadesuit$  提到某物
 
 e.g.    the author/report notes sth  
 
-# 694.   fine  [faɪn]   adj. 不错的  
+ 694.   fine  [faɪn]   adj. 不错的  
 
 ◆  做表语或定语  
 
@@ -7642,7 +7644,7 @@ $\spadesuit$   表语： … looks/seems fine.
 
 e.g.   fine food/wine/weather  
 
-# 695.   before [bɪˈfɔː(r)]    adv. 以前  
+ 695.   before [bɪˈfɔː(r)]    adv. 以前  
 
 $\spadesuit$  副词：修饰动词  
 $\spadesuit$  常用于完成时句尾 e.g.   We have met before.  
@@ -7663,7 +7665,7 @@ $\spadesuit$   动词伴侣
 
 e.g.   live/go/come near sb/sth  
 
-# 697. movement    [ ˈ mu ː vm ə nt]    n. 移动  
+ 697. movement    [ ˈ mu ː vm ə nt]    n. 移动  
 
 ◆  move (v.)   $^+$   ment (n.)  
 
@@ -7686,7 +7688,7 @@ e.g.    the first/last/front page
 $\spadesuit$   动词伴侣  
 
 e.g.    turn to/see a page  
-# 699.   enter [ ˈ ent ə(r) ]   v. 进入  
+ 699.   enter [ ˈ ent ə(r) ]   v. 进入  
 
 ◆  及物不及物皆可 
 
@@ -7698,7 +7700,7 @@ e.g.  enter a room/house/building
 
 ◆  电脑：回车键  
 
-# 700.   share  [ ʃ e ə(r) ]   v. 分享  
+ 700.   share  [ ʃ e ə(r) ]   v. 分享  
 
 $\spadesuit$   及物不及物皆可  
 
@@ -7710,7 +7712,7 @@ e.g.   share a room/taxi/office
 
 $\spadesuit$   抽象：share information  
 
-# 701.   than  [ðæn]   prep. 比  
+ 701.   than  [ðæn]   prep. 比  
 
 ◆  介词  $^+$  名词  
 
@@ -7722,7 +7724,7 @@ e.g.   I’m older than her.
 
 e.g.   He loves me more than you do.  
 
-# 702. common   [ˈkɒmən]   adj. 常见的  
+ 702. common   [ˈkɒmən]   adj. 常见的  
 
 $\spadesuit$  做表语或定语  
 
@@ -7731,7 +7733,7 @@ $\spadesuit$  名词伴侣
 
 e.g.  a common reason/flower/problem  
 
-# 703.   poor  [p ʊə(r) ]    adj. 贫穷的  
+ 703.   poor  [p ʊə(r) ]    adj. 贫穷的  
 
 $\spadesuit$  做表语或定语  
 
@@ -7741,7 +7743,7 @@ e.g.    a poor man/family/country
 
 $\spadesuit$  固定结构： the poor        n.  
 
-# 704.   natural  [ˈnætʃrəl]  adj. 自然的  
+ 704.   natural  [ˈnætʃrəl]  adj. 自然的  
 
 ◆  nature (n.)  $^+$   al (adj.)  
 
@@ -7765,7 +7767,7 @@ $\spadesuit$   种族：谁能幸存
 
 e.g.    people of all races  
 
-# 706.   concern  [k ə n ˈ s ɜː n]    n. 担忧  
+ 706.   concern  [k ə n ˈ s ɜː n]    n. 担忧  
 
 $\spadesuit$  可数不可数皆可  
 
@@ -7786,7 +7788,7 @@ $\spadesuit$  电视剧集
 
 e.g.   a TV/radio series  
 
-# 708. significant  [sɪgˈnɪfɪkənt]   adj. 重要的  
+ 708. significant  [sɪgˈnɪfɪkənt]   adj. 重要的  
 
 ◆  sign   $^+$   ify   $^+$   cant  
 
@@ -7819,7 +7821,7 @@ e.g.   hot water/air/food
 
 $\spadesuit$  反义词： cold    adj.  
 
-# 711.   language   [ ˈ læŋgw ɪ d ʒ ]  n. 语言  
+ 711.   language   [ ˈ læŋgw ɪ d ʒ ]  n. 语言  
 
 ◆  可数名词  
 
@@ -7862,7 +7864,7 @@ e.g.  a good/bad/strong response
 
 e.g.  get/receive a response  
 
-# 715.   dead   [ded]   adj. 死亡的  
+ 715.   dead   [ded]   adj. 死亡的  
 
 ◆  做表语或定语  
 
@@ -7874,7 +7876,7 @@ e.g.   a dead man/body/animal
 
 ◆  同源： death     n.  
 
-# 716.   rise  [ra ɪ z]    v. 升起  
+ 716.   rise  [ra ɪ z]    v. 升起  
 
 $\spadesuit$  不及物动词：A rise.  
 
@@ -7886,7 +7888,7 @@ e.g.   the price/sun/water rises
 
 e.g.   A rise quickly/slowly.  
 
-# 717.   animal  [ˈænɪml]  n. 动物  
+ 717.   animal  [ˈænɪml]  n. 动物  
 
 ◆  可数名词  
 
@@ -7897,7 +7899,7 @@ e.g.   a wild/dangerous/dead animal
 ◆  动词伴侣  
 e.g.   keep/kill an animal  
 
-# 718.   factor  [ˈfæktə(r)]   n. 因素  
+ 718.   factor  [ˈfæktə(r)]   n. 因素  
 
 ◆  可数名词：原因而已！  
 
@@ -7909,7 +7911,7 @@ e.g.   a big/key/major factor
 
 e.g.   consider a factor  
 
-# 719.   decade  [ˈdekeɪd]   n. 十年  
+ 719.   decade  [ˈdekeɪd]   n. 十年  
 
 $\spadesuit$  集合名词：单数  
 
@@ -7921,7 +7923,7 @@ e.g.   the past/next decade
 
 e.g.   for decades  
 
-# 720.    article  [ˈɑːtɪkl]    n. 文章  
+ 720.    article  [ˈɑːtɪkl]    n. 文章  
 
 $\spadesuit$  可数名词  
 
@@ -7933,7 +7935,7 @@ $\spadesuit$   动词伴侣
 
 e.g.   read/write an article  
 
-# 721.   shoot  [ ʃ u ː t]   v. 射击  
+ 721.   shoot  [ ʃ u ː t]   v. 射击  
 
 $\spadesuit$   及物不及物皆可  
 
@@ -7974,7 +7976,7 @@ e.g.  seven days
 
 e.g.  We are open seven days a week.  
 
-# 725.    artist  [ ˈ ɑ ː t ɪ st] n. 艺术家  
+ 725.    artist  [ ˈ ɑ ː t ɪ st] n. 艺术家  
 
 $\spadesuit$   art (n.)  $^+$   ist (n.)  
 
@@ -7995,7 +7997,7 @@ $\spadesuit$   动词伴侣
 
 e.g.   do/play/film a scene  
 
-# 727.    stock  [st ɒ k]   n. 存货  
+ 727.    stock  [st ɒ k]   n. 存货  
 
 ◆  常用单数  
 
@@ -8007,7 +8009,7 @@ e.g.   a large/small/new stock
 
 e.g.   in/out of stock  
 
-# 728.   career  [k əˈ r ɪə(r) ]    n. 职业生涯  
+ 728.   career  [k əˈ r ɪə(r) ]    n. 职业生涯  
 
 ◆  可数名词  
 
@@ -8024,7 +8026,7 @@ e.g.    have/start a career
 
 ◆  相关：  though        conj.  
 
-# 730.   central  [ˈsentrəl]   adj. 中心的  
+ 730.   central  [ˈsentrəl]   adj. 中心的  
 
 ◆  常做定语  
 
@@ -8044,7 +8046,7 @@ e.g.   eight days/years/hours
 
 ◆  相关：  eighth   adj.  
 
-# 732.   thus  [ð ʌ s]  adv. 因此  
+ 732.   thus  [ð ʌ s]  adv. 因此  
 
 ◆  副词：修饰整句  
 
@@ -8059,7 +8061,7 @@ e.g.  He was very busy and was   thus unable to come to the meeting.
 
 $\spadesuit$  另有【对待】之意 e.g.   special/VIP treatment  
 
-# 734.   beyond  [bɪˈjɒnd]  prep. 超出  
+ 734.   beyond  [bɪˈjɒnd]  prep. 超出  
 
 $\spadesuit$   介词   $^+$   名词  
 
@@ -8071,7 +8073,7 @@ e.g.   beyond the valley/trees
 
 e.g.   beyond repair/me  
 
-# 735.   happy  [ ˈ hæp i ]  adj. 幸福的  
+ 735.   happy  [ ˈ hæp i ]  adj. 幸福的  
 
 $\spadesuit$  做表语或定语  
 
@@ -8083,7 +8085,7 @@ e.g.  a happy woman/face/life
 
 ◆  反义词： unhappy   adj.  
 
-# 736.   exactly  [ɪgˈzæktli]   adv. 确切地  
+ 736.   exactly  [ɪgˈzæktli]   adv. 确切地  
 
 ◆  数字之前  
 
@@ -8094,7 +8096,7 @@ $\spadesuit$  从句左右
 e.g.  When exactly will he arrive?  
 Exactly when will he arrive?  
 
-# 737.   protect  [pr əˈ tekt]  v. 保护  
+ 737.   protect  [pr əˈ tekt]  v. 保护  
 
 ◆  及物动词：A protect B.  
 
@@ -8104,7 +8106,7 @@ e.g.   protect you/your eyes/skin
 
 ◆  补充：A protect B from C.  
 
-# 738.   approach [əˈprəʊtʃ]    n. 办法  
+ 738.   approach [əˈprəʊtʃ]    n. 办法  
 
 $\spadesuit$  可数名词  
 
@@ -8116,7 +8118,7 @@ e.g.  a new/different/similar approach
 
 e.g.  take/use an approach  
 
-# 739.   lie  [la ɪ ]  v. 躺下  
+ 739.   lie  [la ɪ ]  v. 躺下  
 
 ◆  不及物动词  
 
@@ -8126,7 +8128,7 @@ e.g.   lie in bed/on the floor
 
 ◆  区分：lie in bed/on the bed  
 
-# 740.   size [sa ɪ z]   n. 大小  
+ 740.   size [sa ɪ z]   n. 大小  
 
 ◆  常用单数  
 
@@ -8137,7 +8139,7 @@ e.g.   a different/good/big size
 ◆  固定结构  
 e.g.   body size  
 
-# 741.   dog  [d ɒ g]  n. 狗  
+ 741.   dog  [d ɒ g]  n. 狗  
 
 ◆  可数名词  
 
@@ -8149,7 +8151,7 @@ e.g.   a pet/family/police dog
 
 e.g.    have/walk a dog  
 
-# 742.   fund   [f ʌ nd]    n. 资金  
+ 742.   fund   [f ʌ nd]    n. 资金  
 
 $\spadesuit$  可数名词  
 
@@ -8161,7 +8163,7 @@ $\spadesuit$   动词伴侣
 
 e.g.    manage a fund  
 
-# 743.   serious  [ ˈ s ɪə ri ə s]   adj. 严肃的  
+ 743.   serious  [ ˈ s ɪə ri ə s]   adj. 严肃的  
 
 $\spadesuit$  做表语或定语  
 
@@ -8173,7 +8175,7 @@ e.g.   a serious problem/mistake
 
 ◆  固定： a serious boyfriend  
 
-# 744.   occur  [ əˈ k ɜː(r) ]    $\pmb{\mathsf{v}}.$   发生  
+ 744.   occur  [ əˈ k ɜː(r) ]    $\pmb{\mathsf{v}}.$   发生  
 
 $\spadesuit$  不及物动词： A occur.  
 
@@ -8184,7 +8186,7 @@ A happen/occur.
 
 e.g.   An idea occurs to sb.  
 
-# 745.   media  [ ˈ mi ː di ə ]   n. 媒体  
+ 745.   media  [ ˈ mi ː di ə ]   n. 媒体  
 
 $\spadesuit$  不可数名词：整体  
 
@@ -8194,7 +8196,7 @@ $\spadesuit$  不可数名词：整体
 
 e.g.  the local/news/national media  
 
-# 746.   ready [ ˈ red i ]   adj. 准备好  
+ 746.   ready [ ˈ red i ]   adj. 准备好  
 
 $\spadesuit$  常做表语     e.g.   Are you ready?  
 
@@ -8206,7 +8208,7 @@ $\spadesuit$  常做表语     e.g.   Are you ready?
 
 e.g.   get ready  
 
-# 747.   sign  [sa ɪ n]   n. 标志  
+ 747.   sign  [sa ɪ n]   n. 标志  
 
 ◆  可数名词  
 
@@ -8218,7 +8220,7 @@ e.g.     a street/road/traffic sign
 
 e.g.     see/read a sign  
 
-# 748. thought  [θ ɔː t]  n. 想法  
+ 748. thought  [θ ɔː t]  n. 想法  
 
 ◆  think (v.) — thought (n.)  
 $\spadesuit$   形容词伴侣  
@@ -8229,7 +8231,7 @@ e.g.   a nice/strange/funny thought
 
 e.g.   have a thought  
 
-# 749.   list [lɪst] n. 单子  
+ 749.   list [lɪst] n. 单子  
 
 ◆  可数名词  
 
@@ -8241,7 +8243,7 @@ e.g.   a long/short/shopping list
 
 e.g.   make/write a list  
 
-# 750. individual [ ˌɪ nd ɪˈ v ɪ d ʒʊə l] n. 个体  
+ 750. individual [ ˌɪ nd ɪˈ v ɪ d ʒʊə l] n. 个体  
 
 ◆  in   $^+$   divide  $^+$   ual  
 
@@ -8274,7 +8276,7 @@ $\spadesuit$   动词伴侣
 
 e.g.   improve the quality of sth  
 
-# 753.   pressure     [ ˈ pre ʃə (r)]     n. 压力  
+ 753.   pressure     [ ˈ pre ʃə (r)]     n. 压力  
 
 ◆  press (v.)  $^+$   ure (result)  
 
@@ -8307,7 +8309,7 @@ e.g.   a short/long/simple answer
 $\spadesuit$   动词伴侣  
 
 e.g.   know/get an answer  
-# 756.    hard     [hɑːd]     adv. 辛苦地  
+ 756.    hard     [hɑːd]     adv. 辛苦地  
 
 ◆  副词：修饰动词  
 
@@ -8393,7 +8395,7 @@ e.g.   a common/rare/serious disease
 $\spadesuit$   动词伴侣  
 
 e.g.   have/carry a disease  
-# 764.     whatever     [wɒ tˈevə(r)]     det. 无论什么  
+ 764.     whatever     [wɒ tˈevə(r)]     det. 无论什么  
 
 $\spadesuit$  限定词  $^+$  名词  
 
@@ -8438,7 +8440,7 @@ e.g.    a full/coffee/paper cup
 ◆  动词伴侣  
 e.g.    drink a cup of sth  
 
-# 768.   particularly     [p əˈ t ɪ kj ə l ə li]     adv. 尤其  
+ 768.   particularly     [p əˈ t ɪ kj ə l ə li]     adv. 尤其  
 
 ◆  副词：修饰形容词  
 
@@ -8491,7 +8493,7 @@ e.g.   recognize a person/song/smell
 
 ◆  大众版： know       v.  
 
-# 773.   indicate     [ˈɪndɪkeɪt]     v. 表明  
+ 773.   indicate     [ˈɪndɪkeɪt]     v. 表明  
 
 $\spadesuit$  及物动词：A indicate B.  
 
@@ -8534,7 +8536,7 @@ e.g.   a great/major loss
 
 e.g.   weight/hair loss  
 
-# 777.   degree     [d ɪˈ ɡri ː ]     n. 程度  
+ 777.   degree     [d ɪˈ ɡri ː ]     n. 程度  
 
 ◆  常用可数  
 
@@ -8569,7 +8571,7 @@ e.g.   a bomb/knife/gun attack
 
 e.g.   be/come under attack  
 
-# 780. herself     [hɜːˈself]     pron. 她自己  
+ 780. herself     [hɜːˈself]     pron. 她自己  
 
 ◆  反身代词：A do A-self.  
 
@@ -8661,7 +8663,7 @@ e.g.   a good/secret deal
 
 e.g.   do/make a deal  
 
-# 788.    election     [ ɪˈ lek ʃ n]     n. 选举  
+ 788.    election     [ ɪˈ lek ʃ n]     n. 选举  
 
 ◆  elect (v.)   $^+$   tion (n.)  
 
@@ -8694,7 +8696,7 @@ e.g.   A lay B on/across C.
 
 $\spadesuit$  另有【产卵】之意 e.g.   Flamingos lay only one egg.  
 
-# 791. general     [ ˈ d ʒ enr ə l]     adj. 总体的  
+ 791. general     [ ˈ d ʒ enr ə l]     adj. 总体的  
 
 ◆  常做定语  
 
@@ -8741,7 +8743,7 @@ e.g.    a（n） electricity/gas/phone bill
 
 e.g.    get/pay a bill  
 
-# 795.   message     [ ˈ mes ɪ d ʒ ]     n. 讯息  
+ 795.   message     [ ˈ mes ɪ d ʒ ]     n. 讯息  
 
 $\spadesuit$  可数名词  
 
@@ -8763,7 +8765,7 @@ e.g.   a plan/business fails
 
 $\spadesuit$  固定结构： fail to do sth  
 
-# 797. outside     [ˌaʊ tˈsaɪd ]     prep. 在外面  
+ 797. outside     [ˌaʊ tˈsaɪd ]     prep. 在外面  
 
 $\spadesuit$   介词   $^+$   名词  
 
@@ -8958,7 +8960,7 @@ $\spadesuit$   动词伴侣
 
 e.g.   do/have an operation  
 
-# 815. financial     [faɪˈnænʃl]     adj. 财务的  
+ 815. financial     [faɪˈnænʃl]     adj. 财务的  
 
 ◆  finance (n.)   $^+$   ial (adj.)  
 
@@ -9030,7 +9032,7 @@ e.g.  miss a bus/breakfast/school
 
 $\spadesuit$  另有【想念】之意 e.g.  miss sth/sb  
 
-# 822.   design     [d ɪˈ za ɪ n]     n. 设计  
+ 822.   design     [d ɪˈ za ɪ n]     n. 设计  
 
 ◆  可数不可数皆可  
 
@@ -9073,7 +9075,7 @@ e.g.   ten minutes/days
 
 ◆  相关： tenth    adj.  
 
-# 826.   knowledge     [ ˈ n ɒ  l ɪ d ʒ ]     n. 知识  
+ 826.   knowledge     [ ˈ n ɒ  l ɪ d ʒ ]     n. 知识  
 
 ◆  know (v.) — ledge  
 
@@ -9108,7 +9110,7 @@ e.g.   the main/next/first station
 ◆  名词伴侣  
 e.g.   a train/railway/bus station  
 
-# 829.    blue     [blu ː ]     adj. 蓝色的  
+ 829.    blue     [blu ː ]     adj. 蓝色的  
 
 ◆  做表语或定语  
 
@@ -9360,7 +9362,7 @@ e.g.  a set of rules/problems/issues
 $\spadesuit$   形容词伴侣  
 
 e.g.  a new/different set  
-# 852.   study     [ ˈ st ʌ di]     v. 学习  
+ 852.   study     [ ˈ st ʌ di]     v. 学习  
 
 ◆  及物不及物皆可  
 
@@ -9421,7 +9423,7 @@ e.g.   design a bridge/chip/logo
 
 $\spadesuit$  同源： designer   n.  
 
-# 858.   enough     [ɪˈnʌf]     det. 足够的  
+ 858.   enough     [ɪˈnʌf]     det. 足够的  
 
 ◆  限定词 $^+$ 名词  
 
@@ -9482,7 +9484,7 @@ e.g.   remove the trash/shoes/photos
 
 ◆  大众版： take sth off sth  
 
-# 864.   manager     [ˈmænɪdʒə(r)]     n. 经理  
+ 864.   manager     [ˈmænɪdʒə(r)]     n. 经理  
 
 ◆  manage (v.) + er (n.)  
 
@@ -9503,7 +9505,7 @@ e.g.   medical/financial/legal help
 
 e.g.   ask for/give sb help  
 
-# 866.   close     [kl əʊ  s]     adj. 距离接近  
+ 866.   close     [kl əʊ  s]     adj. 距离接近  
 
 $\spadesuit$  这是形容词，不是动词！  
 
@@ -9567,7 +9569,7 @@ e.g.   a religious leader/group
 $\spadesuit$  另有【虔诚】之意  
 
 e.g.   He is deeply religious.  
-# 872.   cold     [kəʊ ld]     adj. 寒冷的  
+ 872.   cold     [kəʊ ld]     adj. 寒冷的  
 
 ◆  做表语或定语  
 
@@ -9651,7 +9653,7 @@ e.g.   a credit/ID/student card
 $\spadesuit$   动词伴侣  
 
 e.g.   pay by card, use card  
-# 880.   above     [əˈbʌv]     prep. 在上方  
+ 880.   above     [əˈbʌv]     prep. 在上方  
 
 ◆  介词  $^+$  名词  
 
@@ -9694,7 +9696,7 @@ e.g.  a cell divide
 e.g.   establish a company/society  
 
 ◆  大众版： start    v.  
-# 884.   nice     [naɪs]     adj. 不错的  
+ 884.   nice     [naɪs]     adj. 不错的  
 
 ◆  做表语或定语  
 
@@ -9718,7 +9720,7 @@ e.g.   a fair/unfair/public trial
 
 e.g.   hold a trial  
 
-# 886.   expert     [ ˈ eksp ɜː t]     n. 专家  
+ 886.   expert     [ ˈ eksp ɜː t]     n. 专家  
 
 ◆  可数名词  
 
@@ -9773,7 +9775,7 @@ e.g.   visit a friend/place/city
 
 ◆  大众版： A go to see B.  
 
-# 891.  management     [ˈmænɪdʒmənt]     n. 管理  
+ 891.  management     [ˈmænɪdʒmənt]     n. 管理  
 
 ◆  manage (v.)  $^+$   ment (n.)  
 
@@ -9818,7 +9820,7 @@ e.g.  Imagine that you are in a forest.
 
 e.g.  Imagine having a big house.  
 
-# 895.   tonight     [t əˈ na ɪ t]     adv. 今晚  
+ 895.   tonight     [t əˈ na ɪ t]     adv. 今晚  
 
 $\spadesuit$  副词：修饰动词  
 
@@ -9909,7 +9911,7 @@ e.g.   a big/real/minor impact
 $\spadesuit$   动词伴侣  
 
 e.g.   A have an impact on B.  
-# 903.   respond     [r ɪˈ sp ɒ  nd]     v. 回应  
+ 903.   respond     [r ɪˈ sp ɒ  nd]     v. 回应  
 
 $\spadesuit$  不及物动词：A respond.  
 
@@ -9917,7 +9919,7 @@ $\spadesuit$  不及物动词：A respond.
 
  ◆  同源： response       n.  
 
-# 904.   statement     [ˈsteɪtmənt]     n. 声明  
+ 904.   statement     [ˈsteɪtmənt]     n. 声明  
 
 ◆  可数名词  
 
@@ -9952,7 +9954,7 @@ e.g.   a small/high/fixed charge
 ◆  动词伴侣  
 e.g.   pay a charge  
 
-# 907.   popular      [ˈpɒ pjələ(r)]     adj. 流行的  
+ 907.   popular      [ˈpɒ pjələ(r)]     adj. 流行的  
 
 ◆  做表语或定语  
 
@@ -9964,7 +9966,7 @@ e.g.   very/highly popular
 
 e.g.   be/seem/become popular  
 
-# 908. traditional     [trəˈdɪʃənl]     adj. 传统的  
+ 908. traditional     [trəˈdɪʃənl]     adj. 传统的  
 
 ◆  tradition (n.)   $^+$   al (adj.)  
 
@@ -10122,7 +10124,7 @@ A apply to B.   A apply for C.
 ◆  名词伴侣  
 e.g.  apply for a job/loan/credit card  
 
-# 922.   play     [ple ɪ ]     n. 戏剧  
+ 922.   play     [ple ɪ ]     n. 戏剧  
 
 ◆  可数名词  
 
@@ -10255,7 +10257,7 @@ e.g.   a basic/simple/complex structure
 
 e.g.   class/power structure  
 
-# 934.   politics     [ ˈ p ɒ  l ə t ɪ ks]     n. 政治  
+ 934.   politics     [ ˈ p ɒ  l ə t ɪ ks]     n. 政治  
 
 ◆  不可数名词：统称  
 
@@ -10298,7 +10300,7 @@ $\spadesuit$   形容词伴侣
 
 e.g.   one’s ideal weight  
 
-# 938. suddenly      [ˈsʌdənli]     adv. 突然地  
+ 938. suddenly      [ˈsʌdənli]     adv. 突然地  
 
 ◆  sudden (adj.)   $^+$   ly (adv.)  
 
@@ -10331,7 +10333,7 @@ e.g.  a strong/possible candidate
 $\spadesuit$   动词伴侣  
 
 e.g.  choose/vote for a candidate  
-# 941.   top     [t ɒ  p]     adj. 顶端的  
+ 941.   top     [t ɒ  p]     adj. 顶端的  
 
 ◆  常做定语  
 
@@ -10343,7 +10345,7 @@ $\spadesuit$  另有【最好的】之意
 
 e.g.   a top player/salon/company  
 
-# 942. production       [prəˈdʌkʃn]      n. 制造  
+ 942. production       [prəˈdʌkʃn]      n. 制造  
 
 ◆  produce (v.)   $^+$   tion (n.)  
 
@@ -10376,7 +10378,7 @@ e.g.   a business/shopping/bus trip
 ◆  动词伴侣  
 e.g.   go on/take a trip  
 
-# 945.   evening      [ ˈ i ː vn ɪ ŋ]     n. 夜晚  
+ 945.   evening      [ ˈ i ː vn ɪ ŋ]     n. 夜晚  
 
 ◆  可数不可数皆可  
 
@@ -10388,7 +10390,7 @@ e.g.   a warm/summer/wonderful evening
 
 e.g.   Good evening.  
 
-# 946.   affect     [ əˈ fekt]      v. 影响  
+ 946.   affect     [ əˈ fekt]      v. 影响  
 
 $\spadesuit$   及物动词： A affect B.  
 
@@ -10410,7 +10412,7 @@ e.g.   inside a box/room/building
 
 $\spadesuit$  反义词： outside   prep.  
 
-# 948. conference      [ˈkɒ nfərəns]     n. 大会  
+ 948. conference      [ˈkɒ nfərəns]     n. 大会  
 
 ◆  confer (v.)   $^+$   ence (n.)  
 
@@ -10429,7 +10431,7 @@ e.g.   a large/small/basic unit of sth
 
 ◆  另有【单元】之意  
 
-# 950.   best     [best]     adv. 最  
+ 950.   best     [best]     adv. 最  
 
 $\spadesuit$  副词：修饰动词  
 
@@ -10595,7 +10597,7 @@ e.g.   a necessary skill/condition/step
 
 e.g.   It is necessary to do sth.  
 
-# 965. throughout     [θru ːˈ a ʊ  t]     prep. 贯穿  
+ 965. throughout     [θru ːˈ a ʊ  t]     prep. 贯穿  
 
 $\spadesuit$   介词   $^+$   名词  
 
@@ -10630,7 +10632,7 @@ e.g.    a great/deep/real fear
 $\spadesuit$  固定： have a fear of sth  
 
 e.g.    I have a fear of doctors.  
-# 968.   shoulder      [ ˈʃəʊ  ld ə (r)]     n. 肩膀  
+ 968.   shoulder      [ ˈʃəʊ  ld ə (r)]     n. 肩膀  
 
 ◆  常用复数  
 
@@ -10642,7 +10644,7 @@ e.g.   wide/huge/slim shoulders
 
 e.g.  shrug your shoulders  
 
-# 969.   institution      [ ˌɪ nst ɪˈ tju ː ʃ n]     n. 机构  
+ 969.   institution      [ ˌɪ nst ɪˈ tju ː ʃ n]     n. 机构  
 
 ◆  可数名词  
 
@@ -10804,7 +10806,7 @@ e.g.    a news/music/computer magazine
 ◆  动词伴侣  
 e.g.    buy/read a magazine  
 
-# 983.   hotel     [həʊ ˈtel]     n. 酒店  
+ 983.   hotel     [həʊ ˈtel]     n. 酒店  
 
 ◆  可数名词  
 
@@ -10816,7 +10818,7 @@ e.g.   a five-star/comfortable hotel
 
 e.g.   stay at/in a hotel  
 
-# 984.   soldier     / ˈ s əʊ  ld ʒə (r)/    n. 士兵  
+ 984.   soldier     / ˈ s əʊ  ld ʒə (r)/    n. 士兵  
 
 $\spadesuit$  可数名词  
 
@@ -10894,7 +10896,7 @@ e.g.   a happy/unhappy/broken marriage
 
 e.g.   have a adj. marriage  
 
-# 991.   tough     [t ʌ f]     adj. 艰难的  
+ 991.   tough     [t ʌ f]     adj. 艰难的  
 
 ◆  做表语或定语  
 
@@ -10970,7 +10972,7 @@ $\spadesuit$  用于从句之中
 e.g.   He took out a photo of his son,           whom he adores.  
 $\spadesuit$  使用较少  
 
-# 998.   skin     [sk ɪ n]     n. 皮肤  
+ 998.   skin     [sk ɪ n]     n. 皮肤  
 
 ◆  常用不可数  
 
@@ -11025,7 +11027,7 @@ e.g.  natural/greenhouse gas
 
 ◆  另有【煤气】之意  
 
-# 1003.   down     [da ʊ  n]     prep. 向下  
+ 1003.   down     [da ʊ  n]     prep. 向下  
 
 $\spadesuit$   介词   $^+$   名词  
 
@@ -11047,7 +11049,7 @@ e.g.   go/move/look ahead
 
 $\spadesuit$  反义词： behind   adv.  
 
-# 1005. generation      [ˌdʒenəˈreɪʃn]     n. 一代  
+ 1005. generation      [ˌdʒenəˈreɪʃn]     n. 一代  
 
 ◆  generate   $\mathrm{(v.)~+~}$   tion (n.)  
 
@@ -11111,7 +11113,7 @@ e.g.   an item of clothing/furniture
 
 $\spadesuit$  大众版： thing  n.  
 
-# 1011.   reality      [ri ˈ æl ə ti]     n. 现实  
+ 1011.   reality      [ri ˈ æl ə ti]     n. 现实  
 
 ◆  real (adj.)   $^+$   ity (n.)  
 
@@ -11176,7 +11178,7 @@ e.g.   beat the door/rug/drum
 
 e.g.   A easily beat B.  
 
-# 1017.   violence     [ ˈ va ɪə l ə ns]     n. 暴力  
+ 1017.   violence     [ ˈ va ɪə l ə ns]     n. 暴力  
 
 $\spadesuit$  不可数名词：统称  
 
@@ -11185,7 +11187,7 @@ $\spadesuit$   动词伴侣
 e.g.   use/experience violence  
 $\spadesuit$  同源： violent    adj.  
 
-# 1018.   total     [ˈtəʊ tl]     adj. 总共的  
+ 1018.   total     [ˈtəʊ tl]     adj. 总共的  
 
 ◆  常做定语  
 
@@ -11228,7 +11230,7 @@ e.g.   a long/short/useful discussion
 ◆  动词伴侣  
 e.g.   have/start a discussion  
 
-# 1022.   finger      [ ˈ f ɪ ŋɡ ə (r)]     n. 指头  
+ 1022.   finger      [ ˈ f ɪ ŋɡ ə (r)]     n. 指头  
 
 ◆  常用复数  
 
@@ -11262,7 +11264,7 @@ e.g.  notice a thing/difference/change
 
 e.g.  A notice B do/doing C.  
 
-# 1025.   collection     [k əˈ lek ʃ n]     n. 收藏  
+ 1025.   collection     [k əˈ lek ʃ n]     n. 收藏  
 
 ◆  collect (v.)  $^+$   tion (n.)  
 
@@ -11307,7 +11309,7 @@ $\spadesuit$   动词伴侣
 
 e.g.   find/choose a partner  
 
-# 1029.   positive      [ˈpɒ zətɪv]     adj. 积极的  
+ 1029.   positive      [ˈpɒ zətɪv]     adj. 积极的  
 
 $\spadesuit$  做表语或定语  
 
@@ -11398,7 +11400,7 @@ e.g.   a(an) famous/oil/beautiful painting
 $\spadesuit$   动词伴侣  
 
 e.g.   do/complete a painting  
-# 1037.   scientist      [ˈsaɪəntɪst]     n. 科学家  
+ 1037.   scientist      [ˈsaɪəntɪst]     n. 科学家  
 
 ◆  可数名词  
 
@@ -11434,7 +11436,7 @@ $\spadesuit$  需双方达成协议
 
      make an agreement  
 
-# 1040.   capital      [ ˈ kæp ɪ tl]     n. 首都  
+ 1040.   capital      [ ˈ kæp ɪ tl]     n. 首都  
 
 ◆ cap  $^+$  ital 与【头】有关     拉丁  
 
@@ -11490,7 +11492,7 @@ e.g.   a local/daily/national newspaper
 
 e.g.   read/buy a newspaper  
 
-# 1045.   instead      [ ɪ n ˈ sted]     prep. 没有  
+ 1045.   instead      [ ɪ n ˈ sted]     prep. 没有  
 
 $\spadesuit$   固定用法：instead of (doing) sth  
 
@@ -11502,7 +11504,7 @@ e.g.  I can walk to work
 
 ◆  另有副词版本  
 
-# 1046.   threat      [θret]     n.  威胁  
+ 1046.   threat      [θret]     n.  威胁  
 
 ◆  注意读音  
 
@@ -11568,7 +11570,7 @@ e.g.   a short/true/detailed account
 ◆  动词伴侣  
 
 e.g.   A give an account of B.  
-# 1052. interesting      [ ˈɪ ntr ə st ɪ ŋ ]       adj. 有趣  
+ 1052. interesting      [ ˈɪ ntr ə st ɪ ŋ ]       adj. 有趣  
 
 ◆  做表语或定语  
 
@@ -11580,7 +11582,7 @@ $\spadesuit$  副词伴侣
 
 e.g.   very/really/quite interesting  
 
-# 1053.   break     [bre ɪ k]      n. 休息  
+ 1053.   break     [bre ɪ k]      n. 休息  
 
 ◆  可数名词  
 
@@ -11604,7 +11606,7 @@ e.g.     a big/small audience
 
 e.g.     have/get/attract an audience  
 
-# 1055.   rich    [rɪtʃ]     adj. 富有的  
+ 1055.   rich    [rɪtʃ]     adj. 富有的  
 
 $\spadesuit$  做表语或定语  
 
@@ -11736,7 +11738,7 @@ e.g.   …, but there is none there.
 $\spadesuit$  用法2： none of sth  
 
 e.g.   None of my friends will help me.  
-# 1067.   front     [frʌnt]     prep. 前面  
+ 1067.   front     [frʌnt]     prep. 前面  
 
 ◆  整体介词：in front of sth  
 
@@ -11779,7 +11781,7 @@ e.g.   He admitted his mistake.
 e.g.   a senior manager/officer/member  
 
 ◆  反义词： junior    adj.  
-# 1071.   assume    [əˈsjuːm]      v. 认定  
+ 1071.   assume    [əˈsjuːm]      v. 认定  
 
 ◆  及物动词  
 
@@ -11951,7 +11953,7 @@ e.g.   fresh fruit/vegetables/fish
 $\spadesuit$   动词伴侣  
 
 e.g.   keep sth fresh  
-# 1086. eventually     [ ɪˈ vent ʃʊ ə l ɪ ]       adv. 最终  
+ 1086. eventually     [ ɪˈ vent ʃʊ ə l ɪ ]       adv. 最终  
 
 ◆  event (n.)  $^+$   ual (adj.)  $^+$   ly (adv.)  
 
@@ -12174,7 +12176,7 @@ e.g.   I recall that.
 
 e.g.   I can’t recall meeting her before.  
 
-# 1106.   version    [ˈvɜːʃn]     n. 版本  
+ 1106.   version    [ˈvɜːʃn]     n. 版本  
 
 ◆  可数名词  
 
@@ -12209,7 +12211,7 @@ e.g.   public/food/road safety
 ◆  动词伴侣  
 e.g.   improve safety  
 
-# 1109.  effective    [ɪˈfektɪv]      adj. 有效的  
+ 1109.  effective    [ɪˈfektɪv]      adj. 有效的  
 
 ◆  做表语或定语  
 
@@ -12377,7 +12379,7 @@ e.g.   blue/dark/cloudy sky
 $\spadesuit$   介词伴侣  
 
 e.g.   in/into/across the sky  
-# 1124.   freedom     [ˈfriːdəm]     n. 自由  
+ 1124.   freedom     [ˈfriːdəm]     n. 自由  
 
 ◆  free (adj.)   $^+$   dom (n.)  
 
@@ -12504,7 +12506,7 @@ e.g.   a new/important/major client
 $\spadesuit$   动词伴侣  
 
 e.g.   have/help/serve a client  
-# 1135.  powerful     [ˈpaʊ əfl]     adj. 强大的  
+ 1135.  powerful     [ˈpaʊ əfl]     adj. 强大的  
 
 ◆  做表语或定语  
 
@@ -12514,7 +12516,7 @@ e.g.   a powerful man/country/army
 
 ◆  同源： power    n.  
 
-# 1136.   perfect    [ˈpɜːfɪkt]     adj. 完美的  
+ 1136.   perfect    [ˈpɜːfɪkt]     adj. 完美的  
 
 ◆  做表语或定语  
 
@@ -12547,7 +12549,7 @@ $\spadesuit$  位置灵活
 e.g.   Lucy was unhappy.            Therefore, she left the company.  
 e.g.   She therefore left the company.  
 
-# 1139.   conduct     [ ˈ k ə nd ʌ kt]       v. 实施  
+ 1139.   conduct     [ ˈ k ə nd ʌ kt]       v. 实施  
 
 ◆  及物动词  
 
@@ -12883,7 +12885,7 @@ e.g.   a dozen eggs, two dozen roses
 $\spadesuit$  特殊用法： dozens of ……  
 e.g.   Dozens of people were killed.  
 
-# 1170. possibility      [ ˌ p ɒ  s əˈ b ɪ l ə ti]      n. 可能性  
+ 1170. possibility      [ ˌ p ɒ  s əˈ b ɪ l ə ti]      n. 可能性  
 
 ◆  常用可数  
 
@@ -12942,7 +12944,7 @@ e.g.   a gun/street battle
 
 e.g.   win/lose a battle  
 
-# 1175.   beginning     [b ɪˈ g ɪ n ɪ ŋ ]       n. 开始  
+ 1175.   beginning     [b ɪˈ g ɪ n ɪ ŋ ]       n. 开始  
 
 ◆  常用单数： the beginning of sth  
 
@@ -13094,7 +13096,7 @@ e.g.   a key/basic/important element
 $\spadesuit$   动词伴侣  
 
 e.g.   A consist of … elements.  
-# 1189.   vision    [ˈvɪʒn]      n. 视力  
+ 1189.   vision    [ˈvɪʒn]      n. 视力  
 
 ◆  常用不可数  
 
@@ -13106,7 +13108,7 @@ e.g.   good/poor/normal vision
 
 e.g.   have adj. vision  
 
-# 1190.   status    [ˈsteɪtəs]     n. 地位  
+ 1190.   status    [ˈsteɪtəs]     n. 地位  
 
 ◆  常用不可数  
 
@@ -13321,7 +13323,7 @@ e.g.   the morning/summer/warm sun
 
 e.g.   the sun shines/rises/sets  
 
-# 1209.   front     [frʌnt]     adj. 前面的  
+ 1209.   front     [frʌnt]     adj. 前面的  
 
 $\spadesuit$  常做定语  
 
@@ -13386,7 +13388,7 @@ $\spadesuit$  另有【回报】之意
 
 e.g.   a return of   $5\%$  
 
-# 1215.   mountain      [ˈmaʊ ntən]     n. 山  
+ 1215.   mountain      [ˈmaʊ ntən]     n. 山  
 
 $\spadesuit$  源自 mount 【v. 增长】  
 
@@ -13442,7 +13444,7 @@ e.g.   a small/quiet/seaside village
 
 e.g.   live in/visit a village  
 
-# 1220.   refuse     [r ɪˈ fju ː z]     v. 拒绝  
+ 1220.   refuse     [r ɪˈ fju ː z]     v. 拒绝  
 
 ◆  及物不及物皆可 
 
@@ -13466,7 +13468,7 @@ e.g.   roll the ball/dice
 
 ◆  介词伴侣： roll away/down/around  
 
-# 1222.   communication     [k əˌ mju ː n ɪˈ ke ɪʃ n]     n. 交流  
+ 1222.   communication     [k əˌ mju ː n ɪˈ ke ɪʃ n]     n. 交流  
 
 ◆  communicate (v.)  $^+$   tion (n.)  
 
@@ -13511,7 +13513,7 @@ e.g.   gain experience/knowledge
 
 ◆  大众版： get    v.  
 
-# 1226.   resident     [ ˈ rez ɪ d ə nt]     n. 居民  
+ 1226.   resident     [ ˈ rez ɪ d ə nt]     n. 居民  
 
 ◆  reside (v.)   $^+$   ent (n.)  
 
@@ -13534,7 +13536,7 @@ e.g.   hide money/a gun/the truth
 
 ◆  介词伴侣：hide sth in/under …  
 
-# 1228.   gold      [ɡ əʊ  ld]     n. 黄金  
+ 1228.   gold      [ɡ əʊ  ld]     n. 黄金  
 
 $\spadesuit$  不可数名词：材质  
 
@@ -13690,7 +13692,7 @@ e.g.   a large/small/record crowd
 ◆  补充内容  
 e.g.   a crowd of fans/tourists  
 
-# 1242.   express     [ ɪ k ˈ spres]     v. 表达  
+ 1242.   express     [ ɪ k ˈ spres]     v. 表达  
 
 ◆  及物动词  
 
@@ -13702,7 +13704,7 @@ e.g.   express an idea/opinion/view
 
 e.g.   express sth openly/freely  
 
-# 1243.   apartment      [əˈpɑːtmənt]     n. 公寓  
+ 1243.   apartment      [əˈpɑːtmənt]     n. 公寓  
 
 ◆  可数名词：与house 区分  
 
@@ -13780,7 +13782,7 @@ e.g.   a black/wild/beautiful horse
 
 e.g.   get on/off a horse  
 
-# 1250.   interested      [ ˈɪ ntr ə st ɪ d]    adj. 感兴趣  
+ 1250.   interested      [ ˈɪ ntr ə st ɪ d]    adj. 感兴趣  
 
 ◆  做表语或定语  
 
@@ -13815,7 +13817,7 @@ e.g.   be in/out of prison
 $\spadesuit$   动词伴侣  
 
 e.g.   go to prison  
-# 1253.   ride      [ra ɪ d]     v. 骑行  
+ 1253.   ride      [ra ɪ d]     v. 骑行  
 
 ◆  及物不及物皆可 
 
@@ -13827,7 +13829,7 @@ e.g.    ride a bike/motorbike/horse
 
 ◆  副词伴侣： ride alone/well/safely  
 
-# 1254.   guard     [ɡɑ ː d]     n. 看守  
+ 1254.   guard     [ɡɑ ː d]     n. 看守  
 
 ◆  可数名词  
 
@@ -13860,7 +13862,7 @@ e.g.   a news/radio/TV reporter
 ◆  动词伴侣  
 e.g.   send/speak to a reporter  
 
-# 1257.   deliver      [d ɪˈ l ɪ v ə (r)]     v. 投递  
+ 1257.   deliver      [d ɪˈ l ɪ v ə (r)]     v. 投递  
 
 ◆  及物动词：A deliver B.  
 
@@ -13960,7 +13962,7 @@ e.g.   sports/training/medical facilities
 
 e.g.   have/use/provide facilities  
 
-# 1266.   understanding       [ ˌʌ nd əˈ stænd ɪ ŋ]     n. 理解  
+ 1266.   understanding       [ ˌʌ nd əˈ stænd ɪ ŋ]     n. 理解  
 
 ◆  不可数或常用单数  
 
@@ -13989,7 +13991,7 @@ $\spadesuit$  不及物动词： A emerge.
 
 ◆  补充信息： A emerge from B. e.g.   She finally emerged from her room.  ◆  另有【真相大白】之意 e.g.   It emerges that ……  
 
-# 1269.   advantage      [ ə d ˈ vɑ ː nt ɪ d ʒ ]     n. 优势  
+ 1269.   advantage      [ ə d ˈ vɑ ː nt ɪ d ʒ ]     n. 优势  
 
 ◆  可数名词  
 
@@ -14024,7 +14026,7 @@ e.g.     very/quite light
 ◆  另有【浅色】之意  
 e.g.     light blue/yellow/green  
 
-# 1272.   leadership      [ ˈ li ː d əʃɪ p]     n. 领导  
+ 1272.   leadership      [ ˈ li ː d əʃɪ p]     n. 领导  
 
 ◆  不可数名词：抽象  
 
@@ -14046,7 +14048,7 @@ e.g.   earn money/a salary
 
 $\spadesuit$  同源：  earnings    n.  
 
-# 1274.   pound      [pa ʊ  nd]     n. 一磅  
+ 1274.   pound      [pa ʊ  nd]     n. 一磅  
 
 ◆  重量单位：约合一斤  
 
@@ -14069,7 +14071,7 @@ $\spadesuit$   动词伴侣
 
 e.g.   be/become/form the basis of sth  
 
-# 1276.   bright     [braɪt]     adj. 明亮的  
+ 1276.   bright     [braɪt]     adj. 明亮的  
 
 $\spadesuit$  做表语或定语  
 
@@ -14081,7 +14083,7 @@ e.g.   a bright day/morning/room
 
 e.g.   a bright pupil/boy/idea  
 
-# 1277.   operate     [ ˈɒ  p ə re ɪ t]     v. 运转  
+ 1277.   operate     [ ˈɒ  p ə re ɪ t]     v. 运转  
 
 $\spadesuit$   及物不及物皆可 
 
@@ -14151,7 +14153,7 @@ e.g.   a block of ice/stone/wood
 $\spadesuit$  另有【建筑】之意  
 
 e.g.    an apartment/office block  
-# 1283.   protection    [pr əˈ tek ʃ n]     n. 保护  
+ 1283.   protection    [pr əˈ tek ʃ n]     n. 保护  
 
 $\spadesuit$  不可数名词：抽象  
 
@@ -14163,7 +14165,7 @@ $\spadesuit$   动词伴侣
 
 e.g.    give/provide/get protection  
 
-# 1284.   settle     [ ˈ setl]     v. 解决  
+ 1284.   settle     [ ˈ setl]     v. 解决  
 
 $\spadesuit$   及物不及物皆可  
 
@@ -14196,7 +14198,7 @@ $\spadesuit$  名词伴侣
 e.g.   collect CDs/stamps/data  
 $\spadesuit$  同源： collection        n.  
 
-# 1287.   additional      [əˈdɪʃənl]     adj. 额外的  
+ 1287.   additional      [əˈdɪʃənl]     adj. 额外的  
 
 ◆  add (v.)  $^+$   tion (n.)  $^+$   al (adj.)  
 
@@ -14251,7 +14253,7 @@ e.g.   the title of a book/story/article
 
 e.g.   give sth/choose a title  
 
-# 1292.   mostly     [ˈməʊ stli]     adv. 大部分  
+ 1292.   mostly     [ˈməʊ stli]     adv. 大部分  
 
 $\spadesuit$  副词：修饰局部或整句  
 
@@ -14275,7 +14277,7 @@ $\spadesuit$   动词伴侣
 
 e.g.   go to/attend a lesson  
 
-# 1294.   faith     [fe ɪ θ]     n. 信仰  
+ 1294.   faith     [fe ɪ θ]     n. 信仰  
 
 $\spadesuit$  常用不可数  
 
@@ -14296,7 +14298,7 @@ $\spadesuit$   动词伴侣
 
 e.g.   a river runs/flows  
 
-# 1296.   promote     [pr əˈ m əʊ  t]     v. 促进  
+ 1296.   promote     [pr əˈ m əʊ  t]     v. 促进  
 
 ◆  及物动词： A promote B.  
 
@@ -14487,7 +14489,7 @@ e.g.   the border between/of A and B
 $\spadesuit$   动词伴侣  
 
 e.g.   cross/close the border  
-# 1313.   competition      [ ˌ k ɒ  mp əˈ t ɪʃ n]     n. 竞争  
+ 1313.   competition      [ ˌ k ɒ  mp əˈ t ɪʃ n]     n. 竞争  
 
 ◆  compete (v.)  $^+$   tion (n.)  
 
@@ -14499,7 +14501,7 @@ $\spadesuit$   动词伴侣
 
 e.g.   face/meet competition  
 
-# 1314.   jump     [d ʒʌ mp]     v. 跳跃  
+ 1314.   jump     [d ʒʌ mp]     v. 跳跃  
 
 ◆  不及物动词  
 
@@ -14568,7 +14570,7 @@ $\spadesuit$  另有【大声说话】之意
 
 e.g.   ‘Stop!’ she cried.  
 
-# 1320.    equipment      [ ɪˈ kw ɪ pm ə nt]     n. 设备  
+ 1320.    equipment      [ ɪˈ kw ɪ pm ə nt]     n. 设备  
 
 $\spadesuit$   equip (v.)   $^+$   ment (n.)  
 
@@ -14587,7 +14589,7 @@ e.g.   worth the time/money/effort
 
 e.g.   It is worth it.  
 
-# 1322.   associate      [ əˈ s əʊ ʃ ie ɪ t]     v. 联系  
+ 1322.   associate      [ əˈ s əʊ ʃ ie ɪ t]     v. 联系  
 
 ◆  复合结构：A associate B with C.  
 
@@ -14665,7 +14667,7 @@ e.g.   a total/complete failure
 
 e.g.  A fail to do B.    A’s failure to do B  
 
-# 1329.   annual      [ˈænjuəl]     adj. 每年的  
+ 1329.   annual      [ˈænjuəl]     adj. 每年的  
 
 ◆  常做定语  
 
@@ -14698,7 +14700,7 @@ e.g.   a nice/good/white Christmas
 $\spadesuit$   动词伴侣  
 
 e.g.   have/spend Christmas in/at a place  
-# 1332.   comment     [ ˈ k ɒ  ment]      n. 评论  
+ 1332.   comment     [ ˈ k ɒ  ment]      n. 评论  
 
 ◆  可数名词  
 
@@ -14710,7 +14712,7 @@ $\spadesuit$   动词伴侣
 
 e.g.   make a comment  
 
-# 1333.   responsible   [r ɪˈ sp ɒ  ns ə bl]      adj. 负责的  
+ 1333.   responsible   [r ɪˈ sp ɒ  ns ə bl]      adj. 负责的  
 
 ◆  respond (v.)  $^+$   able (adj.)  
 
@@ -14859,7 +14861,7 @@ e.g.   a strong/popular/wrong belief
 
 e.g.   have/hold a belief  
 
-# 1346.   demonstrate  [ ˈ dem ə nstre ɪ t]  v. 展示  
+ 1346.   demonstrate  [ ˈ dem ə nstre ɪ t]  v. 展示  
 
 ◆  及物动词： A demonstrate B.  
 
@@ -14868,7 +14870,7 @@ $\spadesuit$  名词伴侣
 e.g.   demonstrate an idea/fact/ability  
 
 ◆  大众版： show   v.  
-# 1347.   anybody      [ˈenibɒ di]     pron. 任何人  
+ 1347.   anybody      [ˈenibɒ di]     pron. 任何人  
 
 ◆  不定代词  
 
@@ -14911,7 +14913,7 @@ $\spadesuit$   形容词伴侣
 e.g.   an old/traditional religion  
 
 ◆  同源： religious   adj.  
-# 1351.   review     [r ɪˈ vju ː ]     n. 审查  
+ 1351.   review     [r ɪˈ vju ː ]     n. 审查  
 
 ◆  可数名词  
 
@@ -14935,7 +14937,7 @@ e.g.   a top/newspaper/photo editor
 
 e.g.   be/become an editor  
 
-# 1353.   past     [pɑ ː st]     prep. 掠过  
+ 1353.   past     [pɑ ː st]     prep. 掠过  
 
 ◆  介词   $^+$   名词  
 
@@ -15038,7 +15040,7 @@ e.g.   He threatened her with a knife.
 $\spadesuit$  结构2： A threaten to do sth.  
 
 e.g.   He threatened to kill her.  
-# 1362.   commit     [k əˈ m ɪ t]     v. 承诺  
+ 1362.   commit     [k əˈ m ɪ t]     v. 承诺  
 
 ◆  及物动词：A commit B to C.  
 
@@ -15050,7 +15052,7 @@ e.g.   commit your time/money/yourself
 
 e.g.   commit murder/robbery  
 
-# 1363.   female     [ˈfiːmeɪl]     adj. 女性的  
+ 1363.   female     [ˈfiːmeɪl]     adj. 女性的  
 
 ◆  做表语或定语  
 
@@ -15095,7 +15097,7 @@ e.g.   a wrong/surprise/smart move
 
 e.g.   make a move  
 
-# 1367.   afraid      [ əˈ fre ɪ d]     adj. 害怕的  
+ 1367.   afraid      [ əˈ fre ɪ d]     adj. 害怕的  
 
 $\spadesuit$  常做表语  
 
@@ -15117,7 +15119,7 @@ e.g.   the first/second/last quarter
 
 ◆  另有【一刻钟】或【一季度】之意  
 
-# 1369.   background     [ ˈ bækɡra ʊ  nd]     n. 背景  
+ 1369.   background     [ ˈ bækɡra ʊ  nd]     n. 背景  
 
 $\spadesuit$  可数名词  
 
@@ -15140,7 +15142,7 @@ e.g.   a native species/plant/animal
 
 e.g.   a native speaker  
 
-# 1371.   broad     [br ɔ ː d]     adj. 宽广的  
+ 1371.   broad     [br ɔ ː d]     adj. 宽广的  
 
 ◆  做表语或定语  
 
@@ -15171,7 +15173,7 @@ e.g.   He denied that he had been wrong.
 
 e.g.   He denied being wrong.  
 
-# 1374.   apparently     [ əˈ pær ə ntli]     adv. 显然  
+ 1374.   apparently     [ əˈ pær ə ntli]     adv. 显然  
 
 $\spadesuit$  副词：修饰动词或句子  
 
@@ -15183,7 +15185,7 @@ e.g.  He apparently died of a heart attack.
 
 e.g.  Apparently, he died of a heart attack.  
 
-# 1375.   slightly     [ˈslaɪtli]     adv. 轻微地  
+ 1375.   slightly     [ˈslaɪtli]     adv. 轻微地  
 
 $\spadesuit$  副词：修饰形容词  
 
@@ -15193,7 +15195,7 @@ e.g.  slightly different/bitter/upset
 
 ◆  近义词： a little        adv.  
 
-# 1376.   reaction     [riˈækʃn]     n. 反应  
+ 1376.   reaction     [riˈækʃn]     n. 反应  
 
 ◆  re  $^+$   act   $^+$   tion  
 
@@ -15226,7 +15228,7 @@ $\spadesuit$   动词伴侣
 
 e.g.   put on/take off a suit  
 
-# 1379.   perspective     [p əˈ spekt ɪ v]     n. 角度  
+ 1379.   perspective     [p əˈ spekt ɪ v]     n. 角度  
 
 ◆  可数名词  
 
@@ -15261,7 +15263,7 @@ e.g.   blow a wind/ship/bubble
 
 $\spadesuit$  副词伴侣： blow hard/softly  
 
-# 1382. construction     [kənˈstrʌkʃn]     n. 建造  
+ 1382. construction     [kənˈstrʌkʃn]     n. 建造  
 
 ◆  不可数名词：抽象状态  
 
@@ -15294,7 +15296,7 @@ e.g.   destroy a city/town/family
 $\spadesuit$  副词伴侣  
 
 e.g.   completely/nearly destroy sth  
-# 1385.   cook     [k ʊ  k]     v. 烹饪  
+ 1385.   cook     [k ʊ  k]     v. 烹饪  
 
 ◆  及物不及物皆可 
 
@@ -15306,7 +15308,7 @@ e.g.   cook food/breakfast/a meal
 
 ◆  动词伴侣： learn to cook  
 
-# 1386.   connection     [k əˈ nek ʃ n]     n. 联系  
+ 1386.   connection     [k əˈ nek ʃ n]     n. 联系  
 
 ◆  可数名词  
 
@@ -15375,7 +15377,7 @@ $\spadesuit$   动词伴侣
 
 e.g.   give sb/receive a grade  
 
-# 1392.   context     [ˈkɒ ntekst]     n. 背景  
+ 1392.   context     [ˈkɒ ntekst]     n. 背景  
 
 $\spadesuit$  常用单数  
 
@@ -15396,7 +15398,7 @@ e.g.   a special/foreign committee
 
 e.g.   be on a committee  
 
-# 1394.   mistake     [ m ɪˈ ste ɪ k]    n. 错误  
+ 1394.   mistake     [ m ɪˈ ste ɪ k]    n. 错误  
 
 ◆  可数名词  
 
@@ -15464,7 +15466,7 @@ e.g.   wear/buy/change your clothes
 e.g.  an Indian food/king/tradition  
 
 ◆  同源：  India   n.  
-# 1400.   quiet     [ˈkwaɪət]     adj. 安静的  
+ 1400.   quiet     [ˈkwaɪət]     adj. 安静的  
 
 ◆  做表语或定语  
 
@@ -15591,7 +15593,7 @@ A extend B.   B extend.
 e.g.   extend a visa/road/deadline  
 
 ◆  介词伴侣：  B extend to/for/into …  
-# 1411.   chief     [tʃiːf]     adj. 主要的  
+ 1411.   chief     [tʃiːf]     adj. 主要的  
 
 ◆  常做定语  
 
@@ -15603,7 +15605,7 @@ e.g.   the chief problem/reason/cause
 
 e.g.   the chief officer/executive  
 
-# 1412.   average     [ˈævərɪdʒ]     n. 平均数  
+ 1412.   average     [ˈævərɪdʒ]     n. 平均数  
 
 $\spadesuit$  常用单数  
 
@@ -15693,7 +15695,7 @@ e.g.   a local/tour/public bus
 
 e.g.   go/travel by bus  
 
-# 1420.   dangerous     [ ˈ de ɪ nd ʒə r ə s]     adj. 危险的  
+ 1420.   dangerous     [ ˈ de ɪ nd ʒə r ə s]     adj. 危险的  
 
 ◆  做表语或定语  
 
@@ -15726,7 +15728,7 @@ e.g.   a moral standard/principle/issue
 
 e.g.   take the moral high land  
 
-# 1423.   united     [ju ˈ na ɪ t ɪ d]     adj. 联合的  
+ 1423.   united     [ju ˈ na ɪ t ɪ d]     adj. 联合的  
 
 ◆  做表语或定语  
 
@@ -15783,7 +15785,7 @@ e.g.   a car/door/room key
 
 e.g.   lose/find/turn a key  
 
-# 1428.   academic     [ˌækəˈdemɪk]     adj. 学术的  
+ 1428.   academic     [ˌækəˈdemɪk]     adj. 学术的  
 
 ◆  常做定语  
 
@@ -15804,7 +15806,7 @@ e.g.  a short/surprise/regular visit
 ◆  动词伴侣  
 e.g.  pay a visit to sth/sb  
 
-# 1430.   Internet     [ ˈɪ nt ə net]     n. 互联网  
+ 1430.   Internet     [ ˈɪ nt ə net]     n. 互联网  
 
 ◆  专有名词  
 
@@ -15859,7 +15861,7 @@ e.g.   the following page/chapter/year
 
 ◆  反义词：  previous  adj.  
 
-# 1435.  historical     [hɪˈstɒ rɪkl]     adj. 历史的  
+ 1435.  historical     [hɪˈstɒ rɪkl]     adj. 历史的  
 
 $\spadesuit$  常做定语  
 
@@ -15890,7 +15892,7 @@ $\spadesuit$   形容词伴侣
 e.g.   a foreign/two-city/three-country tour  
 $\spadesuit$   动词伴侣  e.g.   be/go on a tour  
 
-# 1438.   depend     [d ɪˈ pend]     v. 依靠  
+ 1438.   depend     [d ɪˈ pend]     v. 依靠  
 
 $\spadesuit$  整体结构：A depend on B.  
 
@@ -15990,7 +15992,7 @@ e.g.   … in research/discussion/a game
 
 ◆  大众版： A take part in B.  
 
-# 1447.   daily     [ ˈ de ɪ li]     adj. 每日的  
+ 1447.   daily     [ ˈ de ɪ li]     adj. 每日的  
 
 ◆  常做定语  
 
@@ -16094,7 +16096,7 @@ e.g.   hire a car/dress/apartment
 
 ◆  近义词：  rent    v.  
 
-# 1456.   familiar    [f əˈ m ɪ li ə (r)]     adj. 熟悉的  
+ 1456.   familiar    [f əˈ m ɪ li ə (r)]     adj. 熟悉的  
 
 $\spadesuit$  做表语或定语  
 
@@ -16228,7 +16230,7 @@ e.g.   the primary concern/focus/reason
 ◆  固定结构  
 e.g.   primary education  
 
-# 1468.   yesterday     [ ˈ jest ə de ɪ ]     adv. 昨天  
+ 1468.   yesterday     [ ˈ jest ə de ɪ ]     adv. 昨天  
 
 ◆  副词：修饰整句  
 
@@ -16285,7 +16287,7 @@ e.g.    the bottom
 
 ◆  反义词： top    n.  
 
-# 1473.   island     [ ˈ a ɪ l ə nd]     n. 岛屿  
+ 1473.   island     [ ˈ a ɪ l ə nd]     n. 岛屿  
 
 ◆  可数名词  
 
@@ -16320,7 +16322,7 @@ e.g.   a clean room/area/towel
 
 e.g.   be/get/stay clean  
 
-# 1476.   studio      [ˈstjuːdiəʊ ]     n. 工作室  
+ 1476.   studio      [ˈstjuːdiəʊ ]     n. 工作室  
 
 ◆  源自study — 学习的地方  
 
@@ -16353,7 +16355,7 @@ e.g.   a smart/tall/kind lady
 $\spadesuit$  固定结构  
 
 e.g.   ladies’ fashion/shoes  
-# 1479.   colleague     [ ˈ k ɒ  li ː ɡ]     n. 同事  
+ 1479.   colleague     [ ˈ k ɒ  li ː ɡ]     n. 同事  
 
 ◆  可数名词  
 
@@ -16365,7 +16367,7 @@ e.g.   a good/female/former colleague
 
 e.g.   have/call/ask a colleague  
 
-# 1480.   application     [ ˌ æpl ɪˈ ke ɪʃ n]     n. 申请  
+ 1480.   application     [ ˌ æpl ɪˈ ke ɪʃ n]     n. 申请  
 
 ◆  源自apply — 提出要求  
 
@@ -16379,7 +16381,7 @@ e.g.   make an application
 
 1481.   neck     [nek]     n. 脖子  
 
-# ◆  可数名词  
+ ◆  可数名词  
 
 ◆  形容词伴侣  
 
@@ -16457,7 +16459,7 @@ e.g.   I hate making mistakes.
 
 e.g.   I hate to be away from my family.  
 
-# 1488.   otherwise     [ ˈʌ ð ə wa ɪ z]     adv. 不然  
+ 1488.   otherwise     [ ˈʌ ð ə wa ɪ z]     adv. 不然  
 
 $\spadesuit$  副词：修饰整句  
 
@@ -16480,7 +16482,7 @@ e.g.   effective/creative/clear writing
 $\spadesuit$   动词伴侣  
 
 e.g.   teach/improve writing  
-# 1490.   press     [pres]      v. 按压  
+ 1490.   press     [pres]      v. 按压  
 
 ◆  常用及物：A press B.  
 
@@ -16525,7 +16527,7 @@ e.g.   still/very much alive
 ◆  动词伴侣  
 e.g.   be/seem/stay alive  
 
-# 1494.   expression     [ɪkˈspreʃn]     n. 表情  
+ 1494.   expression     [ɪkˈspreʃn]     n. 表情  
 
 ◆  可数不可数皆可  
 
@@ -16537,7 +16539,7 @@ e.g.   an angry/surprised/serious …
 
 e.g.   a means of expression  
 
-# 1495.   football     [ˈfʊ tbɔːl]     n. 足球  
+ 1495.   football     [ˈfʊ tbɔːl]     n. 足球  
 
 $\spadesuit$  可数不可数皆可  
 
@@ -16607,7 +16609,7 @@ e.g.   drug/alcohol abuse
 $\spadesuit$  另有【虐待】之意  
 
 e.g.   child/elder abuse  
-# 1501.   theater     [ ˈ θ ɪə t ə (r)]     n. 剧院  
+ 1501.   theater     [ ˈ θ ɪə t ə (r)]     n. 剧院  
 
 ◆  可数名词  
 
@@ -16736,7 +16738,7 @@ e.g.  a great/strong/deep desire
 $\spadesuit$   动词伴侣  
 
 e.g.  have a desire to do sth  
-# 1512.   assessment     [ əˈ sesm ə nt]     n. 评估  
+ 1512.   assessment     [ əˈ sesm ə nt]     n. 评估  
 
 ◆  常用可数  
 
@@ -16904,7 +16906,7 @@ $\spadesuit$  名词伴侣
 e.g.   climb a wall/tree/hill  
 $\spadesuit$   副词伴侣：climb up/out of/into …  
 
-# 1527.   sweet     [swi ː t]     adj. 甜美的  
+ 1527.   sweet     [swi ː t]     adj. 甜美的  
 
 ◆  做表语或定语  
 
@@ -16916,7 +16918,7 @@ e.g.   sweet food/coffee/dreams
 
 e.g.   be/look/taste sweet  
 
-# 1528.   lead     [li ː d ]     n. 领先位置  
+ 1528.   lead     [li ː d ]     n. 领先位置  
 
 $\spadesuit$  常用单数： the lead  
 
@@ -17029,7 +17031,7 @@ e.g.   free/educational/business …
 $\spadesuit$   动词伴侣  
 
 e.g.   download/install software  
-# 1538.  disappear     [ ˌ d ɪ s əˈ p ɪə (r)]     v. 消失  
+ 1538.  disappear     [ ˌ d ɪ s əˈ p ɪə (r)]     v. 消失  
 
 ◆  不及物动词：A disappear.  
 
@@ -17039,7 +17041,7 @@ e.g.   the person/train/sun disappears
 
 ◆  反义词： appear    v.  
 
-# 1539.   corporate   [ ˈ k ɔː p ə r ə t]    adj. 企业的  
+ 1539.   corporate   [ ˈ k ɔː p ə r ə t]    adj. 企业的  
 
 ◆  常做定语  
 
@@ -17074,7 +17076,7 @@ e.g.   red/soft/dry lips
 ◆  动词伴侣  
 e.g.   lick/bite one’s lips  
 
-# 1542.   reading     [ ˈ ri ː d ɪ ŋ]     n. 阅读  
+ 1542.   reading     [ ˈ ri ː d ɪ ŋ]     n. 阅读  
 
 ◆  不可数名词  
 
@@ -17086,7 +17088,7 @@ e.g.  careful/serious/extensive reading
 
 e.g.   do some reading  
 
-# 1543.   urban     [ˈɜːbən]     adj. 城市的  
+ 1543.   urban     [ˈɜːbən]     adj. 城市的  
 
 $\spadesuit$  常做定语  
 
@@ -17115,7 +17117,7 @@ $\spadesuit$   形容词伴侣
 e.g.   … popular/difficult/expensive  
 
 $\spadesuit$  可做【句式副词】  
-# 1546.   lunch     [l ʌ nt ʃ ]     n. 午饭  
+ 1546.   lunch     [l ʌ nt ʃ ]     n. 午饭  
 
 ◆  常用不可数  
 
@@ -17127,7 +17129,7 @@ e.g.   a hot/delicious/nice lunch
 
 e.g.   have/eat/make lunch  
 
-# 1547.   educational     [ˌedʒuˈkeɪʃənl]     adj. 与教育有关  
+ 1547.   educational     [ˌedʒuˈkeɪʃənl]     adj. 与教育有关  
 
 ◆  常做定语  
 
@@ -17160,7 +17162,7 @@ e.g.   a local/rice/wheat farmer
 ◆  动词伴侣  
 e.g.   a farmer works in the fields  
 
-# 1550.   sugar     [ ˈʃʊ  ɡ ə (r)]     n. 糖  
+ 1550.   sugar     [ ˈʃʊ  ɡ ə (r)]     n. 糖  
 
 ◆  不可数名词：物质  
 
@@ -17356,7 +17358,7 @@ e.g.   have/know a meaning
 
 ◆  相关： dad    n.  
 
-# 1568.   married     [ ˈ mærid]     adj. 已婚  
+ 1568.   married     [ ˈ mærid]     adj. 已婚  
 
 $\spadesuit$  做表语或定语  
 
@@ -17368,7 +17370,7 @@ $\spadesuit$   动词伴侣
 
 e.g.   be/get married  
 
-# 1569.   alone     [əˈləʊ n]     adv. 独自  
+ 1569.   alone     [əˈləʊ n]     adv. 独自  
 
 $\spadesuit$  副词：修饰动词  
 
@@ -17387,7 +17389,7 @@ e.g.   a musical/string/wind instrument
 
 e.g.   play an instrument  
 
-# 1571.   predict     [pr ɪˈ d ɪ kt]     v. 预测  
+ 1571.   predict     [pr ɪˈ d ɪ kt]     v. 预测  
 
 ◆  pre  $^+$   dict (v.)  
 
@@ -17457,7 +17459,7 @@ e.g.   bear the food/weather/cold
 $\spadesuit$  常用否定  
 
 e.g.   I can’t bear the pain any more.  
-# 1577.   pocket     [ ˈ p ɒ  k ɪ t]     n. 口袋  
+ 1577.   pocket     [ ˈ p ɒ  k ɪ t]     n. 口袋  
 
 ◆  可数名词  
 
@@ -17481,7 +17483,7 @@ e.g.   a thin jacket/wall
 
 e.g.   a thin man/face/body  
 
-# 1579.   temperature     [ˈtemprətʃə(r)]     n. 温度  
+ 1579.   temperature     [ˈtemprətʃə(r)]     n. 温度  
 
 ◆  可数不可数皆可  
 
@@ -17493,7 +17495,7 @@ e.g.  a high/low/healthy temperature
 
 e.g.  take one’s temperature  
 
-# 1580.   surprise     [s əˈ pra ɪ z]     n. 惊讶  
+ 1580.   surprise     [s əˈ pra ɪ z]     n. 惊讶  
 
 $\spadesuit$  常用单数  
 
@@ -17514,7 +17516,7 @@ e.g.   an opinion/national poll
 
 ◆  近义词：  survey    n.  
 
-# 1582.   proposal     [prəˈpəʊ zl]     n. 提议  
+ 1582.   proposal     [prəˈpəʊ zl]     n. 提议  
 
 $\spadesuit$  常用可数  
 
@@ -17538,7 +17540,7 @@ $\spadesuit$   动词伴侣
 
 e.g.   have consequences  
 
-# 1584.   breath     [breθ]     n. 呼吸  
+ 1584.   breath     [breθ]     n. 呼吸  
 
 $\spadesuit$  常用不可数  
 
@@ -17557,7 +17559,7 @@ e.g.   a common/beautiful/strange sight
 
 $\spadesuit$   动词伴侣  e.g.   see a sight  
 
-# 1586.   cover     [ˈkʌvə(r)]     n. 封面  
+ 1586.   cover     [ˈkʌvə(r)]     n. 封面  
 
 ◆  可数名词  
 
@@ -17592,7 +17594,7 @@ $\spadesuit$  副词伴侣
 
 e.g.   be widely/generally adopted  
 
-# 1589.   minority     [ma ɪˈ n ɒ  r ə ti]     n. 少数  
+ 1589.   minority     [ma ɪˈ n ɒ  r ə ti]     n. 少数  
 
 ◆  常用单数：a minority  
 
@@ -17604,7 +17606,7 @@ e.g.   a small/tiny/large minority
 
 e.g.   belong to a minority  
 
-# 1590.   straight     [stre ɪ t]     adv. 直接  
+ 1590.   straight     [stre ɪ t]     adv. 直接  
 
 $\spadesuit$  副词：修饰介词  
 
@@ -17616,7 +17618,7 @@ e.g.   straight down/behind/in front of…
 
 e.g.   say/ask sth straight  
 
-# 1591.   attempt   [ əˈ tempt]   v. 尝试  
+ 1591.   attempt   [ əˈ tempt]   v. 尝试  
 
 ◆  及物动词：A attempt B. 
 
@@ -17625,7 +17627,7 @@ e.g.   say/ask sth straight
 e.g.   I will attempt            to answer all your questions.  
 $\spadesuit$  大众版： A try to do B.  
 
-# 1592.   connect   [k əˈ nekt]   v. 连接  
+ 1592.   connect   [k əˈ nekt]   v. 连接  
 
 ◆  及物不及物皆可  
 
@@ -17637,7 +17639,7 @@ e.g.   Connect the printer to the computer.
 
 e.g.   The printer connects to the computer.  
 
-# 1593.   teaching   [ˈtiːtʃɪŋ]   n. 教学  
+ 1593.   teaching   [ˈtiːtʃɪŋ]   n. 教学  
 
 $\spadesuit$  不可数名词  
 
@@ -17659,7 +17661,7 @@ e.g.   This shirt belongs to Jim.
 
 $\spadesuit$  同源： belonging    n.  
 
-# 1595.   aid   [e ɪ d]   n. 援助  
+ 1595.   aid   [e ɪ d]   n. 援助  
 
 $\spadesuit$  不可数名词  
 
@@ -17682,7 +17684,7 @@ e.g.   good/useful/poor advice
 
 e.g.   give/get some advice  
 
-# 1597. photograph   [ ˈ f əʊ  t ə grɑ ː f]   n. 照片  
+ 1597. photograph   [ ˈ f əʊ  t ə grɑ ː f]   n. 照片  
 
 ◆  可数名词  
 
@@ -17706,7 +17708,7 @@ e.g.   an empty cup/bag/pocket
 
 e.g.   be/look/become empty  
 
-# 1599.  regional   [ˈriːdʒənl]   adj. 地区的  
+ 1599.  regional   [ˈriːdʒənl]   adj. 地区的  
 
 ◆  常做定语  
 $\spadesuit$  名词伴侣  
@@ -17727,7 +17729,7 @@ $\spadesuit$  另有【痕迹】之意
 
 e.g.   a trail of blood/smoke/oil  
 
-# 1601.   novel   [ ˈ n ɒ  vl]   n. 小说  
+ 1601.   novel   [ ˈ n ɒ  vl]   n. 小说  
 
 ◆  可数名词  
 
@@ -17750,7 +17752,7 @@ e.g.   a secret code
 ◆  另有【一套法规】之意  
 
 e.g.   a legal/dress/strict code    somehow  
-# 1603. Somehow   [ˈsʌmhaʊ ]   adv. 不知如何  
+ 1603. Somehow   [ˈsʌmhaʊ ]   adv. 不知如何  
 
 ◆  副词：修饰动词  
 
@@ -17762,7 +17764,7 @@ e.g.   Somehow,
 
           I don’t feel I can trust him.  
 
-# 1604.   organize   [ ˈɔː ɡ ə na ɪ z]   v. 组织  
+ 1604.   organize   [ ˈɔː ɡ ə na ɪ z]   v. 组织  
 
 ◆  及物动词： A organize B.  
 
@@ -17772,7 +17774,7 @@ e.g.  organize a meeting/party/wedding
 
 ◆  同源： organization    n.  
 
-# 1605.   jury   [ ˈ d ʒʊ ə ri]   n. 陪审团  
+ 1605.   jury   [ ˈ d ʒʊ ə ri]   n. 陪审团  
 
 ◆  源自拉丁文 just (adj.)  
 
@@ -17782,7 +17784,7 @@ e.g.  organize a meeting/party/wedding
 
 e.g.   a jury finds sb (not) guity  
 
-# 1606.   breast   [brest]   n. 胸部  
+ 1606.   breast   [brest]   n. 胸部  
 
 ◆  可数名词  
 
@@ -17791,7 +17793,7 @@ e.g.   a jury finds sb (not) guity
 e.g.   breast milk/cancer  
 
 ◆  近义词：  chest       n.  
-# 1607.   human   [ˈhjuːmən]   n. 人  
+ 1607.   human   [ˈhjuːmən]   n. 人  
 
 ◆  常用复数： humans  
 
@@ -17801,7 +17803,7 @@ e.g.  Dogs can hear better than humans.
 
 ◆  大众版： people        n.  
 
-# 1608.  acknowledge    [ ə k ˈ n ɒ  l ɪ d ʒ ]   v. 承认  
+ 1608.  acknowledge    [ ə k ˈ n ɒ  l ɪ d ʒ ]   v. 承认  
 
 ◆  及物动词：A acknowledge B.  
 
@@ -17834,7 +17836,7 @@ e.g.   a bad/great/dust storm
 $\spadesuit$   动词伴侣  
 
 e.g.   a storm hits/breaks a place  
-# 1611.   union   [ˈjuːnɪən]   n. 联盟  
+ 1611.   union   [ˈjuːnɪən]   n. 联盟  
 
 ◆  可数名词  
 
@@ -17846,7 +17848,7 @@ $\spadesuit$   动词伴侣
 
 e.g.   belong to/join a union  
 
-# 1612.   record   [r ɪˈ k ɔː d]     $\pmb{\mathsf{v}}.$   录制  
+ 1612.   record   [r ɪˈ k ɔː d]     $\pmb{\mathsf{v}}.$   录制  
 
 ◆  及物动词： A record B.  
 
@@ -17858,7 +17860,7 @@ e.g.   record a show/song/film
 
 e.g.   record sth carefully/secretly  
 
-# 1613.   desk   [desk]   n. 课桌  
+ 1613.   desk   [desk]   n. 课桌  
 
 ◆  可数名词  
 
@@ -17870,7 +17872,7 @@ e.g.   a big/empty/untidy desk
 
 e.g.   leave/clean/cover a desk  
 
-# 1614.   fear   [f ɪə (r)]   v. 恐惧  
+ 1614.   fear   [f ɪə (r)]   v. 恐惧  
 
 $\spadesuit$  常用及物：A fear B.  
 
@@ -17891,7 +17893,7 @@ e.g.   fresh/juicy/sweet fruit
 
 e.g.   fruit and vegetables  
 
-# 1616.   expensive   [ ɪ k ˈ spens ɪ v]   adj. 昂贵  
+ 1616.   expensive   [ ɪ k ˈ spens ɪ v]   adj. 昂贵  
 
 $\spadesuit$  做表语或定语  
 
@@ -17915,7 +17917,7 @@ e.g.   a yellow flower/purse/helmet
 
 e.g.   deep/light yellow  
 
-# 1618. conclusion   [k ə n ˈ klu ːʒ n]   n. 结论  
+ 1618. conclusion   [k ə n ˈ klu ːʒ n]   n. 结论  
 
 ◆  可数名词  
 $\spadesuit$   形容词伴侣  
@@ -17926,7 +17928,7 @@ e.g.   a different/similar/obvious …
 
 e.g.   reach a conclusion  
 
-# 1619.   prime   [praɪm]   adj. 主要的  
+ 1619.   prime   [praɪm]   adj. 主要的  
 
 ◆  常做定语  
 
@@ -17936,7 +17938,7 @@ e.g.   the prime cause/concern/goal
 
 ◆  近义词：  main   adj.  
 
-# 1620.  shadow   [ˈʃædəʊ ]   n. 阴影  
+ 1620.  shadow   [ˈʃædəʊ ]   n. 阴影  
 
 ◆  可数不可数皆可  
 
@@ -17969,7 +17971,7 @@ e.g.   The report concluded
 
 ◆  另有【终结】之意  
 
-# 1623.   analyst   [ˈænəlɪst]   n. 分析员  
+ 1623.   analyst   [ˈænəlɪst]   n. 分析员  
 
 $\spadesuit$  可数名词  
 
@@ -18004,7 +18006,7 @@ e.g.   a time/age/weight limit
 ◆  动词伴侣  
 e.g.   set a limit  
 
-# 1626. regulation   [ ˌ regj ʊ ˈ le ɪʃ n]   n. 法规  
+ 1626. regulation   [ ˌ regj ʊ ˈ le ɪʃ n]   n. 法规  
 
 ◆  常用可数  
 
@@ -18016,7 +18018,7 @@ e.g.   tough/strict/legal regulations
 
 e.g.   obey/break a regulation  
 
-# 1627.   being   [ ˈ bi ːɪ ŋ]   n. 生命  
+ 1627.   being   [ ˈ bi ːɪ ŋ]   n. 生命  
 
 $\spadesuit$  可数名词  
 
@@ -18040,7 +18042,7 @@ e.g.   last for a minute/hour/year
 
 ◆  近义词：  continue    v.  
 
-# 1629.   ring   [r ɪ ŋ]   n. 戒指  
+ 1629.   ring   [r ɪ ŋ]   n. 戒指  
 
 $\spadesuit$  可数名词  
 
@@ -18051,7 +18053,7 @@ e.g.   a gold/diamond/heavy ring
 
 e.g.   choose/buy/wear a ring  
 
-# 1630.   largely   [ˈlɑːdʒli]   adv. 大体上  
+ 1630.   largely   [ˈlɑːdʒli]   adv. 大体上  
 
 $\spadesuit$  副词：修饰动词或形容词  
 
@@ -18063,7 +18065,7 @@ $\spadesuit$  修饰动词
 
 e.g.   I largely work with young people.  
 
-# 1631.   shift   [ ʃɪ ft]   v. 切换  
+ 1631.   shift   [ ʃɪ ft]   v. 切换  
 
 ◆  及物不及物皆可 
 
@@ -18075,7 +18077,7 @@ e.g.   I largely work with young people.
 
 ◆  名词伴侣：shift attention/focus  
 
-# 1632.   revenue   [ ˈ rev ə nju ː ]   n. 收益  
+ 1632.   revenue   [ ˈ rev ə nju ː ]   n. 收益  
 
 ◆  不可数或常用复数  
 
@@ -18096,7 +18098,7 @@ e.g.   A mark B with/on C.
 
 e.g.   A mark B present/absent.  
 
-# 1634.   locate   [ləʊ ˈkeɪt]   v. 定位  
+ 1634.   locate   [ləʊ ˈkeɪt]   v. 定位  
 
 ◆  及物动词： A locate B.  
 
@@ -18120,7 +18122,7 @@ e.g.   a large/small/western county
 
 e.g.   live in/visit/travel to a county  
 
-# 1636. appearance   [ əˈ p ɪə r ə ns]   n. 外貌  
+ 1636. appearance   [ əˈ p ɪə r ə ns]   n. 外貌  
 
 ◆  常用可数  
 
@@ -18131,7 +18133,7 @@ e.g.   a handsome/pleasing/odd …
 ◆  动词伴侣  
 e.g.   have a adj. appearance  
 
-# 1637.   package   [ ˈ pæk ɪ d ʒ ]   n. 包裹  
+ 1637.   package   [ ˈ pæk ɪ d ʒ ]   n. 包裹  
 
 ◆  可数名词  
 
@@ -18143,7 +18145,7 @@ e.g.   a small/little/large package
 
 e.g.   send/deliver/get a package  
 
-# 1638.   difficulty   [ ˈ d ɪ f ɪ k ə lti]   n. 困难  
+ 1638.   difficulty   [ ˈ d ɪ f ɪ k ə lti]   n. 困难  
 
 $\spadesuit$  常用不可数  
 
@@ -18167,7 +18169,7 @@ $\spadesuit$   动词伴侣
 
 e.g.   build/cross a bridge  
 
-# 1640.   recommend   [rek əˈ mend]     $\pmb{\upnu}.$  
+ 1640.   recommend   [rek əˈ mend]     $\pmb{\upnu}.$  
 
 $\spadesuit$  及物动词：A recommend B.  
 
@@ -18178,7 +18180,7 @@ e.g.   recommend a book/film/walk
 
 e.g.   recommend sb to do sth  
 
-# 1641. obvious   [ ˈɒ  bv ɪə s]   adj. 明显的  
+ 1641. obvious   [ ˈɒ  bv ɪə s]   adj. 明显的  
 
 $\spadesuit$  做表语或定语  
 
@@ -18190,7 +18192,7 @@ e.g.   an obvious fact/reason/question
 
 e.g.   it is obvious that …  
 
-# 1642.   train   [tre ɪ n]   n. 火车  
+ 1642.   train   [tre ɪ n]   n. 火车  
 
 ◆  可数名词  
 
@@ -18202,7 +18204,7 @@ e.g.   a slow/fast/passenger train
 
 e.g.   take/catch/board a train  
 
-# 1643. basically   [ˈbeɪsɪkli]   adv. 基本上  
+ 1643. basically   [ˈbeɪsɪkli]   adv. 基本上  
 
 ◆  副词：修饰形容词或句子  
 
@@ -18223,7 +18225,7 @@ e.g.   by/via email
 
 e.g.   write/send/receive an email  
 
-# 1645.   generate   [ˈdʒenəreɪt]   v. 生成  
+ 1645.   generate   [ˈdʒenəreɪt]   v. 生成  
 
 ◆  及物动词：A generate B.  
 
@@ -18233,7 +18235,7 @@ e.g.   generate cash/data/electricity
 
 ◆  同源： generation    n.  
 
-# 1646.   anymore   [en ɪˈ m ɔː ]   adv. 不再  
+ 1646.   anymore   [en ɪˈ m ɔː ]   adv. 不再  
 
 $\spadesuit$  常与否定连用  
 
@@ -18245,12 +18247,12 @@ e.g.  I don’t live here anymore.
 
 ◆  近义短语： no longer    adv.  
 
-# 1647.   propose   [prəˈpəʊ z]   v. 提议  
+ 1647.   propose   [prəˈpəʊ z]   v. 提议  
 
 $\spadesuit$  及物动词：A propose B. 
 
 ◆  结构1： A propose doing B. e.g.  I propose watching a film tonight.  ◆  结构2： A propose that … e.g.  I propose that we watch a film …  
-# 1648.   thinking   [θ ɪ ŋk ɪ ŋ]   n. 思考  
+ 1648.   thinking   [θ ɪ ŋk ɪ ŋ]   n. 思考  
 
 ◆  不可数名词  
 
@@ -18262,7 +18264,7 @@ $\spadesuit$   动词伴侣
 
 e.g.   do some thinking  
 
-# 1649.   possibly   [ˈpɒ səbli]   adv. 可能  
+ 1649.   possibly   [ˈpɒ səbli]   adv. 可能  
 
 ◆  possible (adj.)   $^+$   ly (adv.)  
 
@@ -18274,7 +18276,7 @@ e.g.  Could you possibly help me?
 
 e.g.  You can’t possibly carry all this.  
 
-# 1650.   trend   [trend]   n. 潮流  
+ 1650.   trend   [trend]   n. 潮流  
 
 ◆  可数名词  
 
@@ -18286,7 +18288,7 @@ e.g.   a new/recent/national trend
 
 e.g.   follow a trend  
 
-# 1651.   visitor   [ ˈ v ɪ z ɪ t ə (r)]   n. 访客  
+ 1651.   visitor   [ ˈ v ɪ z ɪ t ə (r)]   n. 访客  
 
 $\spadesuit$  可数名词  
 
@@ -18307,7 +18309,7 @@ e.g.   a home/car/student loan
 
 e.g.   apply for/get/pay back a loan  
 
-# 1653.   currently   [ ˈ k ʌ r ə ntli]   adv. 当下  
+ 1653.   currently   [ ˈ k ʌ r ə ntli]   adv. 当下  
 
 $\spadesuit$  副词：修饰动词或句子  
 
@@ -18319,7 +18321,7 @@ e.g.   She is currently living in NY.
 
 ◆  大众版： now   adv.  
 
-# 1654.  comfortable   [ ˈ k ʌ mft ə bl]    adj. 舒服的  
+ 1654.  comfortable   [ ˈ k ʌ mft ə bl]    adj. 舒服的  
 
 ◆  做表语或定语  
 
@@ -18331,7 +18333,7 @@ e.g.   a comfortable chair/sofa/bed
 
 e.g.   be/look/feel comfortable  
 
-# 1655.   investor   [ɪnˈvestə(r)]   n. 投资人  
+ 1655.   investor   [ɪnˈvestə(r)]   n. 投资人  
 
 ◆  可数名词  
 $\spadesuit$   形容词伴侣  
@@ -18342,7 +18344,7 @@ e.g.   a small/ordinary/angel investor
 
 e.g.   advise/protect investors  
 
-# 1656.   but   [b ə t]   prep. 除了  
+ 1656.   but   [b ə t]   prep. 除了  
 
 ◆  不是连词，是介词！  
 
@@ -18354,7 +18356,7 @@ e.g.  I like nothing but roses.
 
 ◆  近义词：  except    prep.  
 
-# 1657.   profit   [ ˈ pr ɒ  f ɪ t]    n. 利润  
+ 1657.   profit   [ ˈ pr ɒ  f ɪ t]    n. 利润  
 
 $\spadesuit$  常用可数  
 
@@ -18366,7 +18368,7 @@ e.g.   a big/small/healthy profit
 
 e.g.   make a profit  
 
-# 1658.   angry   [ ˈ æŋgri]   adj. 愤怒的  
+ 1658.   angry   [ ˈ æŋgri]   adj. 愤怒的  
 
 $\spadesuit$  做表语或定语  
 
@@ -18377,7 +18379,7 @@ e.g.   angry people/fans/customers
 $\spadesuit$   动词伴侣  
 
 e.g.   be/get/feel angry  
-# 1659.   crew   [kruː]   n. 工作人员  
+ 1659.   crew   [kruː]   n. 工作人员  
 
 ◆  单数：集合名词  
 
@@ -18389,7 +18391,7 @@ e.g.   a TV/film/fire crew
 
 e.g.   have a crew of …  
 
-# 1660.   accident   [ ˈ æks ɪ d ə nt]   n. 事故  
+ 1660.   accident   [ ˈ æks ɪ d ə nt]   n. 事故  
 
 ◆  可数名词  
 
@@ -18401,7 +18403,7 @@ e.g.   a terrible/major/minor accident
 
 e.g.   an accident happens  
 
-# 1661.   meal   [mi ː l]   n. 一顿饭  
+ 1661.   meal   [mi ː l]   n. 一顿饭  
 
 ◆  可数名词  
 
@@ -18413,7 +18415,7 @@ e.g.   a nice/rich/light meal
 
 e.g.   have/eat/make a meal  
 
-# 1662.   hearing   [ ˈ h ɪə r ɪ ŋ]   n. 听觉  
+ 1662.   hearing   [ ˈ h ɪə r ɪ ŋ]   n. 听觉  
 
 $\spadesuit$  不可数名词：能力  
 
@@ -18424,7 +18426,7 @@ $\spadesuit$   动词伴侣
 
 e.g.   have adj. hearing  
 
-# 1663.   traffic   [ˈtræfɪk]   n. 交通  
+ 1663.   traffic   [ˈtræfɪk]   n. 交通  
 
 $\spadesuit$  集合名词：所有车为一体  
 
@@ -18436,7 +18438,7 @@ e.g.   bad/slow/heavy traffic
 
 e.g.   there is adj. traffic  
 
-# 1664.   muscle   [ ˈ m ʌ sl]    n. 肌肉  
+ 1664.   muscle   [ ˈ m ʌ sl]    n. 肌肉  
 
 $\spadesuit$  常用复数： muscles  
 
@@ -18460,7 +18462,7 @@ e.g.   a common/false/popular notion
 
 e.g.   have/accept a notion  
 
-# 1666.   capture   [ ˈ kæpt ʃə (r)]   v. 捕捉  
+ 1666.   capture   [ ˈ kæpt ʃə (r)]   v. 捕捉  
 
 ◆  及物动词：A capture B.  
 $\spadesuit$  名词伴侣  
@@ -18469,13 +18471,13 @@ e.g.   capture one’s attention/interest
 
 ◆  近义词： catch         v.  
 
-# 1667.   prefer   [pr ɪˈ f ɜː (r)]   v. 偏爱  
+ 1667.   prefer   [pr ɪˈ f ɜː (r)]   v. 偏爱  
 
 ◆  及物动词：A prefer B.  
 
  ◆  结构1： A prefer B to C. e.g.   I prefer tea to coffee.   ◆  结构2： A prefer to do B. e.g.   I prefer to sit in the first row.  
 
-# 1668.   truly   [ ˈ tru ː li]   adv. 确实  
+ 1668.   truly   [ ˈ tru ː li]   adv. 确实  
 
 ◆  副词：修饰形容词  
 
@@ -18497,7 +18499,7 @@ e.g.   dry/soft/hard earth
 
 e.g.   The Earth goes around the Sun.  
 
-# 1670.  Japanese   [ ˌ d ʒ æp əˈ ni ː z]   adj. 日本的  
+ 1670.  Japanese   [ ˌ d ʒ æp əˈ ni ː z]   adj. 日本的  
 
 ◆  做表语或定语  
 $\spadesuit$  名词伴侣  
@@ -18506,7 +18508,7 @@ e.g.   Japanese food/culture/clothing
 
 ◆  另有【日语】之意  
 
-# 1671.   chest   [tʃest]   n. 胸部  
+ 1671.   chest   [tʃest]   n. 胸部  
 
 $\spadesuit$  常用单数  
 
@@ -18518,7 +18520,7 @@ e.g.   a broad/strong/hairy chest
 
 e.g.   a medicine chest  
 
-# 1672.   search   [s ɜː t ʃ ]   v. 搜索  
+ 1672.   search   [s ɜː t ʃ ]   v. 搜索  
 
 ◆  及物不及物皆可 
 
@@ -18553,7 +18555,7 @@ e.g.   extra/ready/spare cash
 
 e.g.   have/provide cash  
 
-# 1675. museum   [mju ːˈ zi: ə m]   n. 博物馆  
+ 1675. museum   [mju ːˈ zi: ə m]   n. 博物馆  
 
 ◆  可数名词  
 
@@ -18565,7 +18567,7 @@ e.g.   a famous/great/public museum
 
 e.g.   go to/visit a museum  
 
-# 1676.   beauty   [ ˈ bju ː ti]   n. 美丽  
+ 1676.   beauty   [ ˈ bju ː ti]   n. 美丽  
 
 ◆  可数不可数皆可  
 
@@ -18577,7 +18579,7 @@ e.g.   great/natural/inner beauty
 
 e.g.   enjoy/admire the beauty of sth  
 
-# 1677. emergency   [i ˈ m ɜː d ʒə nsi]   n. 紧急  
+ 1677. emergency   [i ˈ m ɜː d ʒə nsi]   n. 紧急  
 
 ◆  可数不可数皆可  
 
@@ -18588,7 +18590,7 @@ e.g.  a sudden/serious emergency
 ◆  动词伴侣  
 e.g.  handle/deal with an emergency  
 
-# 1678.   unique   [juːˈniːk]   adj. 独特的  
+ 1678.   unique   [juːˈniːk]   adj. 独特的  
 
 ◆  做表语或定语  
 
@@ -18600,7 +18602,7 @@ e.g.   a unique ability/style/present
 
 e.g.   The koala is unique to Australia.  
 
-# 1679.   feature   [ ˈ fi ː t ʃə (r)]   v. 具有  
+ 1679.   feature   [ ˈ fi ː t ʃə (r)]   v. 具有  
 
 $\spadesuit$   及物动词： A feature B.  
 
@@ -18610,7 +18612,7 @@ e.g.   feature an article/display/story
 
 $\spadesuit$   大众版：  have   v.  
 
-# 1680. internal   [ɪnˈtɜːnl]   adj. 内部的  
+ 1680. internal   [ɪnˈtɜːnl]   adj. 内部的  
 
 ◆  常做定语  
 
@@ -18620,7 +18622,7 @@ e.g.   internal affairs/organs/trade
 
 ◆  反义词： external   adj.  
 
-# 1681.   ethnic   [ˈeθnɪk]   adj. 民族的  
+ 1681.   ethnic   [ˈeθnɪk]   adj. 民族的  
 
 ◆  做表语或定语  
 
@@ -18631,7 +18633,7 @@ e.g.   an ethnic group/problem
 ◆  固定搭配  
 e.g.   ethnic violence/conflict  
 
-# 1682.   link   [l ɪ ŋk]   v. 联系  
+ 1682.   link   [l ɪ ŋk]   v. 联系  
 
 ◆  及物动词： A link B to/with C.  
 
@@ -18643,7 +18645,7 @@ e.g.   Sugar is linked with many problems.
 
 e.g.   be clearly/closely linked to …  
 
-# 1683.   stress   [stres]   n. 压力  
+ 1683.   stress   [stres]   n. 压力  
 
 $\spadesuit$  不可数名词  
 
@@ -18655,7 +18657,7 @@ $\spadesuit$   动词伴侣
 
 e.g.   cause/increase/reduce stress  
 
-# 1684.   content   [ˈkɒ ntent]   n. 内容  
+ 1684.   content   [ˈkɒ ntent]   n. 内容  
 
 ◆  常用复数：contents  
 
@@ -18667,7 +18669,7 @@ $\spadesuit$   动词伴侣
 
 e.g.   examine/empty the contents  
 
-# 1685.   select   [s ɪˈ lekt]     $\pmb{\mathsf{v}}.$   挑选  
+ 1685.   select   [s ɪˈ lekt]     $\pmb{\mathsf{v}}.$   挑选  
 
 $\spadesuit$   及物动词： A select B.  
 
@@ -18686,7 +18688,7 @@ e.g.   deep/shallow roots
 
 ◆  固定结构：  take root    v.  
 
-# 1687.   nose   [nəʊ z]   n. 鼻子  
+ 1687.   nose   [nəʊ z]   n. 鼻子  
 
 ◆  可数名词  
 
@@ -18698,7 +18700,7 @@ $\spadesuit$   动词伴侣
 
 e.g.   blow/wipe/break one’s nose  
 
-# 1688.   declare   [d ɪˈ kle ə (r)]   v. 宣布  
+ 1688.   declare   [d ɪˈ kle ə (r)]   v. 宣布  
 
 $\spadesuit$  及物动词：A declare B.  
 
@@ -18710,7 +18712,7 @@ e.g.   He declared that he was the winner.
 
 e.g.   He declared himself the winner.  
 
-# 1689. outside   [ˌaʊ tˈsaɪd]   adv. 在外面  
+ 1689. outside   [ˌaʊ tˈsaɪd]   adv. 在外面  
 
 $\spadesuit$  副词：修饰动词  
 
@@ -18719,7 +18721,7 @@ e.g.   go/play/wait outside
 
 ◆  反义词：  inside   adv.  
 
-# 1690.  appreciate   [ əˈ pri ːʃ ie ɪ t]     $\pmb{\mathsf{v}}.$   欣赏  
+ 1690.  appreciate   [ əˈ pri ːʃ ie ɪ t]     $\pmb{\mathsf{v}}.$   欣赏  
 
 $\spadesuit$  及物动词：A appreciate B.  
 
@@ -18731,7 +18733,7 @@ e.g.   appreciate music/art/wine
 
 e.g.   I appreciate your help/concern.  
 
-# 1691.   actual   [ˈæktʃuəl]   adj. 确实的  
+ 1691.   actual   [ˈæktʃuəl]   adj. 确实的  
 
 ◆  常做定语  
 
@@ -18753,7 +18755,7 @@ $\spadesuit$   动词伴侣
 
 e.g.   open/fill/bring a bottle  
 
-# 1693.   hardly   [ ˈ hɑ ː dli]   adv. 几乎不  
+ 1693.   hardly   [ ˈ hɑ ː dli]   adv. 几乎不  
 
 $\spadesuit$  副词：修饰动词  
 
@@ -18764,7 +18766,7 @@ e.g.   This is hardly surprising.
 
 ◆  与hard 区分  
 
-# 1694.   setting   [ ˈ set ɪ ŋ]   n. 设定  
+ 1694.   setting   [ ˈ set ɪ ŋ]   n. 设定  
 
 $\spadesuit$  可数名词  
 
@@ -18809,7 +18811,7 @@ e.g.   an audio/video/text file
 
 e.g.   create/copy/delete a file  
 
-# 1698.   sick   [sɪk]   adj. 生病的  
+ 1698.   sick   [sɪk]   adj. 生病的  
 
 ◆  做表语或定语  
 
@@ -18821,7 +18823,7 @@ e.g.   a sick child/animal/mother
 
 e.g.   be/get/feel sick  
 
-# 1699.   outcome   [ ˈ a ʊ  tk ʌ m]   n. 结果  
+ 1699.   outcome   [ ˈ a ʊ  tk ʌ m]   n. 结果  
 
 $\spadesuit$  可数名词：the outcome of sth  
 
@@ -18852,7 +18854,7 @@ e.g.   see/reply to an ad
 
 ◆  固定： defend yourself  
 
-# 1702.   matter   [ˈmætə(r)]   v. 重要  
+ 1702.   matter   [ˈmætə(r)]   v. 重要  
 
 ◆  不及物动词：A matter.  
 
@@ -18887,7 +18889,7 @@ e.g.   a legal/public/family duty
 ◆  动词伴侣  
 e.g.   have a duty to do sth  
 
-# 1705.   sheet   [ ʃ i ː t]   n. 薄片  
+ 1705.   sheet   [ ʃ i ː t]   n. 薄片  
 
 ◆  可数名词  
 
@@ -18899,7 +18901,7 @@ e.g.   a sheet of paper/glass/plastic
 
 e.g.   change the sheets  
 
-# 1706.   ought to   [ ˈɔː t t ə ]   v. 应该  
+ 1706.   ought to   [ ˈɔː t t ə ]   v. 应该  
 
 ◆  情态动词：A ought to do B.  
 
@@ -18911,7 +18913,7 @@ e.g.   Such things ought not to be allowed.
 
 ◆  大众版：  should   v.  
 
-# 1707.   ensure   [ ɪ n ˈʃʊ ə (r)]   v. 确保  
+ 1707.   ensure   [ ɪ n ˈʃʊ ə (r)]   v. 确保  
 
 $\spadesuit$  及物动词：A ensure B.  
 
@@ -18923,7 +18925,7 @@ e.g.  The song ensured his success.
 
 e.g.  Ensure that all lights are turned off.  
 
-# 1708. extremely   [ ɪ k ˈ stri ː mli]   adv. 极端地  
+ 1708. extremely   [ ɪ k ˈ stri ː mli]   adv. 极端地  
 
 $\spadesuit$  副词：修饰形容词  
 
@@ -18944,7 +18946,7 @@ e.g.   a large/small/great extent
 
 e.g.   to a adj. extent  
 
-# 1710.  component   [kəmˈpəʊ nənt]   n. 部分  
+ 1710.  component   [kəmˈpəʊ nənt]   n. 部分  
 
 $\spadesuit$  可数名词  
 
@@ -18968,7 +18970,7 @@ $\spadesuit$ 不及物： A and B mix.
 
 e.g.  Oil and water don’t mix.  
 
-# 1712.  long-term   adj. 长期的  
+ 1712.  long-term   adj. 长期的  
 
 $\spadesuit$ 常做定语  
 $\spadesuit$ 名词伴侣  
@@ -18979,7 +18981,7 @@ e.g.   a long-term plan/goal/study
 
 e.g.   in the long-term  
 
-# 1713.  slow   [sl əʊ ]   adj. 缓慢的  
+ 1713.  slow   [sl əʊ ]   adj. 缓慢的  
 
 ◆ 做表语或定语  
 
@@ -18991,7 +18993,7 @@ e.g.   a slow car/speed/reader
 
 e.g.   be/seem/look slow  
 
-# 1714.  contrast   [ˈkɒntrɑːst]   n. 对照  
+ 1714.  contrast   [ˈkɒntrɑːst]   n. 对照  
 
 $\spadesuit$ 常用单数： in contrast with/to …  
 
@@ -19014,7 +19016,7 @@ e.g.   a safe/war/comfort zone
 $\spadesuit$  动词伴侣  
 
 e.g.   enter/leave a zone  
-# 1716.   wake   [we ɪ k]   v. 醒来  
+ 1716.   wake   [we ɪ k]   v. 醒来  
 
 $\spadesuit$  及物不及物皆可  
 
@@ -19026,7 +19028,7 @@ e.g.   I usually wake up early.
 
 ◆ 反义词：  go to bed  
 
-# 1717.   challenge   [ ˈ t ʃ æl ɪ nd ʒ ]   v. 挑战  
+ 1717.   challenge   [ ˈ t ʃ æl ɪ nd ʒ ]   v. 挑战  
 
 $\spadesuit$ 及物动词：A challenge B.  
 
@@ -19038,7 +19040,7 @@ $\spadesuit$ 副词伴侣
 
 e.g.   directly/strongly challenge sth  
 
-# 1718.   airport   [ ˈ e ə p ɔ ː t]   n. 机场  
+ 1718.   airport   [ ˈ e ə p ɔ ː t]   n. 机场  
 
 ◆ air (n.)   $^+$   port (n.)  
 
@@ -19059,7 +19061,7 @@ $\spadesuit$ 名词伴侣
 e.g.   the chief of police/surgery/security    $\spadesuit$  专有名词  
 e.g.   The White House Chief of Staff  
 
-# 1720.   brown   [braʊn]   adj. 棕色的  
+ 1720.   brown   [braʊn]   adj. 棕色的  
 
 $\spadesuit$ 做表语或定语  
 
@@ -19071,7 +19073,7 @@ $\spadesuit$ 固定用法
 
 e.g.   very/so brown  
 
-# 1721.   standard   [ˈstændəd]   adj. 标准的  
+ 1721.   standard   [ˈstændəd]   adj. 标准的  
 
 ◆ 做表语或定语  
 
@@ -19095,7 +19097,7 @@ $\spadesuit$  动词伴侣
 
 e.g.   buy/wear/put on a shirt  
 
-# 1723.   pilot  [ ˈ pa ɪ l ə t]   n. 飞行员  
+ 1723.   pilot  [ ˈ pa ɪ l ə t]   n. 飞行员  
 
 ◆ 可数名词  
 $\spadesuit$  形容词伴侣  
@@ -19106,7 +19108,7 @@ $\spadesuit$  动词伴侣
 
 e.g.   be/become a pilot  
 
-# 1724.   warn  [w ɔ ː n]   v. 警告  
+ 1724.   warn  [w ɔ ː n]   v. 警告  
 
 ◆ 及物不及物皆可  
 
@@ -19118,7 +19120,7 @@ e.g.   He warned that there would be …
 
 e.g.   He warned about the war.  
 
-# 1725.   ultimately  [ ˈʌ lt ɪ m ə tli]   adv. 最终  
+ 1725.   ultimately  [ ˈʌ lt ɪ m ə tli]   adv. 最终  
 
 $\spadesuit$ 副词：修饰动词或整句  
 
@@ -19141,7 +19143,7 @@ e.g.   a big/pet/playful cate
 $\spadesuit$  动词伴侣  
 
 e.g.   have/keep/feed a cat  
-# 1727.   contribution   [ˌkɒntrɪˈbjuːʃn]   n. 贡献  
+ 1727.   contribution   [ˌkɒntrɪˈbjuːʃn]   n. 贡献  
 
 ◆ 常用可数  
 
@@ -19153,7 +19155,7 @@ $\spadesuit$  动词伴侣
 
 e.g.   make a contribution to sth  
 
-# 1728.   capacity   [k əˈ pæs ə ti]   n. 容积  
+ 1728.   capacity   [k əˈ pæs ə ti]   n. 容积  
 
 $\spadesuit$ 不可数或常用单数  
 
@@ -19165,7 +19167,7 @@ $\spadesuit$  动词伴侣
 
 e.g.   have a capacity of …  
 
-# 1729.   estate   [ ɪˈ ste ɪ t]   n. 大块土地  
+ 1729.   estate   [ ɪˈ ste ɪ t]   n. 大块土地  
 
 ◆ 可数名词  
 
@@ -19177,7 +19179,7 @@ e.g.   a big/huge/small estate
 
 e.g.   have/own/buy an estate  
 
-# 1730.   guide  [ɡaɪd]   n. 指南  
+ 1730.   guide  [ɡaɪd]   n. 指南  
 
 ◆ 可数名词  
 
@@ -19188,7 +19190,7 @@ $\spadesuit$  动词伴侣
 
 e.g.   buy/read/consult a guide  
 
-# 1731.   circumstance  [ ˈ s ɜ ː k ə mst ə ns]   n. 环境  
+ 1731.   circumstance  [ ˈ s ɜ ː k ə mst ə ns]   n. 环境  
 
 $\spadesuit$ 常用复数： circumstances  
 
@@ -19212,7 +19214,7 @@ $\spadesuit$  动词伴侣
 
 e.g.   snow falls/melts  
 
-# 1733.   English  [ˈɪŋɡlɪʃ]  adj. 英国的  
+ 1733.   English  [ˈɪŋɡlɪʃ]  adj. 英国的  
 
 ◆ 做表语或定语  
 
@@ -19224,7 +19226,7 @@ e.g.   English culture/food/tradition
 
 e.g.   the English Channel  
 
-# 1734.   steal  [sti ː l]    $\pmb{\upnu}.$  
+ 1734.   steal  [sti ː l]    $\pmb{\upnu}.$  
 
 $\spadesuit$  及物不及物皆可  
 A steal B.       A steal.  
@@ -19235,7 +19237,7 @@ e.g.   steal a phone/wallet/car
 
 $\spadesuit$  介词伴侣：A steal B from C.  
 
-# 1735.   pursue  [p əˈ sju ː ]    $\pmb{\mathsf{v}}.$  
+ 1735.   pursue  [p əˈ sju ː ]    $\pmb{\mathsf{v}}.$  
 
 ◆ 及物动词：A pursue B.  
 
@@ -19247,7 +19249,7 @@ e.g.   pursue a dream/job/goal
 
 $\spadesuit$ 近义词：  follow   v.  
 
-# 1736.   slip [sl ɪ p]  v. 滑动  
+ 1736.   slip [sl ɪ p]  v. 滑动  
 
 $\spadesuit$  及物不及物皆可  
 
@@ -19259,7 +19261,7 @@ $\spadesuit$ 及物用法： A slip B.
 
 e.g.   She slipped a letter in the drawer.  
 
-# 1737.   percentage  [p əˈ sent ɪ d ʒ ]    $\pmb{\mathsf{v}}.$  
+ 1737.   percentage  [p əˈ sent ɪ d ʒ ]    $\pmb{\mathsf{v}}.$  
 
 $\spadesuit$  及物不及物皆可  
 
@@ -19270,7 +19272,7 @@ e.g.   She slipped on the ice.
 $\spadesuit$ 及物用法： A slip B.  
 
 e.g.   She slipped a letter in the drawer.  
-# 1738.   meat  [mi ː  
+ 1738.   meat  [mi ː  
 
 $\spadesuit$ 不可数名词  
 
@@ -19282,7 +19284,7 @@ $\spadesuit$  动词伴侣
 
 e.g.   buy/cook/eat meat  
 
-# 1739.   funny  [ ˈ f ʌ ni]  adj. 搞笑的  
+ 1739.   funny  [ ˈ f ʌ ni]  adj. 搞笑的  
 
 $\spadesuit$ 做表语或定语  
 
@@ -19294,7 +19296,7 @@ $\spadesuit$  动词伴侣
 
 e.g.   look/sound funny  
 
-# 1740.   neither  [ ˈ na ɪ ð ə (r)]  adv. 也不  
+ 1740.   neither  [ ˈ na ɪ ð ə (r)]  adv. 也不  
 
 ◆ 用于赞成否定  
 
@@ -19306,7 +19308,7 @@ e.g.    Tom does not have a job.
 
 $\spadesuit$ 有时可用nor 替代  
 
-# 1741.   soil  [ sɔɪl  
+ 1741.   soil  [ sɔɪl  
 
 $\spadesuit$ 不可数名词：物质  
 
@@ -19317,7 +19319,7 @@ $\spadesuit$  动词伴侣
 
 e.g.   improve/turn/enrich the soil  
 
-# 1742.   influence  [ ˈɪ nflu ə  
+ 1742.   influence  [ ˈɪ nflu ə  
 
 $\spadesuit$ 及物动词：A influence B.  
 
@@ -19329,7 +19331,7 @@ $\spadesuit$ 副词伴侣
 
 e.g.   greatly/directly influence sth  
 
-# 1743.   surgery  [ ˈsɜːdʒəri  
+ 1743.   surgery  [ ˈsɜːdʒəri  
 
 $\spadesuit$ 不可数名词：泛指  
 
@@ -19341,7 +19343,7 @@ $\spadesuit$  动词伴侣
 
 e.g.   have/do surgery  
 
-# 1744.   correct  [kəˈrekt]  adj. 正确的  
+ 1744.   correct  [kəˈrekt]  adj. 正确的  
 
 ◆ 做表语或定语  
 
@@ -19353,7 +19355,7 @@ $\spadesuit$  动词伴侣
 
 e.g.   be/seem/prove correct  
 
-# 1745.   blame  [ble ɪ m]    $\pmb{\upnu}.$  
+ 1745.   blame  [ble ɪ m]    $\pmb{\upnu}.$  
 
 $\spadesuit$ 及物动词：A blame B.  
 ◆ 结构1： A blame B for C.  
@@ -19364,7 +19366,7 @@ e.g.  Don’t blame me for the problem.
 
 e.g.  Don’t blame the problem on me.  
 
-# 1746.   estimate  [ ˈ est ɪ m ə  
+ 1746.   estimate  [ ˈ est ɪ m ə  
 
 ◆ 及物动词：A estimate B.  
 
@@ -19376,7 +19378,7 @@ e.g.   estimate the number/amount/effect
 
 e.g.   It is estimated that …  
 
-# 1747.   due to   prep. 由于  
+ 1747.   due to   prep. 由于  
 
 $\spadesuit$  整体介词   $^+$   名词  
 
@@ -19386,7 +19388,7 @@ e.g.   largely/partly due to sth
 
 ◆ 大众版： because of …  
 
-# 1749.   late  [le ɪ  
+ 1749.   late  [le ɪ  
 
 ◆ 副词：修饰动词  
 
@@ -19396,7 +19398,7 @@ e.g.   get up/go to bed/arrive late
 
 ◆ 反义词： early    adv.  
 
-# 1750.   golf    [ɡ ɒ  
+ 1750.   golf    [ɡ ɒ  
 
 ◆ 可数不可数皆可  
 $\spadesuit$  动词伴侣  
@@ -19407,7 +19409,7 @@ e.g.   play/watch golf
 
 e.g.   a golf club/player/course  
 
-# 1751.   investigate   [ ɪ n ˈ vest ɪ ɡe ɪ  
+ 1751.   investigate   [ ɪ n ˈ vest ɪ ɡe ɪ  
 
 ◆ 及物动词： A investigate B.  
 
@@ -19419,7 +19421,7 @@ e.g.   investigate a case/problem/crime
 
 e.g.   investigate sth carefully/closely  
 
-# 1752.   crazy   [ ˈ kre ɪ zi]  adj. 疯狂的  
+ 1752.   crazy   [ ˈ kre ɪ zi]  adj. 疯狂的  
 
 $\spadesuit$ 做表语或定语  
 
@@ -19431,7 +19433,7 @@ $\spadesuit$  动词伴侣
 
 e.g.   be/sound/seem crazy  
 
-# 1753.  significantly   [s ɪ ɡ ˈ n ɪ f ɪ k ə ntli]  adv. 极大地  
+ 1753.  significantly   [s ɪ ɡ ˈ n ɪ f ɪ k ə ntli]  adv. 极大地  
 
 $\spadesuit$ 副词：修饰形容词或动词  
 
@@ -19442,7 +19444,7 @@ e.g.   significantly better/higher/worse
 $\spadesuit$  动词伴侣  
 
 e.g.   change/increase significantly  
-# 1754.  chain   [tʃeɪ  
+ 1754.  chain   [tʃeɪ  
 
 ◆ 可数名词  
 
@@ -19454,7 +19456,7 @@ $\spadesuit$  另有【连锁店】之意
 
 e.g.   a hotel/restaurant/retail chain  
 
-# 1755.  address   [ əˈ dres]  v. 着手解决  
+ 1755.  address   [ əˈ dres]  v. 着手解决  
 
 $\spadesuit$ 及物动词：A address B.  
 
@@ -19466,7 +19468,7 @@ $\spadesuit$ 另有【发表演说】之意
 
 e.g.   address a meeting/audience  
 
-# 1756.  branch   [brɑ ː nt ʃ  
+ 1756.  branch   [brɑ ː nt ʃ  
 
 ◆ 可数名词  
 
@@ -19478,7 +19480,7 @@ e.g.   a high/low branch
 
 e.g.   have/open/close a branch  
 
-# 1757.  combination  [ ˌ k ɒ mb ɪˈ ne ɪʃ  
+ 1757.  combination  [ ˌ k ɒ mb ɪˈ ne ɪʃ  
 
 ◆ 常用单数  
 
@@ -19487,7 +19489,7 @@ $\spadesuit$  形容词伴侣
 e.g.   a good/rare/powerful combination    $\spadesuit$  动词伴侣  
 e.g.   make a adj. combination  
 
-# 1758.  just [dʒʌst]  adj. 公正的  
+ 1758.  just [dʒʌst]  adj. 公正的  
 
 $\spadesuit$ 做表语或定语  
 
@@ -19497,7 +19499,7 @@ e.g.   a just society/cause/war
 
 $\spadesuit$ 近义词：  fair    adj.  
 
-# 1759.  frequently [ ˈ fri ː kw ə  
+ 1759.  frequently [ ˈ fri ː kw ə  
 
 $\spadesuit$ 副词：修饰动词  
 
@@ -19507,7 +19509,7 @@ e.g.   appear/travel/interrupt frequently
 
 $\spadesuit$  大众版： often    adv.  
 
-# 1760.  governor [ ˈ ɡ ʌ v ə n ə  
+ 1760.  governor [ ˈ ɡ ʌ v ə n ə  
 
 ◆ govern (v.)   $^+$   or (n.)  
 
@@ -19519,7 +19521,7 @@ e.g.   an acting/royal/former governor
 
 e.g.   the governor of California  
 
-# 1761.  relief [r ɪˈ li ː  
+ 1761.  relief [r ɪˈ li ː  
 
 $\spadesuit$ 可数不可数皆可  
 
@@ -19528,7 +19530,7 @@ $\spadesuit$  形容词伴侣
 e.g.   great/deep/complete relief  
 $\spadesuit$ 固定句式 e.g.   what a relief …  
 
-# 1762.  user [ ˈ ju ː z ə  
+ 1762.  user [ ˈ ju ː z ə  
 
 $\spadesuit$ 可数名词  
 
@@ -19540,7 +19542,7 @@ $\spadesuit$  动词伴侣
 
 e.g.   help/attract/impress users  
 
-# 1763.  dad [dæd]  n. 爸爸  
+ 1763.  dad [dæd]  n. 爸爸  
 
 ◆ 可数名词  
 
@@ -19562,7 +19564,7 @@ e.g.   kick a ball/door/wall
 
 $\spadesuit$ 近义词：   strike   v.  
 
-# 1765.  manner [ ˈ mæn ə  
+ 1765.  manner [ ˈ mæn ə  
 
 $\spadesuit$ 常用单数  
 
@@ -19571,7 +19573,7 @@ e.g.   in the usual/normal manner
 
 $\spadesuit$  复数另有【礼仪】之意  e.g.   have good/bad manners  
 
-# 1766.  ancient [ ˈ e ɪ n ʃə  
+ 1766.  ancient [ ˈ e ɪ n ʃə  
 
 $\spadesuit$ 做表语或定语  
 
@@ -19583,7 +19585,7 @@ e.g.   an ancient building/city/culture
 
 e.g.   ancient Egypt/Rome/Greece  
 
-# 1767.  silence [ ˈ sa ɪ l ə  
+ 1767.  silence [ ˈ sa ɪ l ə  
 
 $\spadesuit$ 可数不可数皆可  
 
@@ -19595,7 +19597,7 @@ e.g.   total/complete/dead silence
 
 e.g.   break the silence  
 
-# 1768.  rating [ ˈ re ɪ t ɪ  
+ 1768.  rating [ ˈ re ɪ t ɪ  
 
 ◆ 可数名词  
 
@@ -19614,7 +19616,7 @@ $\spadesuit$ 常做定语
 
 ◆ 与gold 区分 e.g.   a gold necklace  
 
-# 1770. motion  [ ˈ m əʊʃ  
+ 1770. motion  [ ˈ m əʊʃ  
 
 $\spadesuit$ 可数不可数皆可  
 
@@ -19634,7 +19636,7 @@ e.g.   a German friend/company
 
 $\spadesuit$ 另有【德语】之意  
 
-# 1772. gender  [ ˈ d ʒ end ə (r)]  n. 性别  
+ 1772. gender  [ ˈ d ʒ end ə (r)]  n. 性别  
 
 $\spadesuit$ 常用单数或不可数  
 
@@ -19663,7 +19665,7 @@ e.g.   a high/low/monthly fee
 
 e.g.   charge/pay a fee  
 
-# 1775. landscape  [ ˈ lændske ɪ p ]  n. 景色  
+ 1775. landscape  [ ˈ lændske ɪ p ]  n. 景色  
 
 ◆ 常用单数  
 
@@ -19675,7 +19677,7 @@ $\spadesuit$  动词伴侣
 
 e.g.   love/enjoy the landscape  
 
-# 1776. used [juːzd ]  adj. 用过的  
+ 1776. used [juːzd ]  adj. 用过的  
 
 $\spadesuit$ 常做定语  
 
@@ -19694,7 +19696,7 @@ $\spadesuit$  动词伴侣
 
 e.g.   use/clean/break a bowl  
 
-# 1778. equal  [ˈiːkwəl]  adj. 平等的  
+ 1778. equal  [ˈiːkwəl]  adj. 平等的  
 
 $\spadesuit$ 做表语或定语  
 
@@ -19704,7 +19706,7 @@ e.g.   an equal pay/size/number
 
 $\spadesuit$ 近义词：  the same … as …  
 
-# 1779. official  [əˈfɪʃl]  adj. 官方的  
+ 1779. official  [əˈfɪʃl]  adj. 官方的  
 
 $\spadesuit$ 常做定语  
 
@@ -19714,7 +19716,7 @@ e.g.   an official visit/invitation/meeting
 
 $\spadesuit$ 另有【官员】之意  
 
-# 1780. forth [f ɔ ː θ]  adv. 向外  
+ 1780. forth [f ɔ ː θ]  adv. 向外  
 
 ◆ 副词：修饰动词  
 
@@ -19724,7 +19726,7 @@ e.g.   go/come/stretch forth
 
 ◆ 较为正式  
 
-# 1781. frame  [fre ɪ m]  n. 框架  
+ 1781. frame  [fre ɪ m]  n. 框架  
 
 ◆ 可数名词  
 $\spadesuit$ 名词伴侣  
@@ -19733,7 +19735,7 @@ e.g.   a photo/window/door frame
 
 ◆ 同源：  framework    n.  
 
-# 1782. typical [ ˈ t ɪ p ɪ kl]  adj. 典型的  
+ 1782. typical [ ˈ t ɪ p ɪ kl]  adj. 典型的  
 
 $\spadesuit$ 做表语或定语  
 
@@ -19745,7 +19747,7 @@ $\spadesuit$ 固定句式
 
 e.g.   it is typical of A to do B  
 
-# 1783. except [ ɪ k ˈ sept]  prep. 除了  
+ 1783. except [ ɪ k ˈ sept]  prep. 除了  
 
 $\spadesuit$ 此处介词，不是连词！  
 
@@ -19755,7 +19757,7 @@ e.g. Everyone was invited except (for) me.
 
 ◆ 可用 but 改写  
 
-# 1784. conservative [k ə n ˈ s ɜ ː v ə t ɪ v]  adj. 保守的  
+ 1784. conservative [k ə n ˈ s ɜ ː v ə t ɪ v]  adj. 保守的  
 
 ◆ 做表语或定语  
 
@@ -19765,7 +19767,7 @@ e.g.   a conservative newspaper/attitude
 
 $\spadesuit$ 反义词： progressive   adj.  
 
-# 1785. eliminate [ ɪˈ l ɪ m ɪ ne ɪ t]    $\pmb{\upnu}.$   排除  
+ 1785. eliminate [ ɪˈ l ɪ m ɪ ne ɪ t]    $\pmb{\upnu}.$   排除  
 
 $\spadesuit$  及物动词： A eliminate B.  
 
@@ -19774,7 +19776,7 @@ e.g.   eliminate poverty/disease
 
 ◆ 大众版：  get rid of sth  
 
-# 1786. host [həʊst]  n. 主人  
+ 1786. host [həʊst]  n. 主人  
 
 $\spadesuit$ 可数名词  
 
@@ -19784,7 +19786,7 @@ e.g.   a perfect/charming host
 
 $\spadesuit$ 另有【主持人】之意  
 
-# 1787. hall [hɔːl]  n. 大堂  
+ 1787. hall [hɔːl]  n. 大堂  
 
 ◆ 可数名词  
 
@@ -19796,7 +19798,7 @@ $\spadesuit$  动词伴侣
 
 e.g.   build/rent a hall  
 
-# 1788. trust [tr ʌ st]  v. 信任  
+ 1788. trust [tr ʌ st]  v. 信任  
 
 $\spadesuit$  及物动词： A trust B.  
 
@@ -19808,7 +19810,7 @@ $\spadesuit$ 固定结构
 
 e.g.   trust your judgement  
 
-# 1789. ocean [ˈəʊʃn]  n. 海洋  
+ 1789. ocean [ˈəʊʃn]  n. 海洋  
 
 $\spadesuit$ 常用单数： the ocean  
 
@@ -19862,7 +19864,7 @@ e.g.   I can’t afford the car.
 
 e.g.   I can’t afford to buy the car.  
 
-# 1794. meanwhile [ ˈ mi ː nwa ɪ l]      adv. 同时  
+ 1794. meanwhile [ ˈ mi ː nwa ɪ l]      adv. 同时  
 
 $\spadesuit$ 副词：引导同时发生两件事  
 
@@ -19901,7 +19903,7 @@ $\spadesuit$  及物动词： A fix B.
 
 $\spadesuit$ 近义词： repair   v.  
 
-# 1798.   appeal [ əˈ pi ː l]    n. 呼吁  
+ 1798.   appeal [ əˈ pi ː l]    n. 呼吁  
 
 ◆ 常用单数  
 
@@ -19911,7 +19913,7 @@ e.g.   a urgent/personal/fresh appeal
 
 $\spadesuit$  动词伴侣  e.g.   make an appeal  
 
-# 1799. mirror [ˈmɪrə(r)]    n. 镜子  
+ 1799. mirror [ˈmɪrə(r)]    n. 镜子  
 
 $\spadesuit$ 可数名词  
 
@@ -19934,7 +19936,7 @@ e.g.   good/bad/sharp teeth
 $\spadesuit$  动词伴侣  
 
 e.g.   brush/clean/show your teeth  
-# 1801.   smart [smɑ ː t]    adj. 聪明的  
+ 1801.   smart [smɑ ː t]    adj. 聪明的  
 
 ◆ 做表语或定语  
 
@@ -19946,7 +19948,7 @@ $\spadesuit$  动词伴侣
 
 e.g.   be/look/seem smart  
 
-# 1802. length [leŋθ]    n. 长度  
+ 1802. length [leŋθ]    n. 长度  
 
 $\spadesuit$ 可数不可数皆可：the length of sth  
 
@@ -19958,7 +19960,7 @@ e.g.   the total/average length
 
 e.g.   have a length of …  
 
-# 1803. entirely [ɪnˈtaɪəli]    adv. 完全地  
+ 1803. entirely [ɪnˈtaɪəli]    adv. 完全地  
 
 $\spadesuit$ 副词：修饰形容词或动词  
 
@@ -19970,7 +19972,7 @@ e.g.   entirely different/clear
 
 e.g.  … agree/understand/respect …  
 
-# 1804.   rely [r ɪˈ la ɪ ]    v. 依靠  
+ 1804.   rely [r ɪˈ la ɪ ]    v. 依靠  
 
 $\spadesuit$ 不及物动词：A reply on B.  
 
@@ -19981,7 +19983,7 @@ $\spadesuit$ 补充信息
 
 e.g.   rely on sth for sth  
 
-# 1805.   topic [ ˈ t ɒ p ɪ k]   n. 话题  
+ 1805.   topic [ ˈ t ɒ p ɪ k]   n. 话题  
 
 $\spadesuit$ 可数名词  
 
@@ -19993,7 +19995,7 @@ $\spadesuit$  动词伴侣
 
 e.g.   choose/look at/explore a topic  
 
-# 1806.   complain [k ə m ˈ ple ɪ n]  v. 抱怨  
+ 1806.   complain [k ə m ˈ ple ɪ n]  v. 抱怨  
 
 $\spadesuit$  及物不及物皆可  
 
@@ -20017,7 +20019,7 @@ $\spadesuit$  另有【签发】之意
 
 e.g.   issue a passport/visa/permit  
 
-# 1808. variable [ˈveəriəbl]  adj. 多变的  
+ 1808. variable [ˈveəriəbl]  adj. 多变的  
 
 ◆ 做表语或定语  
 $\spadesuit$ 名词伴侣  
@@ -20028,7 +20030,7 @@ $\spadesuit$  动词伴侣
 
 e.g.   be/seem variable  
 
-# 1809. back [bæk]   $\pmb{\mathsf{v}}.$  支持  
+ 1809. back [bæk]   $\pmb{\mathsf{v}}.$  支持  
 
 $\spadesuit$ 常用及物： A back B.  
 
@@ -20038,7 +20040,7 @@ e.g.   back a plan/project/proposal
 
 ◆ 近义词：  support    v.  
 
-# 1810.   range [re ɪ nd ʒ ]  v. 变化  
+ 1810.   range [re ɪ nd ʒ ]  v. 变化  
 
 $\spadesuit$  用法固定：A range from B to C.  
 
@@ -20050,7 +20052,7 @@ e.g.   the distance/size/color ranges …
 
 e.g.   sth ranges in distance/size/color  
 
-# 1811.   telephone [ ˈ tel ɪ f əʊ n]   n. 电话  
+ 1811.   telephone [ ˈ tel ɪ f əʊ n]   n. 电话  
 
 ◆ 可数名词  
 
@@ -20071,7 +20073,7 @@ $\spadesuit$  动词伴侣
 
 e.g.   have/challenge a perception …  
 
-# 1813.   attract [ əˈ trækt]   v. 吸引  
+ 1813.   attract [ əˈ trækt]   v. 吸引  
 
 $\spadesuit$ 及物动词：A attract B.  
 
@@ -20083,7 +20085,7 @@ e.g.   attract attention/buyers/followers
 
 e.g.   A attract B to C.  
 
-# 1814. confidence [ˈkɒnfɪdəns]   n. 信心  
+ 1814. confidence [ˈkɒnfɪdəns]   n. 信心  
 
 ◆ 不可数名词  
 
@@ -20095,7 +20097,7 @@ e.g.   great/strong/complete confidence
 
 e.g.   have/show confidence  
 
-# 1815.   bedroom [ ˈ bedru ː m]   n. 卧室  
+ 1815.   bedroom [ ˈ bedru ː m]   n. 卧室  
 
 $\spadesuit$ 可数名词  
 
@@ -20106,7 +20108,7 @@ e.g.  a large/spacious/tiny bedroom
 $\spadesuit$  动词伴侣  
 e.g.  enter/rent/share a bedroom  
 
-# 1816.   secret [ ˈ si ː kr ə t]   n. 秘密  
+ 1816.   secret [ ˈ si ː kr ə t]   n. 秘密  
 
 ◆ 可数名词  
 
@@ -20118,7 +20120,7 @@ e.g.   a big/dirty/family secret
 
 e.g.   know/keep a secret  
 
-# 1817. debt [det]  n. 债务  
+ 1817. debt [det]  n. 债务  
 
 ◆ 可数不可数皆可  
 
@@ -20130,7 +20132,7 @@ $\spadesuit$  动词伴侣
 
 e.g.   have/pay off/repay a debt  
 
-# 1818. rare [reə(r)]  adj. 少见的  
+ 1818. rare [reə(r)]  adj. 少见的  
 
 $\spadesuit$ 做表语或定语  
 
@@ -20142,7 +20144,7 @@ $\spadesuit$ 常规句式
 
 e.g.   it is rare for sb to do sth  
 
-# 1819. tank [tæŋk]  n. 容器  
+ 1819. tank [tæŋk]  n. 容器  
 
 $\spadesuit$ 可数名词  
 
@@ -20151,7 +20153,7 @@ e.g.   a water/oil/fish tank
 
 $\spadesuit$ 另有【坦克】之意  
 
-# 1820. nurse [n ɜ ː s] n. 护士  
+ 1820. nurse [n ɜ ː s] n. 护士  
 
 ◆ 可数名词  
 
@@ -20163,7 +20165,7 @@ e.g.   a student/male/trained nurse
 
 e.g.   be/become a nurse  
 
-# 1821. coverage [ˈkʌvərɪdʒ] n. 报道  
+ 1821. coverage [ˈkʌvərɪdʒ] n. 报道  
 
 $\spadesuit$ 不可数名词：抽象  
 
@@ -20175,7 +20177,7 @@ e.g.   media/press/TV coverage
 
 e.g.   give/get/receive coverage  
 
-# 1822.   opposition [ ˌɒ p əˈ z ɪʃ n] n. 反对  
+ 1822.   opposition [ ˌɒ p əˈ z ɪʃ n] n. 反对  
 
 ◆ oppose (v.)  $^+$   tion (n.)  
 
@@ -20187,7 +20189,7 @@ e.g.   strong/direct/growing opposition
 
 e.g.   face/meet opposition  
 
-# 1823. aside [əˈsaɪd] adv. 朝侧面  
+ 1823. aside [əˈsaɪd] adv. 朝侧面  
 
 $\spadesuit$ 副词：修饰动词  
 $\spadesuit$  动词伴侣  
@@ -20198,7 +20200,7 @@ e.g.   step/stand/pull aside
 
 e.g.   put/set sth aside  
 
-# 1824. anywhere [ˈeniweə(r)] adv. 任何地方  
+ 1824. anywhere [ˈeniweə(r)] adv. 任何地方  
 
 ◆ 副词：修饰动词  
 
@@ -20208,7 +20210,7 @@ e.g.   go/live/work anywhere
 
 ◆ 近义词：  anyplace      adv.  
 
-# 1825. bond [bɒnd] n. 关系  
+ 1825. bond [bɒnd] n. 关系  
 
 $\spadesuit$ 可数名词  
 
@@ -20220,7 +20222,7 @@ e.g.   a strong/close/natural bond
 
 e.g.   have/create a bond  
 
-# 1826.   file [fa ɪ l] v. 归档  
+ 1826.   file [fa ɪ l] v. 归档  
 
 ◆ 及物动词：A file B.  
 
@@ -20239,7 +20241,7 @@ $\spadesuit$  动词伴侣
 
 e.g.   give/bring pleasure  
 
-# 1828.   master [ ˈ mɑ ː st ə (r)] n. 大师  
+ 1828.   master [ ˈ mɑ ː st ə (r)] n. 大师  
 
 $\spadesuit$ 可数名词  
 
@@ -20249,7 +20251,7 @@ e.g.   a chess/yoga/great master
 
 $\spadesuit$ 另有【主人】之意 e.g.   serve/obey a master  
 
-# 1829. era [ˈɪərə] n. 年代  
+ 1829. era [ˈɪərə] n. 年代  
 
 ◆ 可数名词  
 
@@ -20261,7 +20263,7 @@ e.g.   a new/golden/different era
 
 e.g.   mark the end/beginning of an era  
 
-# 1830.   requirement [r ɪˈ kwa ɪə m ə nt] n. 要求  
+ 1830.   requirement [r ɪˈ kwa ɪə m ə nt] n. 要求  
 
 $\spadesuit$ 可数名词  
 
@@ -20272,7 +20274,7 @@ e.g.   a basic/special/formal …
 $\spadesuit$  动词伴侣  
 e.g.   have/meet a requirement  
 
-# 1831.   check   [t ʃ ek]   n. 检查  
+ 1831.   check   [t ʃ ek]   n. 检查  
 
 ◆  常用可数  
 
@@ -20284,7 +20286,7 @@ e.g.   a regular/careful check
 
 e.g.   make/do a check  
 
-# 1832.   stand   [stænd]   n. 支架  
+ 1832.   stand   [stænd]   n. 支架  
 
 $\spadesuit$  可数名词  
 
@@ -20308,7 +20310,7 @@ $\spadesuit$   动词伴侣
 
 e.g.   have/find fun  
 
-# 1834.   expectation   [ ˌ ekspek ˈ te ɪʃ n]   n. 期待  
+ 1834.   expectation   [ ˌ ekspek ˈ te ɪʃ n]   n. 期待  
 
 $\spadesuit$  可数不可数皆可  
 
@@ -20317,7 +20319,7 @@ e.g.   high/low/social expectations
 
 ◆  动词伴侣  e.g.   have expectations  
 
-# 1835.   wing   [w ɪ ŋ]   n. 翅膀  
+ 1835.   wing   [w ɪ ŋ]   n. 翅膀  
 
 $\spadesuit$  可数名词  
 
@@ -20329,7 +20331,7 @@ e.g.   long/short/wide wings
 
 e.g.   open/close/flap one’s wings  
 
-# 1836.  separate   [ˈseprət]   adj. 分开的  
+ 1836.  separate   [ˈseprət]   adj. 分开的  
 
 ◆  做表语或定语  
 
@@ -20364,7 +20366,7 @@ e.g.   clear a table/room/road
 
      A clear B from C.   A clear C of B.  
 
-# 1839.   struggle   [ ˈ str ʌ ɡl]   n. 斗争  
+ 1839.   struggle   [ ˈ str ʌ ɡl]   n. 斗争  
 
 ◆  可数名词  
 
@@ -20388,7 +20390,7 @@ e.g.   a mean man/woman/thing
 
 e.g.   fairly/extremely mean  
 
-# 1841.   somewhat   [ ˈ s ʌ mw ɒ  t]   adv. 有些  
+ 1841.   somewhat   [ ˈ s ʌ mw ɒ  t]   adv. 有些  
 
 ◆  副词：修饰形容词或动词  
 
@@ -20399,7 +20401,7 @@ e.g.   somewhat higher/bigger
 ◆  动词伴侣  
 e.g.   change/improve somewhat  
 
-# 1842.   pour   [p ɔː (r)]   v. 倾倒  
+ 1842.   pour   [p ɔː (r)]   v. 倾倒  
 
 ◆  及物不及物皆可 
 
@@ -20423,7 +20425,7 @@ e.g.   stir the soup/tea/coffee
 
 $\spadesuit$   副词伴侣：… well/gently.  
 
-# 1844.   judgment   ['d ʒʌ d ʒ m ə nt]   n. 判断  
+ 1844.   judgment   ['d ʒʌ d ʒ m ə nt]   n. 判断  
 
 ◆  可数不可数皆可  
 
@@ -20435,7 +20437,7 @@ $\spadesuit$   动词伴侣
 
 e.g.   make/form a judgment  
 
-# 1845.   clean   [kli ː n]   v. 打扫  
+ 1845.   clean   [kli ː n]   v. 打扫  
 
 $\spadesuit$  常用及物  
 
@@ -20444,7 +20446,7 @@ e.g.  clean a table/room/shirt
 
 ◆  副词伴侣 e.g.  clean sth carefully/thoroughly  
 
-# 1846.   except   [ ɪ k ˈ sept]   conj. 除了  
+ 1846.   except   [ ɪ k ˈ sept]   conj. 除了  
 
 $\spadesuit$   连词   $^+$   整句  
 
@@ -20454,7 +20456,7 @@ e.g.   I know nothing except that …
 
 $\spadesuit$  类型2： except if/when/where …  
 
-# 1847.   beer   [b ɪə (r)]   n. 啤酒  
+ 1847.   beer   [b ɪə (r)]   n. 啤酒  
 
 $\spadesuit$  不可数名词：不可分割  
 
@@ -20466,7 +20468,7 @@ e.g.   good/cheap/strong beer
 
 e.g.   have/drink/sip beer  
 
-# 1848.   English   [ˈɪŋɡlɪʃ]   n. 英语  
+ 1848.   English   [ˈɪŋɡlɪʃ]   n. 英语  
 
 ◆  专有名词  
 
@@ -20478,7 +20480,7 @@ e.g.   good/poor/fluent English
 
 e.g.   use/speak/learn English  
 
-# 1849.   reference   [ ˈ refr ə ns]   n. 提及  
+ 1849.   reference   [ ˈ refr ə ns]   n. 提及  
 
 ◆  可数不可数皆可  
 $\spadesuit$   形容词伴侣  
@@ -20501,7 +20503,7 @@ e.g.   happy/angry/crocodile tears
 
 e.g.   there are tears in one’s eyes  
 
-# 1851.   doubt   [da ʊ  t]   n. 怀疑  
+ 1851.   doubt   [da ʊ  t]   n. 怀疑  
 
 $\spadesuit$  不可数名词  
 
@@ -20513,7 +20515,7 @@ e.g.   real/serious/slight doubt
 
 e.g.   have doubt about sth  
 
-# 1852.   grant   [ɡrɑ ː nt]   v. 许给  
+ 1852.   grant   [ɡrɑ ː nt]   v. 许给  
 
 $\spadesuit$  及物动词：A grant B.  
 
@@ -20524,7 +20526,7 @@ A grant B to C.    A grant C B.
 $\spadesuit$  常用被动  
 
 B is granted.  
-# 1853.  seriously   [ ˈ s ɪə ri ə sli]   adv. 严重地  
+ 1853.  seriously   [ ˈ s ɪə ri ə sli]   adv. 严重地  
 
 $\spadesuit$  副词：修饰形容词或动词  
 
@@ -20536,7 +20538,7 @@ e.g.   seriously ill/damaged/wrong
 
 e.g.   think/consider seriously  
 
-# 1854.   account   [ əˈ ka ʊ  nt]   v. 解释  
+ 1854.   account   [ əˈ ka ʊ  nt]   v. 解释  
 
 ◆  固定结构：A account for B.  
 
@@ -20548,7 +20550,7 @@ e.g.    Electronic goods
 
         account for   $35\%$   of our exports.  
 
-# 1855.   minister   [ˈmɪnɪstə(r)]   n. 部长  
+ 1855.   minister   [ˈmɪnɪstə(r)]   n. 部长  
 
 ◆  可数名词  
 
@@ -20560,7 +20562,7 @@ e.g.   the defense/finance/foreign …
 
 e.g.   be/become/serve as a minister  
 
-# 1856.   totally   [ ˈ t əʊ  t ə li]   adv. 完全地  
+ 1856.   totally   [ ˈ t əʊ  t ə li]   adv. 完全地  
 
 $\spadesuit$  副词：修饰形容词或动词  
 
@@ -20583,7 +20585,7 @@ e.g.  a great/true/real hero
 
 e.g.  be/become a hero  
 
-# 1858.   industrial   [ɪnˈdʌstriəl]   adj. 工业的  
+ 1858.   industrial   [ɪnˈdʌstriəl]   adj. 工业的  
 
 ◆  常做定语  
 
@@ -20605,7 +20607,7 @@ $\spadesuit$   动词伴侣
 
 e.g.   clouds gather/clear  
 
-# 1860.   stretch   [stret ʃ ]     $\pmb{\mathsf{v}}.$   伸展  
+ 1860.   stretch   [stret ʃ ]     $\pmb{\mathsf{v}}.$   伸展  
 
 $\spadesuit$   及物不及物皆可  
 
@@ -20626,7 +20628,7 @@ e.g.   a lucky/real/likely winner
 
 ◆  反义词： loser    n.  
 
-# 1862.   volume   [ ˈ v ɒ  lju ː m]   n. 容量  
+ 1862.   volume   [ ˈ v ɒ  lju ː m]   n. 容量  
 
 $\spadesuit$  不可数或常用单数  
 
@@ -20661,7 +20663,7 @@ e.g.   corn/rose/pumpkin seeds
 
 e.g.   plant/look after seeds  
 
-# 1865.   surprised   [səˈpraɪzd]   adj. 惊讶的  
+ 1865.   surprised   [səˈpraɪzd]   adj. 惊讶的  
 
 ◆  常做表语  
 
@@ -20673,7 +20675,7 @@ $\spadesuit$  从句结构
 
 e.g.   be surprised that/when …  
 
-# 1866.   rest   [rest]   v. 休息  
+ 1866.   rest   [rest]   v. 休息  
 
 $\spadesuit$   及物不及物皆可 
 
@@ -20685,7 +20687,7 @@ e.g.   rest your legs/eyes/feet
 
 ◆  介词伴侣： A rest B on C.  
 
-# 1867.   fashion   [ ˈ fæ ʃ n]   n. 时尚  
+ 1867.   fashion   [ ˈ fæ ʃ n]   n. 时尚  
 
 $\spadesuit$  可数不可数皆可  
 
@@ -20696,7 +20698,7 @@ e.g.  a fashion show/model/designer
 $\spadesuit$   介词伴侣  
 
 e.g.   in/out of fashion  
-# 1868.   pepper   [ ˈ pep ə (r)]   n. 胡椒  
+ 1868.   pepper   [ ˈ pep ə (r)]   n. 胡椒  
 
 $\spadesuit$  可数不可数皆可  
 
@@ -20708,7 +20710,7 @@ e.g.   black/white pepper
 
 e.g.   a red/green/yellow pepper  
 
-# 1869.   separate   [ ˈ sep ə re ɪ t]   v. 分开  
+ 1869.   separate   [ ˈ sep ə re ɪ t]   v. 分开  
 
 ◆  及物不及物皆可  
 
@@ -20720,7 +20722,7 @@ e.g.   separate the eggs/rooms/twins
 
 ◆  介词伴侣：A separate B from/into C.  
 
-# 1870.   busy   [ ˈ b ɪ zi]   adj. 忙碌的  
+ 1870.   busy   [ ˈ b ɪ zi]   adj. 忙碌的  
 
 ◆  做表语或定语  
 
@@ -20732,7 +20734,7 @@ e.g.   a busy man/day/schedule
 
 e.g.   be/become/get busy  
 
-# 1871.   intervention   [ ˌɪ nt əˈ ven ʃ n]   n. 干涉  
+ 1871.   intervention   [ ˌɪ nt əˈ ven ʃ n]   n. 干涉  
 
 $\spadesuit$  不可数名词  
 
@@ -20743,7 +20745,7 @@ $\spadesuit$   动词伴侣
 
 e.g.   require/oppose intervention  
 
-# 1872.   copy   [ˈkɒ pi]   n. 副本  
+ 1872.   copy   [ˈkɒ pi]   n. 副本  
 
 $\spadesuit$  可数名词： a copy of sth  
 
@@ -20755,7 +20757,7 @@ e.g.   a good/bad/paper copy
 
 e.g.   make/save/send a copy of sth  
 
-# 1873.   tip   [t ɪ p]   n. 末端  
+ 1873.   tip   [t ɪ p]   n. 末端  
 
 $\spadesuit$   常用单数：the tip of sth  
 
@@ -20767,7 +20769,7 @@ e.g.   the tip of a pencil/knife/nose
 
 e.g.   a simple/useful tip  
 
-# 1874.   cheap   [t ʃ i ː p]   adj. 便宜的  
+ 1874.   cheap   [t ʃ i ː p]   adj. 便宜的  
 
 ◆  做表语或定语  
 
@@ -20798,7 +20800,7 @@ e.g.   cite an article/author/case
 
 e.g.   A cite B as C.  
 
-# 1877.   welfare   [ ˈ welfe ə (r)]   n. 福祉  
+ 1877.   welfare   [ ˈ welfe ə (r)]   n. 福祉  
 
 ◆  不可数：健康 $^+$ 幸福  
 
@@ -20810,7 +20812,7 @@ e.g.   human/child/animal welfare
 
 e.g.   improve/enhance welfare  
 
-# 1878.   vegetable   [ ˈ ved ʒ t ə bl]   n. 蔬菜  
+ 1878.   vegetable   [ ˈ ved ʒ t ə bl]   n. 蔬菜  
 
 ◆  常用复数： vegetables  
 
@@ -20833,7 +20835,7 @@ e.g.   gray hair/trousers/eyes
 
 e.g.   go/turn gray  
 
-# 1880.   dish   [d ɪʃ ]   n. 一道菜  
+ 1880.   dish   [d ɪʃ ]   n. 一道菜  
 
 ◆  可数名词  
 
@@ -20845,7 +20847,7 @@ e.g.   a hot/cold/delicious dish
 
 e.g.   make/cook/serve a dish  
 
-# 1881.   beach   [bi ː t ʃ ]   n. 海滩  
+ 1881.   beach   [bi ː t ʃ ]   n. 海滩  
 
 ◆  可数名词  
 
@@ -20857,7 +20859,7 @@ e.g.   a golden/sandy/quiet beach
 
 e.g.   go to/walk along the beach  
 
-# 1882.   improvement   [ ɪ m ˈ pru ː vm ə nt]   n. 改进  
+ 1882.   improvement   [ ɪ m ˈ pru ː vm ə nt]   n. 改进  
 
 ◆  可数不可数皆可  
 
@@ -20868,7 +20870,7 @@ e.g.   a big/great/minor improvement
 ◆  动词伴侣  
 e.g.   make improvements  
 
-# 1883.   everywhere   [ ˈ evriwe ə (r)]   adv. 到处  
+ 1883.   everywhere   [ ˈ evriwe ə (r)]   adv. 到处  
 
 ◆  副词：修饰动词  
 
@@ -20878,7 +20880,7 @@ e.g.   look/search/travel everywhere
 
 ◆  同义词：  everyplace    adv.  
 
-# 1884.   opening   [ ˈəʊ  pn ɪ ŋ]   n. 开幕  
+ 1884.   opening   [ ˈəʊ  pn ɪ ŋ]   n. 开幕  
 
 $\spadesuit$   常用单数：the opening of sth  
 
@@ -20890,7 +20892,7 @@ e.g.   a successful/grand opening
 
 e.g.   a large/wide/small opening  
 
-# 1885.   overall   [ˌəʊ vərˈɔːl]   adj. 整体的  
+ 1885.   overall   [ˌəʊ vərˈɔːl]   adj. 整体的  
 
 ◆  常做定语  
 
@@ -20900,7 +20902,7 @@ e.g.   the overall effect/cost/picture
 
 ◆  较为正式  
 
-# 1886.   divide   [d ɪˈ va ɪ d]   v. 划分  
+ 1886.   divide   [d ɪˈ va ɪ d]   v. 划分  
 
 ◆  及物不及物皆可 
 
@@ -20911,7 +20913,7 @@ $\spadesuit$  名词伴侣
 e.g.   divide the cake/room/books  
 $\spadesuit$  介词伴侣： A divide B into C.  
 
-# 1887.   initial   [ɪˈnɪʃl]   adj. 开始的  
+ 1887.   initial   [ɪˈnɪʃl]   adj. 开始的  
 
 ◆  常做定语  
 
@@ -20921,7 +20923,7 @@ e.g.   the initial problem/response/…
 
 ◆  较为正式  
 
-# 1888.   terrible   [ˈterəbl]   adj. 糟糕的  
+ 1888.   terrible   [ˈterəbl]   adj. 糟糕的  
 
 $\spadesuit$  做表语或定语  
 
@@ -20943,7 +20945,7 @@ e.g.   oppose an idea/plan/proposal
 
 e.g.   A strongly/openly oppose B.  
 
-# 1890.   contemporary  [k ə n ˈ tempr ə ri]   adj. 当代的  
+ 1890.   contemporary  [k ə n ˈ tempr ə ri]   adj. 当代的  
 
 ◆  常做定语  
 
@@ -20952,7 +20954,7 @@ $\spadesuit$  名词伴侣
 e.g.   contemporary art/dance/life  
 
 ◆  大众版：  modern   adj.  
-# 1891.   route   [ru ː t]   n. 路径  
+ 1891.   route   [ru ː t]   n. 路径  
 
 ◆  可数名词  
 
@@ -20964,7 +20966,7 @@ $\spadesuit$   动词伴侣
 
 e.g.   take/follow a route  
 
-# 1892.   multiple   [ˈmʌltɪpl]   adj. 多个的  
+ 1892.   multiple   [ˈmʌltɪpl]   adj. 多个的  
 
 ◆  常做定语  
 
@@ -20974,7 +20976,7 @@ e.g.   multiple choices/meanings/injuries
 
 ◆  近义词： many    det.  
 
-# 1893.  essential   [ɪˈsenʃl]   adj. 基本的  
+ 1893.  essential   [ɪˈsenʃl]   adj. 基本的  
 
 $\spadesuit$  做表语或定语  
 
@@ -20986,7 +20988,7 @@ e.g.   an essential part/tool/component
 
 e.g.   it is essential to do sth  
 
-# 1894.   question   [ ˈ kwest ʃə n]   v. 质疑  
+ 1894.   question   [ ˈ kwest ʃə n]   v. 质疑  
 
 ◆  及物动词：A question B.  
 
@@ -20995,7 +20997,7 @@ $\spadesuit$  名词伴侣
 e.g.   question the ability/decision  
 
 ◆  近义词：  ask    v.  
-# 1895.   league   [li ː ɡ]   n. 联盟  
+ 1895.   league   [li ː ɡ]   n. 联盟  
 
 ◆  可数名词  
 
@@ -21007,7 +21009,7 @@ e.g.   a major/minor/local league
 
 e.g.   enter/join a league  
 
-# 1896.  criminal   [ ˈ kr ɪ m ɪ nl]   adj. 犯罪的  
+ 1896.  criminal   [ ˈ kr ɪ m ɪ nl]   adj. 犯罪的  
 
 ◆  常做定语  
 
@@ -21040,7 +21042,7 @@ e.g.   core business/values/issues
 ◆  固定结构  
 e.g.   A form the core of B.  
 
-# 1899.   upper   [ˈʌpə(r)]   adj. 上面的  
+ 1899.   upper   [ˈʌpə(r)]   adj. 上面的  
 
 ◆  常做定语  
 
@@ -21062,7 +21064,7 @@ e.g.   rush to/into/out of …
 
 e.g.   We rushed the kids to school.  
 
-# 1901.   necessarily   [ ˌ nes əˈ ser ə li]   adv. 一定  
+ 1901.   necessarily   [ ˌ nes əˈ ser ə li]   adv. 一定  
 
 ◆  否定连用：not necessarily  
 
@@ -21074,7 +21076,7 @@ e.g.   not necessarily true/right/wrong
 
 e.g.   Not necessarily.  
 
-# 1902.   specifically   [sp əˈ s ɪ f ɪ kli]   adv. 专门  
+ 1902.   specifically   [sp əˈ s ɪ f ɪ kli]   adv. 专门  
 
 $\spadesuit$  修饰动词或整句  
 
@@ -21083,7 +21085,7 @@ $\spadesuit$   动词伴侣
 e.g.   specifically ask/choose/mention   $\spadesuit$   句式副词  
 e.g.   Specifically, A do B.  
 
-# 1903.   tired   [ ˈ ta ɪə d]   adj. 疲惫的  
+ 1903.   tired   [ ˈ ta ɪə d]   adj. 疲惫的  
 
 $\spadesuit$  做表语或定语  
 
@@ -21095,7 +21097,7 @@ e.g.   tired eyes/arms/legs
 
 e.g.   be/look/feel tired  
 
-# 1904.   rise   [ra ɪ z]   n. 升起  
+ 1904.   rise   [ra ɪ z]   n. 升起  
 
 $\spadesuit$  可数名词  
 
@@ -21130,7 +21132,7 @@ e.g.   employ a nanny/doorman/worker
 
 e.g.   employ an approach/method  
 
-# 1907.   holiday   [ˈhɒ lədi]   n. 假日  
+ 1907.   holiday   [ˈhɒ lədi]   n. 假日  
 
 ◆  可数名词  
 
@@ -21142,7 +21144,7 @@ e.g.   a nice/family/foreign holiday
 
 e.g.   have/take a holiday  
 
-# 1908.   dance   [dɑ ː ns]   v. 跳舞  
+ 1908.   dance   [dɑ ː ns]   v. 跳舞  
 
 $\spadesuit$  不及物动词：A dance.  
 
@@ -21154,7 +21156,7 @@ e.g.   dance well/slowly/together
 
 e.g.   dance with/to/for …  
 
-# 1909.   vast   [vɑːst]   adj. 巨大的  
+ 1909.   vast   [vɑːst]   adj. 巨大的  
 
 $\spadesuit$  做表语或定语  
 
@@ -21173,7 +21175,7 @@ e.g.   a special/formal resolution
 
 e.g.   make a resolution to do sth  
 
-# 1911.   household   [ ˈ ha ʊ  sh əʊ  ld]   n. 一户  
+ 1911.   household   [ ˈ ha ʊ  sh əʊ  ld]   n. 一户  
 
 ◆  可数名词  
 
@@ -21183,7 +21185,7 @@ e.g.   the average/urban/rural household
 
 ◆  近义词：  family    n.  
 
-# 1912.   apart   [ əˈ pɑ ː t]   adv. 分开  
+ 1912.   apart   [ əˈ pɑ ː t]   adv. 分开  
 
 $\spadesuit$   含义：二者相隔  
 
@@ -21195,7 +21197,7 @@ e.g.   three miles/six feet apart
 
 e.g.   a week/two months apart  
 
-# 1913.   witness   [ˈwɪtnəs]   n. 目击者  
+ 1913.   witness   [ˈwɪtnəs]   n. 目击者  
 
 $\spadesuit$  可数名词  
 
@@ -21206,7 +21208,7 @@ e.g.   a key/reliable witness
 $\spadesuit$   动词伴侣  
 
 e.g.   call/question a witness  
-# 1914.   match    [mæt ʃ ]   v. 匹配  
+ 1914.   match    [mæt ʃ ]   v. 匹配  
 
 ◆  及物不及物皆可 
 
@@ -21218,7 +21220,7 @@ e.g.   match the dish/dress/background
 
 ◆  副词伴侣：  perfectly match  
 
-# 1915.   barely   [ ˈ be ə li]   adv. 几乎不  
+ 1915.   barely   [ ˈ be ə li]   adv. 几乎不  
 
 $\spadesuit$  副词：修饰动词或形容词  
 
@@ -21230,7 +21232,7 @@ e.g.   barely write/read/walk
 
 e.g.   barely able/audible/visible  
 
-# 1916.   sector   [ ˈ sekt ə (r)]   n. 领域  
+ 1916.   sector   [ ˈ sekt ə (r)]   n. 领域  
 
 ◆  可数名词  
 
@@ -21242,7 +21244,7 @@ e.g.   an important/key/growing sector
 
 e.g.   the private/public sector  
 
-# 1917.   representative   [ˌreprɪˈzentətɪv]   n. 代表  
+ 1917.   representative   [ˌreprɪˈzentətɪv]   n. 代表  
 
 $\spadesuit$  可数名词  
 
@@ -21265,7 +21267,7 @@ e.g.   lack knowledge/experience
 
 e.g.   seem/appear to lack sth  
 
-# 1919.   beneath   [bɪˈniːθ]   prep. 在下方  
+ 1919.   beneath   [bɪˈniːθ]   prep. 在下方  
 
 $\spadesuit$   介词   $^+$   名词  
 
@@ -21275,7 +21277,7 @@ e.g.   beneath the feet/waves/ground
 
 ◆  大众版： under    prep.  
 
-# 1920.  beside   [b ɪˈ sa ɪ d]   prep. 在旁边  
+ 1920.  beside   [b ɪˈ sa ɪ d]   prep. 在旁边  
 
 $\spadesuit$   介词：be (v.) + side (n.)  
 
@@ -21287,7 +21289,7 @@ $\spadesuit$   动词伴侣
 
 e.g.   sit/stand beside …  
 
-# 1921.   incident   [ˈɪnsɪdənt]   n. 事件  
+ 1921.   incident   [ˈɪnsɪdənt]   n. 事件  
 
 $\spadesuit$  可数名词【新闻】  
 
@@ -21296,7 +21298,7 @@ e.g.   a major/minor/related incident
 
 ◆  动词伴侣  e.g.   an incident happens  
 
-# 1922.   limited   [ˈlɪmɪtɪd]   adj. 有限的  
+ 1922.   limited   [ˈlɪmɪtɪd]   adj. 有限的  
 
 $\spadesuit$  做表语或定语  
 
@@ -21308,7 +21310,7 @@ $\spadesuit$  副词伴侣
 
 e.g.   very/quite/rather limited  
 
-# 1923.   proud   [pra ʊ  d]   adj. 骄傲的  
+ 1923.   proud   [pra ʊ  d]   adj. 骄傲的  
 
 ◆  做表语或定语  
 
@@ -21382,7 +21384,7 @@ e.g.   emphasize a point/fact/difference
 
 e.g.   emphasize that/how …  
 
-# 1930.   experiment   [ ɪ k ˈ sper ɪ m ə nt]   n. 实验  
+ 1930.   experiment   [ ɪ k ˈ sper ɪ m ə nt]   n. 实验  
 
 ◆  可数名词  
 
@@ -21415,7 +21417,7 @@ e.g.   a time/letter/car bomb
 $\spadesuit$   动词伴侣  
 
 e.g.   make/plant/drop a bomb  
-# 1933.   enormous   [ ɪˈ n ɔː m ə s]   adj. 巨大的  
+ 1933.   enormous   [ ɪˈ n ɔː m ə s]   adj. 巨大的  
 
 ◆  做表语或定语  
 
@@ -21466,7 +21468,7 @@ e.g.   a chemical/software engineer
 
 e.g.   an engineer designs/builds sth  
 
-# 1938.   wheel   [wi ː l]   n. 轮子  
+ 1938.   wheel   [wi ː l]   n. 轮子  
 
 ◆  可数名词  
 
@@ -21478,7 +21480,7 @@ e.g.   a front/back wheel
 
 e.g.   take/turn/grab the wheel  
 
-# 1939.   decline   [d ɪˈ kla ɪ n]   v. 下降  
+ 1939.   decline   [d ɪˈ kla ɪ n]   v. 下降  
 
 ◆  及物不及物皆可  
 
@@ -21490,7 +21492,7 @@ e.g.   the economy/income/profit declines
 
 e.g.   decline an offer/invitation  
 
-# 1940.   invest   [ ɪ n ˈ vest]   v. 投资  
+ 1940.   invest   [ ɪ n ˈ vest]   v. 投资  
 
 ◆  及物不及物皆可  
 
@@ -21501,7 +21503,7 @@ $\spadesuit$  名词伴侣
 e.g.   invest money/funds/cash  
 $\spadesuit$  介词伴侣：  A invest B in C.  
 
-# 1941.   promise   [ ˈ pr ɒ  m ɪ s]   n. 承诺  
+ 1941.   promise   [ ˈ pr ɒ  m ɪ s]   n. 承诺  
 
 ◆  可数名词  
 
@@ -21513,7 +21515,7 @@ e.g.   a big/empty promise
 
 e.g.   make/break a promise  
 
-# 1942.   cable   [ ˈ ke ɪ bl]   n. 线缆  
+ 1942.   cable   [ ˈ ke ɪ bl]   n. 线缆  
 
 $\spadesuit$  可数名词  
 
@@ -21525,7 +21527,7 @@ e.g.   an electric/steel/telephone cable
 
 e.g.   lay/run a cable  
 
-# 1943.   towards   [t əˈ w ɔː dz]   prep. 朝着  
+ 1943.   towards   [t əˈ w ɔː dz]   prep. 朝着  
 
 ◆  介词   $^+$   名词  
 
@@ -21535,7 +21537,7 @@ e.g.   go/come/move towards sth
 
 ◆  大众版：  to   prep.  
 
-# 1944.   expose   [ ɪ k ˈ sp əʊ  z]   v. 暴露  
+ 1944.   expose   [ ɪ k ˈ sp əʊ  z]   v. 暴露  
 
 $\spadesuit$   及物动词： A expose B.  
 
@@ -21554,7 +21556,7 @@ e.g.   a rural area/life/setting
 
 ◆  反义词：  urban    adj.  
 
-# 1946.   narrow   [ˈnærəʊ ]   adj. 狭窄的  
+ 1946.   narrow   [ˈnærəʊ ]   adj. 狭窄的  
 
 $\spadesuit$  做表语或定语  
 
@@ -21576,7 +21578,7 @@ e.g.   fresh/sour/thick cream
 
 e.g.   day/night/face cream  
 
-# 1948.   secretary   [ ˈ sekr ə tri]   n. 秘书  
+ 1948.   secretary   [ ˈ sekr ə tri]   n. 秘书  
 
 $\spadesuit$  可数名词  
 
@@ -21599,7 +21601,7 @@ e.g.   a heavy/high/open gate
 
 e.g.   open/close a gate  
 
-# 1950.   solid   [ˈsɒ lɪd]   adj. 固态的  
+ 1950.   solid   [ˈsɒ lɪd]   adj. 固态的  
 
 ◆  做表语或定语  
 
@@ -21623,7 +21625,7 @@ e.g.   a high/low/green hill
 
 e.g.   see/go up/climb a hill  
 
-# 1952.   typically     [ ˈ t ɪ p ɪ kli]     adv. 典型地  
+ 1952.   typically     [ ˈ t ɪ p ɪ kli]     adv. 典型地  
 
 ◆  副词：修饰动词或整句  
 $\spadesuit$   动词伴侣  
@@ -21658,7 +21660,7 @@ e.g.   tall/short/wet grass
 
 e.g.   eat/cut/mow the grass  
 
-# 1955.   unfortunately     [ʌnˈfɔːtʃənətli]    adv. 不幸地  
+ 1955.   unfortunately     [ʌnˈfɔːtʃənətli]    adv. 不幸地  
 
 $\spadesuit$  副词：修饰整句  
 
@@ -21669,7 +21671,7 @@ $\spadesuit$  副词：修饰整句
 A do B, unfortunately. 
 
  ◆  同源： fortunate   adj.  
-# 1956.   hat     [hæt]    n. 帽子  
+ 1956.   hat     [hæt]    n. 帽子  
 
 ◆  可数名词  
 
@@ -21681,7 +21683,7 @@ e.g.  a nice/fine/lovely hat
 
 e.g.   wear/put on/take off a hat  
 
-# 1957.   legislation     [ ˌ led ʒɪ s ˈ le ɪʃ n]    n. 法律  
+ 1957.   legislation     [ ˌ led ʒɪ s ˈ le ɪʃ n]    n. 法律  
 
 ◆  不可数名词：抽象  
 
@@ -21712,7 +21714,7 @@ $\spadesuit$  名词伴侣
 e.g.  either side/hand/answer  
 
 ◆  与neither 有亲戚关系  
-# 1960.   celebrate     [ ˈ sel ɪ bre ɪ t]     v. 庆祝  
+ 1960.   celebrate     [ ˈ sel ɪ bre ɪ t]     v. 庆祝  
 
 ◆  及物不及物皆可 
 
@@ -21818,7 +21820,7 @@ e.g.   a secret agent/weapon/place
 
 e.g.   keep sth secret  
 
-# 1969.   reject     [r ɪˈ d ʒ ekt]     v. 拒绝接受  
+ 1969.   reject     [r ɪˈ d ʒ ekt]     v. 拒绝接受  
 
 $\spadesuit$   及物动词：A reject B.  
 
@@ -21841,7 +21843,7 @@ e.g.   real/great/unique talent
 $\spadesuit$   动词伴侣  
 
 e.g.   have/show talent  
-# 1971.   taste     [te ɪ st]     n. 品味  
+ 1971.   taste     [te ɪ st]     n. 品味  
 
 $\spadesuit$  可数不可数皆可  
 
@@ -21853,7 +21855,7 @@ e.g.   a spicy/bitter/sour taste
 
 e.g.   have a adj. taste  
 
-# 1972.   characteristic     [ ˌ kær ə kt əˈ r ɪ st ɪ k]     n. 特点  
+ 1972.   characteristic     [ ˌ kær ə kt əˈ r ɪ st ɪ k]     n. 特点  
 
 ◆  可数名词  
 
@@ -22029,7 +22031,7 @@ e.g.   go/come/arrive first
 
 e.g.   First, we should have a look …  
 
-# 1988.   sharp     [ ʃ ɑ ː p]     adj. 尖利的  
+ 1988.   sharp     [ ʃ ɑ ː p]     adj. 尖利的  
 
 ◆  做表语或定语  
 
@@ -22062,7 +22064,7 @@ e.g.   lower the price/cost/speed
 
 $\spadesuit$  近义词：  go down       v.  
 
-# 1991.   approve     [ əˈ pru ː v]     v. 批准  
+ 1991.   approve     [ əˈ pru ː v]     v. 批准  
 
 ◆  及物动词： A approve B.  
 
@@ -22095,7 +22097,7 @@ e.g.   a large/small/college campus
 $\spadesuit$  固定结构  
 
 e.g.   campus life  
-# 1994.   proper    [ˈprɒ pə(r)]    adj. 合适的  
+ 1994.   proper    [ˈprɒ pə(r)]    adj. 合适的  
 
 ◆  做表语或定语  
 
@@ -22107,7 +22109,7 @@ $\spadesuit$  固定句式
 
 e.g.   it is proper to do sth  
 
-# 1995.   live     [laɪv]     adj. 现场的  
+ 1995.   live     [laɪv]     adj. 现场的  
 
 ◆  常做定语  
 

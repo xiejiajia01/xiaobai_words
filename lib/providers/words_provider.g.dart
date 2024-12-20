@@ -38,12 +38,11 @@ final searchQueryProvider =
 );
 
 typedef _$SearchQuery = AutoDisposeNotifier<String>;
-String _$wordsHash() => r'81e965da73c08662a66c1220345bd7a257f9094f';
+String _$wordsHash() => r'5495aed13ddddc3162922322cea3a9a10d9df37e';
 
 /// See also [Words].
 @ProviderFor(Words)
-final wordsProvider =
-    AutoDisposeAsyncNotifierProvider<Words, List<Word>>.internal(
+final wordsProvider = AsyncNotifierProvider<Words, List<Word>>.internal(
   Words.new,
   name: r'wordsProvider',
   debugGetCreateSourceHash:
@@ -52,6 +51,6 @@ final wordsProvider =
   allTransitiveDependencies: null,
 );
 
-typedef _$Words = AutoDisposeAsyncNotifier<List<Word>>;
+typedef _$Words = AsyncNotifier<List<Word>>;
 // ignore_for_file: type=lint
 // ignore_for_file: subtype_of_sealed_class, invalid_use_of_internal_member, invalid_use_of_visible_for_testing_member, deprecated_member_use_from_same_package
